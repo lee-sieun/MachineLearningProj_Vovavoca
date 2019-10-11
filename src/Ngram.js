@@ -1,5 +1,6 @@
 //N_gram 을 이용한 K_VOCA_CLUSTERING
 
+
 module.exports = () => {
     function KVC(input, dataset, k) {
         let sim_set = []
@@ -46,7 +47,6 @@ module.exports = () => {
             set.push(str[i] + str[i + 1])
         }
         set.push(str[str.length - 1])
-
         return set;
     }
 }

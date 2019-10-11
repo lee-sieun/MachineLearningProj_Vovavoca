@@ -3,11 +3,18 @@ const router = express.Router();
 const algorithm = require('../src/Ngram');
 const fs = require('fs');
 
+
 var meanArr= new Array();
 var wordArr= new Array();
+
 var strstr= new Array();
+
+
+
 fs.readFile('../dataset/dataset_2.txt','utf-8', function(err, data){
-    str=data.split('\n');
+
+    var replaceData=data.replace(/\r/g, '');
+    var str=replaceData.split('\n');
 
     for(var i =0; i< str.length; i++){
         strstr.push(str[i].split('\t'));
@@ -17,6 +24,7 @@ fs.readFile('../dataset/dataset_2.txt','utf-8', function(err, data){
     }
 
     console.log(wordArr)
+    console.log(meanArr)
 });
 
 
