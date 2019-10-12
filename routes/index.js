@@ -121,7 +121,7 @@ levenshtein.KVC =function(input, dataset, k) {
 
 // Main Page
 router.get('/', (req, res) => {
-    res.render('../views/home.html')
+    res.render('../views/home.html',{input : "",output : ""})
 });
 
 router.post('/clustering',(req,res, err) => {
