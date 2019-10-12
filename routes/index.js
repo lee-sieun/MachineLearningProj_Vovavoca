@@ -5,10 +5,8 @@ const CSAT = require('../models/CSAT');
 const leven = require('fast-levenshtein');
 
 
-
 var meanArr= new Array();
 var wordArr= new Array();
-
 var strstr= new Array();
 
 Ngram = {};
