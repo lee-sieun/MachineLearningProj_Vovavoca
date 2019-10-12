@@ -5,5 +5,5 @@ const CSATSchema = new mongoose.Schema({
     meaning : { type:String, required:true },
 });
 
-module.exports = mongoose.model('CSAT', CSATSSchema);
+module.exports = mongoose.model('CSAT', CSATSchema);
 

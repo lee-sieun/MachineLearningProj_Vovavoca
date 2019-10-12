@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<style>
+    table, th, td {
+        border: 0.1px solid #000000;
+        text-align: center;
+    }
+
+    td {
+        width: 200px;
+        height: 15px;
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="/clustering" method="post">
+        <input type="text" name="input" id="input">
+        <input type="submit" value="입력">
+    </form>
+    <br>
+    <br>
+    <div id="tb">
+
+    </div>
+</body>
+</html>
+<script>
+    var input = "<%= input%>"
+    var output = "<%= output%>"
+    if(output != "") {
+        console.log(output);
+        var outputArray = output.split(',')
+        var str = "<tr>"
+        let num = 0;
+        for (let i in outputArray) {
+            num++;
+            console.log(num)
+            str = str + "<td>"+num+". " + outputArray[i] + "</td>"
+        }
+        str= str + "</tr>"
+        $('#tb').html(str)
+    }
+    $('#input').val(input)
+</script>

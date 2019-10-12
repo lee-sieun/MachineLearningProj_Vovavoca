@@ -1,6 +1,7 @@
 //N_gram 을 이용한 K_VOCA_CLUSTERING
+shingle ={}
 
-    function KVC(input, dataset, k) {
+shingle.KVC = function(input, dataset, k) {
         let sim_set = []
         let output = new Array()
         for (i in dataset) {
@@ -16,7 +17,7 @@
         return
     }
 
-    function similarity(str1, str2) {
+shingle.similarity = function (str1, str2) {
         let set1 = split(str1)
         let set2 = split(str2)
 
@@ -37,7 +38,7 @@
         return sim;
     }
 
-    function split(str) {
+shingle.split = function(str) {
         let set = new Array()
 
         for (let i = 0; i < str.length - 1; i++) {
@@ -47,5 +48,4 @@
         return set;
     }
 
-KVC("arab", ["ahrab", "arrab", "aaab"], 2)
 

@@ -1,11 +1,12 @@
-//N_gram 을 이용한 K_VOCA_CLUSTERING
-const levenshtein = require('fast-levenshtein');
+const leven = require('fast-levenshtein');
 
-    function KVC(input, dataset, k) {
+levenshtein = {}
+
+levenshtein.KVC =function(input, dataset, k) {
         let sim_set = []
         let output = new Array()
         for (i in dataset) {
-            sim_set.push({voca: dataset[i], sim: levenshtein.get(input, dataset[i])})
+            sim_set.push({voca: dataset[i], sim: leven.get(input, dataset[i])})
         }
         console.log(sim_set)
         sim_set.sort((a, b) => a.sim < b.sim ? 1 : a.sim > b.sim ? -1 : 0)
