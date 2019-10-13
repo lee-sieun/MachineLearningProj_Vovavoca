@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <style>
     table, th, td {
         border: 0.1px solid #000000;
@@ -18,14 +20,23 @@
     <title>Title</title>
 </head>
 <body>
-    <form action="/clustering" method="post">
-        <input type="text" name="input" id="input">
-        <input type="submit" value="입력">
-    </form>
+    <nav class="navbar navbar-dark bg-dark">
+        <b style="color: white;" class="navbar-brand ">VOVAVOCA</b>
+        <a style="color: white;" class="navbar-brand ">혼동되는 어휘를 만들어 보세요.</a>
+    </nav>
+    <br>
+    <div style="margin-left: 20px;">
+        <form action="/clustering" method="post" class="form-inline">
+            <input class="form-control mr-sm-2" type="search" id="input" name="input" placeholder="단어" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">전송</button>
+        </form>
+    </div>
     <br>
     <br>
-    <div id="tb">
+    <div style="margin-left: 10px;">
+        <ul id="tb" class="list-group list-group-horizontal">
 
+        </ul>
     </div>
 </body>
 </html>
@@ -35,14 +46,13 @@
     if(output != "") {
         console.log(output);
         var outputArray = output.split(',')
-        var str = "<tr>"
+        var str = ""
         let num = 0;
         for (let i in outputArray) {
             num++;
             console.log(num)
-            str = str + "<td>"+num+". " + outputArray[i] + "</td>"
+            str = str + "<li class='list-group-item'>"+num+". " + outputArray[i] + "</li>"
         }
-        str= str + "</tr>"
         $('#tb').html(str)
         $('#input').val(input)
     }

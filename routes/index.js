@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const fs = require('fs');
-const CSAT = require('../models/CSAT');
+const VOCA = require('../models/VOCA');
 const leven = require('fast-levenshtein');
 
 
@@ -15,7 +15,7 @@ Ngram.KVC = function (input, dataset, k) {
     let sim_set = []
     let output = new Array()
     for (i in dataset) {
-        sim_set.push({ voca : dataset[i], sim: Ngram.similarity(input, dataset[i])})
+        sim_set.push({ voca : dataset[i], sim: Ngram.similarity(Ngram.split(input), dataset[i])})
     }
     sim_set.sort((a, b) => a.sim < b.sim ? 1 : a.sim > b.sim ? -1 : 0)
     for (let i = 0; i < k; i++) {
@@ -37,7 +37,7 @@ Ngram.split =  function (str) {
 }
 
 Ngram.similarity = function (str1, str2) {
-    let set1 = Ngram.split(str1)
+    let set1 = str1
     let set2 = Ngram.split(str2)
 
     let n = 0;
@@ -62,7 +62,7 @@ shingle.KVC = function(input, dataset, k) {
     let sim_set = []
     let output = new Array()
     for (i in dataset) {
-        sim_set.push({voca: dataset[i], sim: similarity(input, dataset[i])})
+        sim_set.push({voca: dataset[i], sim: similarity(split(input), dataset[i])})
     }
     sim_set.sort((a, b) => a.sim < b.sim ? 1 : a.sim > b.sim ? -1 : 0)
     console.log(sim_set)
@@ -73,7 +73,7 @@ shingle.KVC = function(input, dataset, k) {
 }
 
 shingle.similarity = function (str1, str2) {
-    let set1 = split(str1)
+    let set1 = str1
     let set2 = split(str2)
 
     let n = 0;
@@ -128,7 +128,7 @@ router.post('/clustering',(req,res, err) => {
     let input = req.body.input
     let voca = []
     console.log(input)
-    CSAT.find().select('voca -_id')
+    VOCA.find().select('voca -_id')
         .then(vocaset =>{
             for(i in vocaset) {
                 voca.push(vocaset[i].voca)
@@ -151,7 +151,7 @@ router.get('/setdataset', (req, res) => {
             meanArr.push(strstr[i][1]);
         }
         for(let i=0; i< wordArr.length; i++){
-            let newVoca = new CSAT({ voca :wordArr[i], meaning :meanArr[i]});
+            let newVoca = new VOCA({ voca :wordArr[i], meaning :meanArr[i]});
             newVoca.save()
                 .then(result => {
                 })
