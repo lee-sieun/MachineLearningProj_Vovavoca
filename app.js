@@ -14,8 +14,7 @@ mongoose.Promise = global.Promise;
 
 // CONNECT TO MONGODB SERVER
 mongoose.connect('mongodb://localhost:27017/vovavoca', {
-  user: "openclass",
-  pass: "qwe123",
+
   authSource: "admin",
   useNewUrlParser:true,
   useUnifiedTopology:true
@@ -60,7 +59,7 @@ app.use(function(req, res, next) {
 // Routes
 app.use('/', require('./routes/index.js'));
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5050;
 
 app.listen(PORT, console.log(`Server running on port ${PORT}`));
 module.exports = app;
