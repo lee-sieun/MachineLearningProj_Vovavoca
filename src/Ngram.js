@@ -41,13 +41,13 @@ Ngram.similarity = function (str1, str2) {
             }
         }
     }
-    console.log(set1)
-    console.log(set2)
+    // console.log(set1)
+    // console.log(set2)
 
     let sim = n / (set1.length + set2.length - n)
-    console.log(sim)
+    // console.log(sim)
     return sim;
 }
 
 // Ngram.KVC("arab", ["ahrab", "arrab", "aaab"], 2);
-module.exports - Ngram;
+module.exports = Ngram;
