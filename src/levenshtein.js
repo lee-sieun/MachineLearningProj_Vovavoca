@@ -2,13 +2,13 @@ const leven = require('fast-levenshtein');
 
 levenshtein = {}
 
-levenshtein.KVC =function(input, dataset, k) {
+levenshtein.SVC =function(input, dataset, k) {
         let sim_set = []
         let output = new Array()
         for (i in dataset) {
             sim_set.push({voca: dataset[i], sim: leven.get(input, dataset[i])})
         }
-        console.log(sim_set)
+
         sim_set.sort((a, b) => a.sim > b.sim ? 1 : a.sim < b.sim ? -1 : 0)
         console.log(sim_set)
         for (let i = 0; i < k; i++) {
@@ -18,4 +18,6 @@ levenshtein.KVC =function(input, dataset, k) {
         return
     }
 
-levenshtein.KVC("arab", ["ahrab", "arrab", "aaab","asvwefe"], 2)
+// levenshtein.SVC("arab", ["ahrab", "arrab", "apple","asynarab","href","rabbit",], 3)
+
+module.exports = levenshtein;

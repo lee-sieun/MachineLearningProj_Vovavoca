@@ -1,13 +1,12 @@
 //N_gram 을 이용한 K_VOCA_CLUSTERING
 shingle ={}
 
-shingle.KVC = function(input, dataset, k) {
+shingle.SVC = function(input, dataset, k) {
         let sim_set = []
         let output = new Array()
         for (i in dataset) {
-            sim_set.push({voca: dataset[i], sim: similarity(input, dataset[i])})
+            sim_set.push({voca: dataset[i], sim: shingle.similarity(input, dataset[i])})
         }
-        console.log(sim_set)
         sim_set.sort((a, b) => a.sim < b.sim ? 1 : a.sim > b.sim ? -1 : 0)
         console.log(sim_set)
         for (let i = 0; i < k; i++) {
@@ -18,8 +17,8 @@ shingle.KVC = function(input, dataset, k) {
     }
 
 shingle.similarity = function (str1, str2) {
-        let set1 = split(str1)
-        let set2 = split(str2)
+        let set1 = shingle.split(str1)
+        let set2 = shingle.split(str2)
 
         let n = 0;
 
@@ -30,11 +29,7 @@ shingle.similarity = function (str1, str2) {
                 }
             }
         }
-        console.log(set1)
-        console.log(set2)
-
         let sim = n / (set1.length + set2.length - n)
-        console.log(sim)
         return sim;
     }
 
@@ -44,8 +39,12 @@ shingle.split = function(str) {
         for (let i = 0; i < str.length - 1; i++) {
             set.push(str[i] + str[i + 1])
         }
-
+        // console.log(set)
         return set;
     }
 
+// shingle.SVC("arab",
+//     ["ahrab", "arrab", "apple","asynarab","href","rabbit",],
+//     3)
 
+module.exports = shingle;

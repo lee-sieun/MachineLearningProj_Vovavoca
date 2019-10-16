@@ -2,17 +2,25 @@
 
 Ngram = {};
 
-Ngram.KVC = function (input, dataset, k) {
+Ngram.SVC = function (input, dataset, k) {
     let sim_set = []
     let output = new Array()
+    let result = new Array()
+
     for (i in dataset) {
+        if(input == dataset[i]){
+            continue;
+        }
         sim_set.push({ voca : dataset[i], sim: Ngram.similarity(input, dataset[i])})
     }
     sim_set.sort((a, b) => a.sim < b.sim ? 1 : a.sim > b.sim ? -1 : 0)
+    // console.log(sim_set)
     for (let i = 0; i < k; i++) {
         output.push(sim_set[i].voca)
-
+        result.push(sim_set[i])
     }
+
+    console.log(result)
     return output
 }
 
@@ -24,7 +32,7 @@ Ngram.split =  function (str) {
         set.push(str[i] + str[i + 1])
     }
     set.push(str[str.length - 1])
-
+    // console.log(set)
     return set;
 }
 
@@ -49,5 +57,9 @@ Ngram.similarity = function (str1, str2) {
     return sim;
 }
 
-// Ngram.KVC("arab", ["ahrab", "arrab", "aaab"], 2);
+// Ngram.SVC("bear",
+//     ["bare"],
+//     1)
+// Ngram.SVC("pect", ["ahrab", "arrab","fact", "affact","fect" ,"effect","bear", "apple","asynarab","href","rabbit",], 3)
+
 module.exports = Ngram;

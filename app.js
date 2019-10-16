@@ -24,6 +24,7 @@ mongoose.set('useCreateIndex', true);
 mongoose.set('useFindAndModify', false);
 
 app.use('/dataset',express.static('dataset'));
+app.use(express.static('views'))
 // EJS
 
 app.set('view engine', 'html')
@@ -59,7 +60,7 @@ app.use(function(req, res, next) {
 // Routes
 app.use('/', require('./routes/index.js'));
 
-const PORT = process.env.PORT || 5050;
+const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, console.log(`Server running on port ${PORT}`));
 module.exports = app;
