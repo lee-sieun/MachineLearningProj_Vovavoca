@@ -28,12 +28,24 @@ Hybrid.SVC = function (input, dataset, k) {
     return output
 }
 
-Hybrid.split =  function (str) {
+Hybrid.split =  function (str,status) {
     let set = new Array()
-
+    if(status==0){
+        set.push(0)
+        for (let i = 0; i < str.length - 1; i++) {
+            set.push(str[i] + str[i + 1])
+        }
+        set.push(str[str.length-1])
+        return set
+    }
+    if(status==1){
+        set.push(0)
+        set.push(str[str.length-1])
+    }
     for (let i = 0; i < str.length - 1; i++) {
         set.push(str[i] + str[i + 1])
     }
+
     // console.log(set)
     return set;
 }
@@ -55,8 +67,20 @@ Hybrid.split =  function (str) {
 // }
 
 Hybrid.similarity = function (str1, str2, code1, code2) {
-    let set1 = Hybrid.split(str1)
-    let set2 = Hybrid.split(str2)
+    let status
+
+    if(str1.length<4){
+        status=0
+    }else if(str1.length==4){
+        status=1
+    }else {
+        status=2
+    }
+    let set1 = Hybrid.split(str1,status)
+    if(str2.length-str1.length>1){
+        status=2
+    }
+    let set2 = Hybrid.split(str2,status)
     let sim = 0
     let n = 0;
 
@@ -72,7 +96,11 @@ Hybrid.similarity = function (str1, str2, code1, code2) {
     if(code1==code2){
         sim *=1.5
         sim+=0.2
-
+        if(str1.length<4){
+            sim+=0.3
+        }else if(str1.length==4){
+            sim+=0.4
+        }
     }
 
     return sim;
