@@ -1,0 +1,4254 @@
+a	하나의
+A.M.	오전
+abandon	버리다
+abbreviate	축약하다, 단축하다
+ability	능력
+able	할 수 있는
+abnormal	비정상적인
+aboard	배로
+abolish	(제도, 법률등을)폐지하다
+abort	유산하다
+about	-에 대하여
+above	-보다 위에
+abroad	외국으로
+abruptly	갑자기, 퉁명스럽게
+absence	부재
+absent	부재의
+absolute	절대의
+absorb	흡수하다
+abstract	추상적인
+absurd	불합리한
+abundant	풍부한
+abuse	남용
+academy	학술원
+accelerate	가속하다 속도가 가해지다
+accent	액센트
+accept	받아들이다
+acceptable	"용인되는, 받아들일 수 있는;
+훌륭한, 만족스러운"
+access	접근
+accessible	출입할 수 있는; 이용할 수 있는
+accessory	부속물
+accident	뜻밖의 사건
+acclaim	호평, 찬사
+accommodate	수용하다
+accompany	동반하다
+accomplish	이루다
+accomplished	숙련된, 노련한
+accomplishment	성과,업적
+accord	일치하다
+account	설명하다 계산
+accountable	책임이 있는
+accountant	회계사
+accounting	회계
+accumulate	축적하다
+accurate	정확한
+accuse	고발하다
+accustomed	익숙한
+ache	고통
+achieve	성취하다
+achievement	성취, 달성
+acid	산 신
+acknowledge	인정하다
+acquaint	알리다, 익히다, 숙지하다
+acquire	얻다
+acquisition	획득
+across	가로질러
+act	행동하다
+activate	활동적으로 하다
+active	활동적인,적극적인
+actual	현실의
+actually	실제로, 사실은
+acute	날카로운
+adapt	적용시키다
+add	추가하다
+addict	열중하게 하다
+additional	추가의, 부가적인
+address	말을 걸다
+adequate	충분한, 적절한
+adhere	고수하다
+adhesive	점착성의
+adjacent	인접한
+adjourn	정회하다
+adjust	맞추다
+admantly	확고하게
+administer	관리하다
+administration	관리
+admire	감복하다
+admission	입장
+admit	받아들이다
+adolescent	청년기의
+adopt	채용하다
+adult	성인
+advance	나아가다
+advanced	고급의; 진보한, 앞선
+advantage	유리한 입장
+adventure	모험 모험하다
+adverse	거꾸로의
+adversity	역경, 불운
+advert	출현
+advertise	광고하다
+advertisement	광고
+advice	조언, 충고
+advisable	바람직한, 합당한
+advise	충고하다
+advocate	변호사
+aesthetic	미적인
+affair	일
+affect	영향을 주다
+affection	애정
+affiliate	회원으로 가입시키다
+affix	(우표 등을)붙이다
+afford	여유가 있다
+affordability	감당할 수 있는 비용
+affordable	(가격이)알맞은, 감당할 수 있는
+afraid	두려워하여
+after	후에
+afternoon	오후
+again	다시
+against	…에 반대하여
+age	연령
+agency	기능
+agenda	안건
+agent	대리인
+aggression	공격,침략
+aggressive	침략적인
+ago	이전에
+agree	동의하다
+agreement	계약, 협정; 합의
+agriculture	농업
+ahead	전방에
+aid	도와 주다
+aim	겨누다
+air	공기
+aircraft	항공기
+airline	정기항공
+airplane	비행기
+airport	공항
+aisle	측면복도
+alarm	놀라게 하다
+alert	빈틈없는
+alien	외국의
+alike	비슷한
+alive	살아있는
+alive 	살아있는
+all	모든
+allergic	알레르기의
+alleviate	줄이다, 완화하다
+alley	골목길
+alliance	동맹, 제휴
+allocate	할당하다
+allow	허락하다
+allowance	수당
+ally	동맹하다
+almost	거의
+alone	다만 홀로(혼자서)
+along	-을 따라
+alongside	-의 곁에
+aloud	큰 소리로
+already	이미
+alright	더할나위없이
+also	-도 또한
+alter	바꾸다
+alternate	번갈아 하는, 격일의
+alternative	대안, 대체할 수 있는
+although	비록 -일지라도
+altitude	고도
+altogether	전혀
+alumni	동창생들, 졸업생들
+always	늘
+amaze	깜짝 놀라게 하다
+ambassador	대사
+ambition	야심
+amendment	개정, 수정
+amenity	편의 시설
+among	-중에
+amount	(금액이)-이 되다
+amplify	확대하다
+amuse	재미나게 하다
+analyse	분해하다
+ancestor	조상
+anchor	닻
+ancient	옛날의
+and	및
+angel	천사
+anger	성
+angle	각
+animal	동물
+ankle	발목
+anniversary	기념일 예년의
+announce	알리다
+announcement	공고, 발표
+annoy	귀찮게하다
+annual	일년의
+anonymous	익명의, 이름을 모르는
+another	또 하나
+answer	대답
+ant	개미
+anticipate	예상하다
+antique	골동품
+anxiety	근심
+anxious	걱정되는
+any	어떤
+apart	떨어져서
+apologize	사과하다
+apology	사과
+apparent	명백한
+appeal	간청하다
+appear	나타나다
+appearance	외무, 출현
+applaud	갈채를 보내다
+apple	사과
+appliance	가전제품
+applicant	지원자
+apply	(물건을)대다
+appoint	지정하다
+appointment	약속, 임명
+appraisal	평가
+appreciate	감상하다
+appreciation	감사
+apprehensive	걱정하는, 염려하는
+approach	다가가다
+appropriate	적당한
+approval	승인, 인가
+approve	시인하다, 승인하다, 찬성하다
+approximate	어림셈의
+aptitude	소질
+archaeologist	고고학자
+architect	건축가
+architecture	건축
+archive	기록보관소
+area	면적
+argue	논하다
+argumentative	논쟁적인, 논쟁을 좋아하는
+arise	생기다
+arm	팔
+arms	무기
+army	육군
+around	사방에
+arrange	가지런히 하다
+arrangement	준비, 마련, 주선
+arrest	체포하다
+arrival	도착
+arrive	도착하다
+arrogant	오만한
+arrow	화살
+art	예술
+article	물품
+artifact	인공유물
+artificial	인공의
+artistic	예술의, 예술적인
+as	-와 같은 정도로
+ash	재
+ashamed	부끄러운
+aside	곁에
+ask	묻다
+asleep	잠들은
+aspect	관점, 면, 측면
+aspire	열망하다
+assault	습격
+assemble	모으다
+assembly	의회
+assent	찬성하다, 승인, 동의
+assert	단언하다
+assess	평가하다, 감정하다
+asset	자산
+assign	할당하다
+assignment	과제, 할당
+assist	돕다
+associate	연상하다, 관련시키다
+association	협회, 관련
+assume	맡다, 취하다
+assumption	가정
+assure	보증하다, 안심시키다
+astonish	놀라게 하다
+astronaut	우주비행사
+astronomy	천문학
+at	-에서
+athlete	운동가
+athletic	운동선수
+atmosphere	대기
+atom	원자
+atomic	원자의
+attach	붙이다
+attack	공격하다
+attain	이르다
+attempt	시도하다
+attend	출석하다
+attendance	출석, 출근
+attendant	안내원, 참석자
+attention	주의
+attentive	주의 깊은, 경청하는
+attic	다락
+attire	복장, 옷차림새
+attitude	태도
+attoney	변호사
+attorney	변호사
+attract	끌어 당기다
+attraction	관광명소
+attribute	속성
+auction	경매
+audience	청중
+audit	회계 감사, 심사
+audition	오디션
+auditorium	청중
+aunt	아주머니
+authentic	진짜의
+author	저자
+authority	권위, 정부 당국
+authorize	~을 인가하다, 권한을 부여하다.
+autobiography	자서전
+autograph	친필,서명
+automate	자동화하다
+automatic	자동의
+automobile	자동차 자동차의
+automotive	자동차의
+availability	(입수)가능성, 유효성, 유용성
+available	쓸모있는
+avenue	가로수길
+average	평균
+avoid	피하다
+await	기다리다
+awake	깨어있는, 깨우다
+awaken	깨우다
+award	상
+aware	알고 있는
+away	떨어져서
+awesome	무서운
+awful	두려운
+awkward	어색한
+baby	갓난아이, 막내   관심사, 골치아픈 일,
+back	등
+background	배경
+bad	나쁜
+badly	나쁘게, 심하게
+baggage	수화물
+baggy	헐렁한
+bake	굽다
+balance	균형
+bald	대머리의
+ball	공
+balloon	기구
+ban	금지
+band	그룹
+bang	강타
+bank	둑
+bankrupt	파산자
+banner	현수막
+banquet	연회
+bar	막대기
+bare	벌거벗은
+barely	거의-하지 않는, 간신히
+bargain	매매
+bark	짖다
+barn	헛간
+barrier	장벽
+barring	~이 없다면, ~을 제외하고
+base	기초
+baseball	야구
+basement	기초
+basic	기본의
+basin	대야,접시
+basis	기초
+basket	바구니
+basketball	농구
+bat	배트
+bath	목욕
+bathroom	욕실
+battery	전지
+battle	전투
+bay	만
+be	-이다
+beach	해안
+beam	광선
+bean	콩
+bear	나르다
+beard	턱수염
+beast	짐승
+beat	치다
+beauty	아름다움
+because	왜냐하면
+become	-이 되다
+bed	침대
+bedroom	침실 성적인
+bee	꿀벌
+beef	쇠고기
+beer	맥주
+before	앞에
+beg	청하다
+begin	시작하다
+behalf	위함
+behave	행동하다
+behavior	행동
+behind	뒤에
+belated	때늦은
+belief	믿음, 신념
+believe	믿다
+bell	종
+belong	속하다
+belonging	소유물, 소속
+beloved	매우 사랑하는
+below	아래에
+bend	구부리다
+beneath	-의 바로 아래에
+beneficent	인정 많은
+beneficial	유익한, 이로운
+benefit	이익
+berry	액과
+beside	-옆에, -의 곁에
+besides	게다가, ~을 제외하고
+bet	걸다
+betray	배반하다
+between	-의 사이에 사이에
+beverage	음료
+bewilder	당황하게 하다
+beyond	저편에
+bias	치우침
+bible	성서, 성경
+bicycle	자전거 자전거를 타다
+bid	입찰
+big	큰
+bilingual	2개 국어의
+bill	계산서
+billion	10억
+bin	궤
+bind	매다
+biography	전기
+biology	생물학
+biotechnology	생명공학
+bird	새
+birth	출생
+birthday	생일
+bishop	주교
+bit	작은 조각
+bite	물다
+bitter	쓴
+black	검은
+blame	책망하다
+blank	공백
+blanket	담요
+blast	돌풍
+bleach	표백하다
+bleed	피를 흘리다
+blend	혼합하다
+bless	축복하다
+blind	눈먼
+blink	(눈을)깜빡거리다
+bliss	기쁨
+block	덩어리
+blonde	(살결이 흰)금발의 여성
+blood	피
+bloom	쇳덩이
+blossom	(과수의)꽃
+blow	강타
+blue	푸른
+blueprint	청사진
+blunder	큰 실수
+board	널빤지
+boast	자랑하다
+boat	배
+body	신체
+boil	끓다
+bold	대담한
+bomb	폭탄 폭격하다
+bond	결속
+bone	뼈
+bonus	상여금, 보너스
+book	책
+boom	굉음
+boost	뒤를 밀기
+boot	목이 긴 구두
+border	가장자리
+bore	고조
+boredom	지루함
+borrow	빌다
+boss	두목
+both	쌍방의
+bother	괴롭히다 근심하다 귀찮음
+bottle	병
+bottom	밑바닥
+bough	큰 가지
+bounce	뛰어오르다
+bound	꼭-해야 할, 뛰어오르다
+boundary	경계
+bow	절
+bowl	사발
+boy	소년
+brain	뇌
+brake	브레이크
+branch	가지
+brand	상표
+brave	용감한
+bread	빵
+break	부수다
+breakdown	붕괴
+breakfast	아침밥
+breast	가슴
+breathe	숨쉬다
+breed	기르다
+breeze	미풍
+brew	양조하다
+brick	벽돌
+bride	신부
+bridegroom	신랑
+bridge	다리
+brief	단시간의
+bright	밝은
+brilliant	빛나는
+bring	가져오다
+brisk	활발한, 호황의
+broad	(폭이)넓은
+broadcast	방송하다
+broaden	넓히다
+brochure	(홍보용)소책자, 브로셔
+brother	형제
+brown	갈색의 갈색
+browse	흝어보다, 둘러보다
+brush	솔
+brute	야수 짐승같은
+bubble	거품 거품이 일다
+bud	싹, 꽃 몽우리
+budget	예산
+bug	벌레
+build	짓다
+bulb	전구
+bulk	부피
+bull	황소
+bullet	탄환
+bully	약한 자를 못살게 구는 자
+bump	충돌 부딪치다
+bunch	송이
+bundle	다발
+burden	후렴
+burn	시내
+burst	파열하다
+bury	묻다
+bush	덤불
+business	직업
+busy	바쁜
+but	그러나 다만 (-을)제외하고
+butcher	정육점주인
+button	단추 단추를 채우다 단추로 채워지다
+buy	사다
+buzz	윙윙거리는 소리
+by	곁에
+cab	택시
+cabin	선실
+cable	해저전신
+cage	새장
+calculate	계산하다
+calendar	달력
+call	부르다
+calm	평온한
+campaign	운동, 캠페인
+can	할 수 있다
+canal	운하
+cancel	취소하다
+cancer	암
+candidate	지원자
+candy	사탕과자
+canvas	돛베
+cap	모자
+capability	능력, 역량
+capable	할 수 있는
+capacity	수용력, 능력
+cape	곶
+capital	수위의
+captain	우두머리
+caption	표제
+capture	붙잡다
+car	자동차
+carbohydrate	탄수화물
+care	걱정
+career	경력
+careful	조심스러운, 주의 깊은
+careless	부주의한
+carrier	항공사, 수송기, 수송 회사
+carrot	당근
+carry	나르다
+cart	(2륜)짐마차
+carton	(큰)판지상자
+carve	조각하다
+case	경우
+cash	현금 현금으로 바꾸다 현금의
+cast	던지다
+castle	성
+casual	우연한
+casualty	희생자
+cat	고양이
+catch	붙잡다
+category	범주
+cater	음식물을 마련하다
+caterpillar	애벌레
+cathedral	대성당
+cattle	소
+causal	원인의
+cause	원인
+caution	조심
+cautious	조심성 있는, 신중한
+cave	동굴 굴을 파다 꺼지다
+cease	그만두다 그치다 중지
+ceiling	천장
+celebrate	경축하다
+celebrity	명성
+cell	작은 방
+cemetery	묘지
+censor	검열관
+century	1세기
+ceramic	도예,도자기
+cereal	시리얼,곡물
+certain	확신하는
+certificate	증명서, 자격정, 자격증을 교부하다
+certification	증명서, 증명
+certify	증명하다
+chain	사슬
+chair	의장
+chairman	의장
+challenge	도전
+challenging	도전적인, 힘든
+chamber	방
+chance	우연
+change	변화
+channel	채널, 경로
+chant	구호(성가)
+chaos	혼돈
+character	인격
+characteristic	특유한
+charge	요금
+charity	자비
+charm	매력
+chase	쫓다
+chat	잡담
+cheap	값싼
+cheat	속이다
+check	방해
+checked	체크무늬의
+checkup	건강검진
+cheek	볼
+cheer	갈채
+cheerful	유쾌한
+chef	쿡
+chemical	화학의
+chemistry	화학
+cherish	소중히 하다
+chest	가슴팍
+chew	씹다
+chief	우두머리
+child	아이
+childish	유치한 
+childlike	천진난만한
+chill	차가움
+chin	턱(끝) 턱에 대다
+chip	(나무)토막
+choice	선택물, 선택 사항, 선택
+choir	(교회의)성가대
+choke	질식시키다
+choose	고르다
+chop	(도끼 등으로)자르다
+chore	허드렛일, 
+chorus	합창
+chronic	만성의
+church	교회
+cigarette	궐련
+cinema	영화관
+circle	원
+circulate	순환하다
+circulation	순환
+circumstance	환경
+cite	인용하다
+citizen	시민
+city	도시
+civil	시민의
+civilization	문명
+claim	요구하다
+clap	짝짝
+clarify	분명히 하다, 맑게 하다
+clash	충돌하다
+class	계급
+classic	고전의
+classify	분류하다
+classroom	교실
+clause	조항
+clay	찰흙
+clean	청결한
+clear	맑은
+clearance	정리, 없애기; 허가
+clerk	서기
+clever	영리한
+client	소송의뢰인
+clientele	"(집합적)고객들,
+(변호사,건축가 등의)모든 의뢰인"
+cliff	절벽
+climactic	절정의
+climate	기후
+climatic	기후의
+climb	기어 오르다
+cling	밀착하다
+clinic	병원
+clip	가위로 자르다
+clock	시계
+close	닫다, 가까운, 친밀한, 가까이
+closely	면밀히, 엄밀히
+closet	벽장
+closure	폐쇄
+cloth	천
+clothes	옷, 의료
+clothing 	옷, 의류
+cloud	구름
+club	클럽
+clue	단서
+cluster	떼
+co-worker	동료
+coach	역마차
+coal	석탄
+coast	연안
+code	법전
+coherent	조리있는
+coin	화폐
+coincide	일치하다
+coincidence	일치
+cold	추운
+collaborate	공동으로 일하다
+collapse	붕괴
+collar	칼라
+colleague	동료
+collect	모으다
+collection	소장품, 수집물; 징수, 수금
+college	단과대학
+collide	충돌하다
+collision	충돌
+colony	식민지
+color	착색하다
+column	(신문 등의)난
+combat	격투하다
+combination	결합, 연합
+combine	결합하다
+combined	결합된, 합동의
+come	오다
+comedy	희극
+comet	혜성
+comfort	위안
+comfortable	편안한
+coming	다가오는
+command	명령하다
+commence	시작하다
+comment	논평
+commentary	해설, 설명
+commerce	상업
+commercial	상업의, 광고방송
+commission	위임
+commit	위탁하다
+commitment	헌신, 전념
+committable	위탁할 수 있는
+committee	위원회
+commodity	상품
+communicate	알리다
+communist	공산주의자
+community	공동생활체
+commute	통근하다
+companion	동료
+company	교제
+comparable	필적하는, 비교되는
+comparative	비교적인
+compare	비교하다
+comparison	비교
+compartment	(물건 보관용)칸
+compassion	동정
+compatible	양립할 수 있는
+compel	억지로 -시키다
+compensate	배상하다
+compensation	보상
+compete	경쟁하다
+competent	경쟁령이 있는, 유능한
+competition	경쟁
+competitive	경쟁의, 경쟁에 의한
+competitor	경쟁업체, 경쟁자
+compile	편찬하다
+complain	불평하다
+complaint	불평
+complement	보완하는 것
+complete	완성하다
+completely	전적으로, 완전히
+complex	합성물
+compliance	준수
+complicate	복잡하게 하다
+complication	복잡한 문제
+compliment	칭찬
+complimentary	무료의, 칭찬하는
+comply	준수하다, 따르다
+component	구성하는 성분
+compose	구성하다
+compound	성분 등을 혼합하다
+comprehensible	이해할 수 있는 
+comprehensive	포괄적인, 광범위한, 이해력있는
+comprise	포함하다
+compromise	타협 타협하다
+compulsory	의무적인
+conceal	숨기다
+concede	인정하다
+conceivably	아마도, 상상컨데
+conceive	상상하다
+concentrate	집중하다
+concept	개념
+concern	관계하다
+concerned	염려하는, 걱정하는; 관련된
+concerning	~에 관하여
+concert	연주회
+conclude	결정하다
+conclusion	결론
+concrete	구체적인 응고물
+condemn	나무라다
+condition	조건
+conduct	수행하다, 처리하다
+conductor	지휘자, 전도체
+cone	원뿔
+confer	주다
+conference	회의
+confess	실토하다
+confide	(비밀을)털어놓다
+confidence	확신, 자신, 신임
+confident	확신하고 있는, 자신만만한
+confidential	(일급)비밀의, 기밀의
+confidentiality	기밀성
+confine	국경
+confirm	확인하다
+confirmation	확인, 확증
+conflict	투쟁
+conform	일치시키다
+confront	직면하다
+confuse	혼란시키다
+congest	혼잡하게 하다
+congestion	혼잡, 막힘
+congratulate	축하하다
+congress	회의
+connect	잇다 이어지다
+conquer	정복하다
+conscience	양심
+conscious	의식적인
+consecutive	연속의, 연이은
+consensus	(의견 등의)일치
+consent	승낙하다
+consequence	결과
+consequent	~의 결과로 일어나는
+conserve	보존하다
+consider	숙고하다
+considerable	상당한
+considerate	이해심 많은
+consignment	위탁 판매
+consist	-으로 이루어지다
+consistent	시종일관한
+conspicuous	눈에 띄는
+constant	불변의
+constitute	구성하다
+constitution	헌법, 체질
+constrain	강제하다
+constraint	제약, 제한
+construct	건조하다
+construction	건설, 건축
+constructive	건설적인
+consult	상의하다
+consultant	고문, 컨설턴트
+consume	소비하다
+consumption	소비(량), 소모
+contact	접촉
+contain	내포하다
+container	용기, 그릇
+containment	견제, 억제
+contaminate	오염시키다
+contemporary	현대의
+contend	싸우다
+content	만족하여
+contest	겨루다
+context	문맥
+continent	자제심이 있는
+contingency	만일의 사태
+continual	빈번한
+continue	계속하다
+continuous	끊임없는
+contract	계약
+contraction	수축, 축소
+contractor	계약자, 도급업자
+contradict	반박하다
+contradiction	모순, 반박
+contrary	반대의 반대 거꾸로
+contrast	대조
+contribute	기부하다
+contributor	기고가, 공헌자
+control	억제하다
+controversial	논란의
+controversy	논쟁
+convene	(회원 등이)모이다, (회의가)개최되다
+convenience	편의, 편리
+convenient	편리한
+convention	관례, 전통
+conversation	회화
+converse	대화하다
+convert	바꾸다
+convey	나르다
+convict	유죄로 판결하다 죄수
+conviction	신념
+convince	확신시키다
+conviniently	편리하게
+cook	요리하다 요리사
+cookie	쿠키
+cool	서늘한
+cooper	구리
+cooperate	협동하다
+coordinate	동격의
+coordination	조정
+cop	순경
+cope	코우프(성직자의 긴 겉옷)
+copy	사본
+copyright	판권
+cord	밧줄
+cordially	진심으로
+core	핵심
+corn	티눈
+corner	모퉁이
+corporate	법인조직의
+corporation	회사, 법인
+corps	특수부대, 단체
+correct	옳은
+correspond	일치하다
+correspondence	편지, 통신문
+corridor	복도
+corrosion	부식
+corrupt	타락한
+cosmetic	화장품
+cosmos	우주
+cost	가격
+costly	값비싼
+costume	복장
+cottage	시골집
+cotton	목화
+couch	침대
+cough	기침 기침을 하다 기침을 하여 -을 뱉어내다
+council	회의
+counsel	의논
+count	계산
+counter	계산하는 사람
+counterpart	부본
+countless	셀수없는
+country	나라
+countryside	시골
+county	주
+couple	한 쌍
+courage	용기
+courageous	용기있는
+courier	급송 택배, 운반인
+court	법정, 경기장
+courtesy	예의범절
+cousin	사촌
+cover	덮다
+coverage	보도,보상,적용범위
+cow	위협하다 암소
+cowboy	목동
+coworker	동료, 협력자
+crack	찰싹 소리내다 금가다 날카로운소리
+cradle	요람
+craft	솜씨
+crash	도산
+crawl	네발로 기다
+crazy	미친
+create	창조하다
+creation	창조
+creative	창조적인
+creature	창조물
+credible	믿을 수 있는
+credit	신용
+creek	시내
+creep	기다
+crew	승무원
+cricket	크리켓
+crime	범죄
+criminal	죄의
+crisis	위기
+crisp	파삭파삭한
+criterion	기준
+critic	비평가
+critical	중요한, 위기의
+criticise	비평하다
+criticism	비평
+criticize	비평하다
+crop	수확
+cross	십자형
+crowd	군중
+crowded	붐비는, 복잡한
+crown	왕관
+crucial	결정적인
+cruel	잔인한
+cruise	순항하다
+crush	눌러 부수다
+cry	소리치다
+crystal	수정
+cube	정육면체
+cuisine	(독특한)요리
+cultivate	경작하다
+culture	문화
+cunning	교활한
+cupboard	찬장
+curb	억제하다
+cure	치료
+curious	이상스러운
+curl	곱슬머리 머리털을 지지다
+currency	통용
+current	유행의, 현재의
+curriculum	과목
+curry	카레요리 카레로 맛을 내다
+curse	저주
+curtail	~을 줄이다, 삭감하다
+curtain	커어튼
+curteous	예의바른
+curve	곡선
+custody	보호
+custom	관습
+customarily	관례상, 습관적으로
+customer	고객
+customs	세관
+cut	베다
+cute	귀여운
+cutting-edge	첨단의
+cycle	순환
+cynical	냉소적인
+dad	아빠
+dairy	낙농장
+dam	댐
+damage	손해
+damaged	손상된, 손해를 입은
+damp	축축한 습기 적시다
+dance	댄스
+danger	위험
+dare	감히-하다
+dark	어두운
+darling	귀여운
+dash	돌진
+database	데이터베이스
+date	날짜
+daughter	딸
+dawn	새벽 날이 새다
+day	낮
+daydream	백일몽
+dead	죽은
+deadline	마감일, 마감 시간
+deadlock	교착 상태
+deadly	치명적인
+deal	양
+dealer	판매업자, 상인
+death	죽음
+debate	토론 토론하다
+debris	파편
+debt	빚
+decade	10년간
+decay	쇠퇴하다
+decent	점잖은
+decide	결정하다
+decision	결정
+deck	갑판
+declare	선언하다
+decline	기울다
+decorate	장식하다
+decrease	감소하다
+dedicate	봉납하다
+dedication	헌신
+deduct	공제하다, 빼다
+deed	행위
+deep	깊은
+deep	깊은, (거리상)깊게
+deeply	매우, (정도가)깊게
+defeat	패배
+defect	결점
+defective	결함이 있는
+defend	방어하다
+defendant	피고, 피고의
+defense	방어
+defer	연기하다, 미루다
+deficiency	결핍
+deficit	결손
+define	정의하다
+definite	일정한
+defy	저항하다; (설명,묘사등이)거의 불가능하다
+degrade	지위를 낮추다
+degree	도
+delay	늦추다
+delegate	파견하다
+delete	삭제하다
+deliberate	숙고하다
+delicate	미묘한
+delicious	맛있는
+delight	즐겁게하다 즐거워하다
+delinquent	(세금 등이)연체된, 미불의
+deliver	인도하다
+demand	요구하다
+democracy	민주주의
+demon	악마
+demonstrate	증명하다
+dense	짙은
+densely	빽빽이, 밀집하여
+dental	치과의
+dentist	치과의사
+deny	부정하다
+depart	출발하다
+department	부
+departure	출발
+depend	좌우되다
+dependence	종속
+depict	묘사하다
+deplete	고갈시키다
+deposit	예금
+depreciation	가치 하락, 화폐의 구매력 저하
+depress	억압하다
+depressed	우울한
+deprive	빼앗다
+derive	이끌어 내다
+descend	내려오다
+descendent	자손
+describe	기술하다
+description	서술
+desert	버리다
+deserve	 -할 만하다
+design	디자인
+designate	가리키다
+designated	지정된
+desirable	바람직한
+desire	바라다
+desirous	원하는, 바라는
+desk	책상
+despair	절망하다
+desperate	절망적인
+despite	-에도 불구하고 모욕
+destination	목적지
+destiny	운명
+destroy	파괴하다
+destruction	파괴
+detach	분리하다
+detail	상설
+detain	억류하다
+detect	간파하다
+detergent	세제
+determine	결정하다
+determined	단호한, 단단히
+detour	우회
+develop	발달하다
+device	고안
+devil	악마
+devise	고안하다
+devote	바치다
+dew	이슬
+diabetes	당뇨병
+diagnosis	진단
+dialect	사투리
+dialogue	대화
+diameter	지름
+diary	일기
+dictate	받아쓰게 하다
+dictionary	사전
+die	죽다
+dietary	식이 요법의, 규정식의
+different	다른
+difficult	곤란한
+dig	파다
+digest	소화시키다
+dignity	위엄
+diligent	근면한
+dim	어둑한
+dimension	치수
+diminish	감소하다
+dine	저녁식사를 하다
+dinner	정찬
+dip	담그다
+diplomat	외교관
+direct	지도하다
+direction	방향, 지시, 감독
+directly	곧바로
+director	임원, 책임자
+directory	주소록
+dirt	먼지, 때
+dirty	더러운
+disabled	불구가 된
+disadvantage	불리
+disagree	일치하지 않다
+disappear	안보이게 되다
+disappoint	실망시키다
+disaster	천재
+discard	버리다
+discerning	식별력 있는, 안목 있는
+discharge	짐을부리다
+discipline	훈련
+disclose	나타내다
+discount	할인
+discourage	낙담시키다, 단념시키다
+discourse	강연
+discourteous	무례한
+discover	발견하다
+discovery	발견
+discrepancy	차이, 불일치
+discriminate	분별하다
+discuss	토론하다
+discussion	토론, 토의
+disease	병
+disgrace	불명예
+disguise	변장하다
+disgust	불쾌하게 하다
+disgusting	역겨운
+dish	접시
+disinterested	사심이 없는, 객관적인
+dislike	싫어하다, 혐오
+dismay	낙담시키다
+dismiss	떠나게 하다
+disorder	난잡
+dispensable	없어도 되는
+disperse	해산시키다, 분산시키다
+displace	바꾸어놓다
+display	보이다
+disposable	일회용의
+dispose	배열하다
+dispute	논쟁하다
+disregard	소홀히 하다, 무시하다
+disrupt	분열시키다
+dissatisfaction	불만, 불평
+distant	떨어진
+distinct	다른, 뚜렷한
+distinguish	구별하다.
+distort	찌그러뜨리다
+distract	전환시키다
+distribute	분배하다
+distributuion	분배, 배급
+district	지구
+disturb	교란하다
+disturbing	충격적인, 불안감을 주는, 방해하는
+dive	뛰어들다
+diverge	분기하다, 나눠지다
+diverse	다양한
+divert	우회시키다, 다른 곳으로 돌리다
+divide	나누다
+divine	신의
+division	분할, 부서
+divorce	이혼
+dizzy	어지러운
+do	하다
+doctor	박사
+document	서류
+dog	개
+doll	인형
+dolphin	돌고래
+domain	영토
+domestic	가정의
+dominant	우세한
+dominate	지배하다
+donate	증여하다
+donation	기증, 기부
+doom	운명
+door	문
+dormitory	기숙사
+dose	1회복용량 투약하다
+dot	점
+double	2배의
+doubt	의심
+down	아래로
+downtown	시내에서, 도심지로
+dozen	1다스
+draft	초고
+drag	끌다
+drain	배수하다
+dramatic	극적인, 연극의
+drape	(방 등을 커튼 등으로)장식하다
+drastic	강력한, 과감함
+draw	당기다
+drawer	제도사
+dread	두려워하다 두려움
+dream	꿈
+drift	떠돌다
+drill	연습
+drink	마시다
+drip	물방울을 떨어뜨리다
+drive	운전하다
+drop	방울
+drought	가뭄
+drown	물에빠뜨리다
+drug	약제
+dry	마른
+dual	둘의
+duck	머리를 물 속에 쑥 쳐박다
+due	지급기일이 된
+dull	둔한
+dumb	멍청한,벙어리의
+dump	내버리다
+duplicate	복사하다
+duration	지속 기간, 지속
+during	-동안에
+dust	먼지
+duty	의무
+dwell	거주하다
+dwelling	거주, 거처
+dwindle	줄어들다, 감소되다
+dye	물들이다
+dynamic	동적인
+dynasty	왕조
+each	각각의
+eager	열심인
+ear	귀
+early	이른
+earn	일하여 벌다
+earth	지구
+ease	안락
+easily	쉽게
+east	동쪽 동쪽의 동쪽으로
+easy	쉬운
+eat	먹다
+echo	메아리
+ecology	생태학
+economic 	경제(학)의
+economical	경제적인, 절약되는
+economical	 절약이 되는
+economize	절약하다, 아끼다
+economy	절약
+ecosystem	생태계
+edge	끝머리
+edible	식용의
+edit	편집하다
+edition	(간행물의)판
+editorial	사설
+educate	교육하다
+education	교육
+effect	결과
+effective	효과적인
+efficiency	효율, 능률
+efficient	능률적인
+efficient	효율적인
+effort	노력
+egg	알
+either	어느 하나의
+elaborate	공들인
+elbow	팔꿈치
+elderly	나이가 지긋한
+elect	선거하다
+election	선거
+electric	전기의
+electronic	전자(학)의
+elegant	우아한
+element	요소
+elementary	기본의
+elephant	코끼리
+elicit	끌어내다
+eligible	자격이 있는, 적격의
+eliminate	제거하다
+eloquent	설득력 있는, 웅변력 있는
+else	그 밖에
+embarrass	난처하게 하다
+embassy	대사관
+embrace	포옹하다
+embryo	(배아)태아
+emerge	나오다
+emergency	비상사태
+emission	배출
+emit	방사하다
+emotion	감정
+emphasis	강조
+emphasize	강조하다
+empire	제국
+employ	고용하다
+employee	직원, 고용인
+employer	고용주
+employment	고용
+empty	빈
+enable	~할 수 있게 하다.
+enclose	에워싸다
+enclosed	동봉된
+encompass	포함하다, 둘러싸다
+encounter	조우
+encourage	용기를 돋우다
+encouragement	격려
+encyclopedia	백과사전
+end	끝
+endanger	위험에 빠뜨리다.
+endangered	멸종 위기에 처한
+endorsement	배서, 보증
+endowment	기증, 기부
+endure	견디다
+enemy	적
+enforce	실시하다
+engage	약속하다
+engine	엔진
+engineer	기사
+enhance	향상하다
+enjoy	즐기다
+enlarge	확장하다, 확대하다
+enormous	거대한
+enough	충분한
+enquire	묻다
+enrich	부유하게하다
+enrol	명부에 올리다
+enroll	명부에 올리다
+enrollment	등록
+ensure	-을 책임지다
+enter	들어가다
+enterprise	기획
+entertain	즐겁게 하다
+entertainment	오락, 대접
+enthusiastic	열심인
+entire	전체의
+entitle	자격을 주다
+entrance	출입구
+entrepreneur	사업가
+entrepreneurship	기업가 정신
+entry	들어감
+envelope	봉투
+envious	부러워하는
+environment	환경
+environmental	환경적인
+envision	(장래의 일 등을)계획하다, 상상하다
+envy	질투
+episode	삽화
+epuipment	장비, 설비
+equal	같은
+equality	평등
+equate	같게하다
+equator	적도
+equip	갖추다, 설비하다
+equipment	장비
+era	시대
+eraser	지우는 사람
+erect	똑바로 선
+errand	심부름
+error	잘못
+erupt	분출하다
+escape	도망하다
+escort	호위하다
+especially	특히
+essential	본질적인
+establish	확립하다
+estate	토지
+estimate	어림잡다
+etc	등등
+eternal	영원한
+ethic	윤리
+ethical	도덕상의
+ethnic	인종의
+evacuate	비우다
+evaluate	평가하다
+eve	저녁, 밤
+even	-조차
+evening	저녁
+evenly	고르게, 균등하게
+eventually	결국
+ever	이전에
+every	모든
+evidence	증거
+evident	명백한
+evil	사악한
+evolution	진화
+evolve	진화하다
+exact	정확한
+exaggerate	과장하다
+exaggerated	과장된
+exam	시험
+examination	진찰, 검사
+examine	시험하다
+example	보기
+exceed	넘다
+excel	뛰어나다
+excellent	우수한
+except	-을 제외하고는 제외하다
+excess	초과
+exchange	교환하다
+excite	흥분시키다
+excited	신이 난, 들뜬
+excitement	흥분
+exclaim	외치다
+exclude	배척하다
+exclusion	제외, 배제
+exclusive	배타적인
+excursion	소풍
+excuse	변명
+execute	실행하다, 집행하다
+executive	집행의
+exempt	면제된, ~이 없는
+exercise	운동
+exhaust	다 써버리다
+exhibit	보이다
+exhibition	전시회
+exist	존재하다
+existing	기존의, 현행의
+exit	출구
+exotic	외국의
+expand	펴다
+expansion	확장, 팽창
+expect	기대하다
+expectation	기대
+expedition	탐험
+expel	내쫒다
+expenditure	지출, 비용
+expense	지출
+expensive	비용이 드는
+experience	경험
+experienced	경험이 있는, 노련한, 능숙한
+experiment	실험
+expert	숙련가
+expertise	대가의 의견
+expiration	(기간,임기 등의)만료, 만기
+expire	(계약등이)만료되다
+explain	설명하다
+explanation	설명
+explicit	명백한
+explode	폭발시키다
+exploit	착취하다, 부당하게 이용하다
+explore	탐험하다
+explosion	폭팔
+export	수출하다 수출
+expose	쐬다, 드러내다, 맞히다
+exposure	노출
+express	발표하다
+expressive	표현하는
+exquisite	정교한, 더없이 훌륭한
+extend	뻗다
+extended	(기간 등을)연장한, 장기간에 걸친
+extension	연장, 연기; (전화의)내선
+extensive	광대한
+extent	넓이
+external	외부의
+extinct	꺼진
+extinction	멸종
+extinctions	멸종
+extra	가외의
+extract	뽑아내다
+extracurricular	과외의, 정규 과목 이외의
+extrairdinary	보기 드문, 탁월한
+extraordinary	이상한
+extravagant	낭비벽이 있는
+extreme	극단의
+eye	눈
+eyebrow	눈썹
+fabric	천
+fabrication	제작
+face	얼굴
+facilitate	쉽게하다
+facility	쉬움
+fact	사실
+factor	요소
+factory	공장
+faculty	능력
+fade	바래다
+fail	실패하다
+failure	실패
+faint	기절하다
+fair	공평한
+fairly	상당히, 꽤
+faith	신용
+fake	모조품
+fall	떨어지다
+false	거짓
+fame	명성
+familiar	친한
+family	가족
+famine	기근
+famous	유명한
+fan	(영화 등의)팬
+fancy	공상
+fantastic	환상적인
+fantasy	환상, 공상영화
+far	멀리
+faraway	먼
+fare	요금
+farewell	작별
+farm	농장
+farther	더 먼, 더 멀리
+fascinate	황홀케 하다
+fascinating	매혹적인, 황홀한
+fashionable	유행하는
+fast	빠른
+fasten	단단히 고정시키다
+fat	살찐
+fatal	치명적인
+fate	숙명
+father	아버지
+fatigue	피로
+faucet	수도꼭지
+fault	결점
+favor	호의
+favorite	마음에 드는 좋아하는 물건
+favour	호의
+fear	두려움
+fearful	두려운
+feasibility	가능성, 실행 가능함
+feast	축제
+feather	깃털
+feature	얼굴의 생김새
+federal	연방의
+fee	요금
+feed	음식(먹이)을 주다
+feedback	피드백
+feel	만져보다
+fellow	동무
+female	여성
+fermentation	발효
+ferry	나루터
+fertile	비옥한
+festive	축제의
+fetus	태아
+fever	열
+few	소수의
+fiasco	큰 실수, 대실패
+fiber	섬유
+fibre	섬유
+field	들
+fierce	흉포한
+fight	싸움
+figure	모습
+file	종이끼우개
+fill	가득 채우다
+filter	여과기 여과하다
+final	최후의
+finalize	마무리 짓다, 완결하다
+finance	재정
+financial	재정의, 금전상의
+find	발견하다
+fine	훌륭한
+finger	손가락 손가락을 대다
+finish	끝내다
+finite	한정되어 있는
+fire	불
+firm	굳은
+fiscal	회계의, 재정상의
+fish	물고기
+fist	주먹
+fit	맞는
+fix	고정시키다
+fixture	고정 세간, 붙박이
+flag	기
+flame	불꽃
+flash	번쩍임
+flat	편평한
+flatter	아첨하다
+flavor	(독특한)맛
+flaw	금
+flee	달아나다
+flesh	살
+flexible	구부리기 쉬운
+flight	날기
+flip	튀기다 홱 움직이다 튀기기
+float	뜨다
+flock	무리
+flood	홍수
+floor	마룻바닥
+flourish	번창하다
+flow	흐르다
+flower	꽃
+fluctuation	변동
+fluent	유창한
+fluid	유동성의
+flush	왈칵흐르다
+flutter	퍼덕거리다
+fly	날다
+foam	거품
+focus	초점
+fog	안개
+fold	주름
+folk	사람들
+follow	쫓다
+following	~후에, 다음의, 다음에 오는
+fond	좋아하는
+food	음식
+fool	바보
+foot	발
+football	축구
+for	대신에
+forbid	금하다
+force	힘
+forecast	예상
+forehead	이마
+foreign	외국의
+foresee	예견하다, 예감하다
+foreseeable	예견할 수 있는
+forest	숲
+foretell	예견하다
+forever	영원히
+forget	잊다
+forgive	용서하다
+form	모양
+formal	형식상의
+format	(서적의)체제
+formation	형성
+former	이전의
+formerly	이전에, 예전에
+formula	공식
+forth	앞으로
+forthcoming	다가오는
+fortunate	운좋은
+fortune	운
+forum	공개토론회
+forward	앞쪽에
+fossil	화석
+foster	기르다
+foul	역겨운, 반칙
+found	설립하다.
+foundation	기초
+fountain	샘
+fox	교활한 사람
+fraction	분수
+fragile	깨어지기 쉬운
+frame	구조
+framework	뼈대
+frank	솔직한
+fraud	사기
+free	자유로운
+freedom	자유
+freelancer	프리렌서
+freeze	얼다
+freight	화물
+frequent	빈번한
+fresh	새로운
+freshman	신입생
+fridge	냉장고
+friend	친구
+fright	(갑자기 엄습하는)공포
+frighten	무섭게 하다.
+frog	개구리
+from	(분리,이탈,출발점,기점)-로 부터
+front	정면
+frost	서리
+frown	눈살을 찌푸리다
+fruit	과일
+frustrate	(계획 등을)좌절시키다
+fry	기름으로 튀기다
+fuel	연료
+fulfil	이행하다
+fulfill	이행하다
+full	가득찬
+fun	즐거운 생각
+function	기능
+fund	기금
+fund-raising	모금
+fundamental	기초(기준)의
+funeral	장사
+fur	모피
+furious	노하여 펄펄뛰는
+furnish	공급하다
+furnished	가구가 비치된
+furniture	가구
+further	추가의, 더 멀리에
+furthermore	더우기
+fuse	신관
+fusion	결합
+future	미래
+gain	얻다
+galaxy	은하
+gamble	도박하다 도박 도박해서 잃다
+gang	한 떼
+gap	갈라진 틈
+garage	차고
+garden	뜰
+gasoline	가솔린
+gate	문
+gather	그러모으다
+gaze	지켜보다
+gear	톱니바퀴
+gender	성
+gene	유전(인)자
+general	일반적인
+generalize	일반화하다
+generate	낳다
+generation	일대
+generous	광대한
+genetic	유전의
+genius	천재
+genre	유형
+gentle	온화한
+gentleman	신사
+genuine	진짜의
+geography	지리
+geology	지질학
+geometry	기하학
+germ	세균
+gesture	몸짓
+get	얻다
+ghost	유령
+giant	거인
+gift	선물
+gigantic	거대한
+giggle	킥킥웃다
+giraffe	기린
+girl	소녀
+give	주다
+glacier	빙하
+glad	기쁜
+glance	흘긋 봄
+glare	번쩍이는 빛
+glass	유리
+glimpse	흘끗 봄
+glitter	바짝이다
+global	공모양의
+globe	지구, 구
+gloomy	우울한, 어두운
+glory	영광
+glove	장갑
+glow	타다
+glue	아교
+go	가다
+goal	결승점
+goat	염소
+god	신
+gold	금
+good	좋은
+goodbye	안녕히 가세요
+goods	상품
+gorgeous	호화로운
+gospel	복음서, 신조
+govern	다스리다
+government	정부
+grab	붙잡다
+grace	은총
+graceful	우아한
+grade	등급
+gradual	점차적인
+graduate	학위를 수여하다
+grain	곡물
+grand	위대한
+grandfather	할아버지
+grant	받아들이다
+grape	포도
+graphic	그려 놓은 듯한
+grasp	붙잡다
+grass	풀밭
+grateful	고맙게 생각하는
+gratitude	감사
+grave	무덤
+gravity	중력
+graze	풀을 먹다
+great	커다란
+greed	탐욕
+green	초록색
+greet	인사하다
+grey	회색의
+grief	심한 슬픔
+grin	웃다
+grind	갈다
+grip	잡기
+grocery	식품잡화류
+gross	총계의
+ground	땅
+group	집단
+grow	성장하다
+growth	성장, 발전
+guarantee	보증하다
+guard	경비원, 지키다
+guardian	보호자
+guess	추측(짐작)하다
+guest	손님
+guidance	안내
+guide	이끌다
+guideline	지침
+guilty	죄지은
+gulf	만
+gun	총
+guy	녀석
+gym	실내체조장
+gymnasium	실내체조장
+habit	습관
+habitat	(동물의)자연번식지
+habitual	습관적인
+hair	털
+half	반
+halfway	중간의
+hall	회관
+halt	멈춰서다
+hammer	망치
+hand	손
+handicap	불리한 조건
+handle	손잡이
+handsome	얼굴(자태)이 잘생긴
+hang	걸다
+haphazardly	우연히, 무턱대고, 되는 대로
+happen	(사건 등이)일어나다
+happy	행운의
+harbor	항구
+hard	단단한
+hard	단단한, 어려운, 열심히
+hardly	거의 -아니다
+hardly	거의 ~않다
+hardship	곤란
+harm	해
+harmonious	조화로운
+harness	마구
+harsh	거친
+harvest	수확
+haste	급함
+hasten	서두르다
+hat	(테있는)모자 모자를 씌우다
+hatch	부화하다
+hate	미워하다
+haunt	자주가다
+have	가지(고 있)다
+hay	건초더미
+hazard	위험
+hazardous	위험한
+he	(3인칭단수 남성)그
+head	머리
+headache	두통
+headline	머릿기사,표제
+headquarters	본부
+heal	고치다
+health	건강
+healthful	건강에 좋은
+healthy	건강한
+hear	듣다
+heart	심장
+heat	열
+heaven	하늘
+heavily	몹시, 심하게
+heavy	무거운
+heel	발뒤꿈치
+height	높이
+heir	상속인
+helicopter	헬리콥터
+hell	지옥
+hello	여보
+help	돕다
+helpless	희망 없는, 가능성 없는
+hence	그러므로
+hepatitis	간염
+herd	무리. 떼
+here	여기에
+heritage	세습 재산
+hero	영웅
+hesitate	주저하다
+hide	감추다
+hierarchy	계층, 계급
+high	높은
+high 	높은, 높게
+high-tech	첨단 과학 기술의
+highlight	강조하다
+highly	매우, 대단히
+highly	매우
+highway	대도
+hill	언덕, 낮은 산 인도 고지
+hinder	막다, 방해하다
+hip	엉덩이
+hire	고용하다
+historic	역사적으로 중요한
+historical	역사적, 역사상의
+historical	역사(상)의
+history	역사
+hit	명중하다
+hobby	취미
+hold	손에 갖고 있다
+hole	구멍
+holiday	휴일
+holy	신성한
+home	가정
+homesick	향수병의
+homework	숙제
+honest	정직한
+honesty	정직
+honey	벌꿀
+honor	명예
+honour	명예
+hook	갈고리
+hop	뛰다
+hope	희망
+horizon	지평선
+horn	뿔
+horrible	무시무시한
+horror	공포
+horse	말
+hospital	병원
+hospitality	환대, 친절
+host	주인, 집주인 노릇, 호스트
+hostage	볼모
+hostile	반대하는
+hot	뜨거운
+hour	시간
+house	집
+household	가족
+how	어떻게
+however	아무리
+hug	꼭 껴안다
+huge	거대한
+human	인간의
+humanity	인류, 인간성
+humble	겸손한
+humor	유우머
+hundred	100
+hunger	굶주림
+hungry	배고픈
+hunt	사냥하다
+hurry	서두르다
+hurt	상처내다
+husband	남편 절약하다
+hut	오두막
+hypothesis	가설
+I	나는, 내가
+ice	얼음
+iceberg	빙산
+idea	관념
+ideal	이상
+identical	아주 동일한
+identification	신분증, 신분 증명서
+identify	동일시하다
+identity	신원, 정체성
+ideology	공리
+idle	한가한
+if	만일 -이라면
+ignorance	무지
+ignore	무시하다
+ill	병든
+illicit	불법의, 금지된
+illusion	환영
+illustrate	설명하다
+imaginable	상상할 수 있는
+imaginary	상상의
+imagination	상상
+imaginative	 상상력이 풍부한
+imagine	상상하다
+imitate	흉내내다
+immediate	직접의
+immense	무한한
+immensely	대단히, 엄청나게
+immigrate	이주하다
+immune	면역성의
+impact	충격
+impede	저해하다, 방해하다
+imperative	반드시 해야 하는
+imperial	제국의
+implement	기구
+implication	밀접한 관계, 관련, 암시
+imply	함축하다
+import	수입하다
+important	중요한
+impose	부과하다
+impress	인상지우다
+impressed	인상 깊게 생각하는, 감명을 받은
+impression	인상
+impressive	굉장한, 인상적인
+improbable	"사실이라고 생각할 수 없는,
+일어날 것 같지 않은"
+improve	개선하다
+improvement	개선
+improvise	고안하다
+in	-속에
+inaccessible	접근이 불가능한, 이용이 불가능한
+inaccurate	부정확한
+incentive	자극적인
+incidence	발생정도, 범위
+incident	사건
+incidental	부수적인
+inclination	경향, 기울어짐
+incline	기울이다
+inclined	~경향이 있다.
+include	포함하다
+income	수입
+inconvenience	불편, ~에게 불편을 느끼게 하다
+incorporate	합동시키다
+incorrect	부정확한
+incrative	수익성 있는, 돈벌이가 되는
+increase	늘다
+increasingly	점점, 더욱 더
+incredible	믿을 수 없는
+incur	초래하다, 발생시키다
+indeed	참으로
+independence	독립성
+independent	독립한
+index	색인
+indicate	지적하다
+indication	징후, 조짐
+indicator	지표, 지수
+indifferent	무관심한
+individual	개인
+induce	꾀다
+indulge	빠지다, 탐닉하다
+industrial	산업의
+industrial	 산업의
+industrious	근면한
+industry	공업
+inevitable	피할 수 없는
+inexperienced	경험없는, 미숙한
+infant	유아
+infect	감염시키다
+infer	추론하다
+inferior	열등한
+infinite	무한한
+inflate	부풀게 하다
+inflation	인플레이션
+inflict	(고통,피해를)입히다, 가하다
+influence	영향력
+inform	알리다
+informal	비공식의
+information	유익한, 정보를 주는
+infuriate	화나게하다, 격분시키다
+ingredient	성분
+inhabit	살다
+inherent	생태의, 고유의
+inherit	상속하다
+inhibit	금하다
+initial	처음의
+initially	처음에, 초기에
+initiate	시작하다
+initiative	솔선, 독창성
+inject	주사하다
+injure	해치다
+inn	여인숙
+innate	타고난
+inner	내적인
+innocent	무구한
+innovate	새롭게 하다
+innovative	혁신적인
+input	투입
+inquire	묻다
+inquiry	질문, 문의
+insect	곤충
+insert	끼워넣다
+inside	안쪽
+insight	통찰(력)
+insist	주장하다
+insolent	무례한
+inspect	검사하다
+inspection	점검, 검사
+inspector	조사관, 감독관
+inspiration	영감
+inspire	영감을 주다
+install	설치하다
+installment	할부
+instance	실례
+instant	즉시의
+instead	그 대신에
+instigate	부추기다, 선동하다
+instinct	본능
+institute	만들다
+instruct	가르치다
+instruction	설명, 지시
+instrument	기구
+insult	모욕하다
+insurance	보험, 보장
+insure	보증하다
+intangible	무형의
+integrate	통합하다
+intellectual	지적인
+intelligence	지능
+intelligent	지적인
+intelligible	이해할 수 있는
+intend	-할 작정이다
+intense	강렬한
+intensify	강화하다
+intensive	집중적인
+intent	의향
+intention	의도
+interact	서로 작용하다
+interest	흥미
+interested	관련 있는; 관심이 있는
+interfere	간섭하다
+interim	임시의
+intermediate	중간의 중간물
+internal	내부의
+international	국제적인
+interpret	해석하다
+interrupt	훼방놓다
+intersection	교차로(점)
+interval	간격
+intervene	사이에 들다
+interview	면접, 면접을 보다
+intimate	친밀한
+into	-안으로
+intrigue	음모
+intriguing	흥미를 자아내는
+introduce	안으로 들이다
+introduction	도입
+invade	침입하다
+invaluable 	매우귀중한
+invent	발명하다
+inventory	재고품, 재고목록
+invest	투자하다
+investigate	조사하다
+investment	투자, 투자금
+invite	초대하다
+invoice	송장
+involve	말아넣다
+involved	관여하는, 관계된, 연루된
+iron	쇠
+ironic	반어적인
+irony	반어
+irrelevant	관계가 없는, 무관한
+irrigation	관개
+irritate	노하게 하다
+island	섬
+isolate	고립시키다
+isolation	고립, 고독
+issue	문제[쟁점]/호/발행/발표하다
+it	그것은
+item	조항
+itinerary	여행 일정표
+jail	교도소
+jar	(아가리가 넓은)항아리
+jaw	턱
+jealous	질투심많은
+jeans	청바지
+jet	(가스등의)분출
+job	일
+jog	살짝 밀다 덜커덕 움직이다 고르지 않음
+join	결합하다
+joint	이음매
+joke	농담
+journal	일간신문
+journalist	언론인
+journey	여행
+joy	즐거움
+judge	재판관
+judgement	판단, 심판
+judicial	사법의
+junior	손아래사람
+junk	폐물고물, 내버리다
+jury	배심
+just	올바른
+justice	정의
+justify	옳다고 하다
+juvenile	청소년의
+keen	날카로운
+keep	계속하다
+kettle	주전자
+key	열쇠
+kick	걷어차다
+kid	아이
+kill	죽이다
+kind	친절한
+kindergarten	유치원
+king	왕
+kit	연장통
+kitchen	부엌
+knee	무릎
+kneel	무릎을 꿇다
+knife	나이프
+knight	(중세의)기사
+knock	치다
+knot	매듭
+know	알다
+lab	실험실
+label	라벨
+labor	노동
+laboratory	실험실
+labour	노동
+lack	결핍
+ladder	사닥다리
+lady	귀부인
+lagislation	법률, 법규
+lake	호수
+lamb	어린 양
+lamp	등
+land	뭍
+landfill	매립지
+landscape	풍경
+lane	좁은길
+language	언어
+lap	무릎
+lapse	착오, 실수
+large	큰
+largely	주로, 대부분
+last	계속하다
+late	늦은
+lately	최근에
+latter	뒤쪽의
+laugh	(소리내어)웃다
+launch	진수시키다
+laundry	세탁물
+law	법률
+lawn	잔디밭
+lawyer	법률가
+lax	(행동 등이)느슨한, 규율에 못 미치는
+lay	눕히다
+layer	층
+lazy	게으른
+lead	이끌다
+leadership	리더십, 지도력
+leading	선도적인, 일류의, 가장 중요한, 선두적인
+leaf	잎
+leak	샘
+lean	기대다
+leap	껑충 뛰다
+learn	배우다
+lease	임대차
+leather	무두질한 가죽
+leave	남기고가다
+lecture	강의
+left	왼쪽의
+leftover	남은 음식
+leg	다리
+legal	법률상의
+legend	전설
+legislate	법률을 제정하다
+legitimate	합법의
+legnthy	너무 긴, 장황한
+leisure	틈
+lend	빌리다
+less	보다 적은, 덜한
+lessen	줄이다, 완화하다
+lesson	학과
+let	시키다
+letter	편지
+level	수평의
+liable	~하기 쉬운, ~할 것 같은
+liberal	자유주의의
+liberty	자유
+library	도서관
+licence	면허
+license	면허
+lid	뚜껑
+lie	눕다
+lift	끌어올리다
+light	빛
+like	좋아하다
+likely	있을 법한
+likewise	같이, 마찬가지로
+limit	한계
+limited	제한된, 한정된
+line	선
+linguistic	말의
+link	사슬의 고리
+lion	사자
+lip	입술
+liquid	액체
+liquidate	처분하다, 청산하다
+list	일람표
+listen	경청하다
+literal	문자의
+literary	문학의
+literate	읽고 쓸 줄 아는
+literature	문학
+litter	쓰레기, 어지르다
+little	작은
+live	살다
+live 	살아있는, 생방송의
+lively	활기찬
+lively	활기찬, 생기 있는
+liver	간
+livingroom	거실
+load	짐
+loan	대부
+local	장소의
+locate	관청 등을 두다
+location	장소, 위치
+lock	자물쇠
+log	통나무
+logic	논리학
+lone	혼자의
+long	(길이,시간 등)긴
+look	보다
+loose	풀어진
+lose	잃다
+loss	잃음
+lot	제비
+lottery	복권
+loud	시끄러운
+lounge	빈둥거리다
+love	사랑
+low	낮은
+lower	아래의, 낮은, 낮추다
+loyal	충성스러운
+luck	운
+lumber	목재
+lump	덩어리
+lunar	달의
+lunch	점심
+luxurious	사치스러운
+luxury	사치
+lyric	서정시
+machine	기계
+mad	미친
+magazine	잡지
+magnet	자석
+magnificent	장대한
+mail	우편물
+main	주요한
+maintain	계속하다
+major	큰쪽의
+majority	대다수
+make	만들다
+make-up	화장, 구성
+male	남성의
+malfunction	오작동, 기능불량
+mammal	포유류
+man	남자
+manage	관리하다
+management	경영진, 경영
+managerial	관리의
+mandate	명령하다, 요구하다
+mandatory	의무적인
+maneuver	이동시키다, 움직이다
+manifest	명백히 하다
+manipulate	(손으로)다루다
+manipulation	조작
+mankind	인류
+manner	방법
+manner	방식
+manners	예의
+manual	설명서, 안내서
+manufacture	제조하다
+manufacturer	제조회사, 제조업자
+manufacturing	제조(업)의
+manuscript	원고
+many	많은
+map	지도
+margin	가장자리
+marginal	약간의; 주변의
+marine	바다의
+mark	표
+markedly	두드러지게
+market	시장
+marry	결혼하다
+marvel	경이
+marvelous	휼륭한
+mass	덩어리
+massive	육중한
+master	장
+mastermind	(계획 등의)입안자, 지도자
+masterpiece	걸작
+match	성냥
+mate	상대
+material	원료
+mathematics	수학
+matter	물질
+mature	익은
+maximum	최고점
+may	5월  청춘, 인생의 봄  산사나무, 아가위나무
+maybe	아마
+mayor	시장
+meadow	초지
+meager	부족한, 결핍된
+meal	식사
+mean	의미하다
+means	수단, 방법
+means	수단
+meantime	그동안 그 사이에
+meanwhile	그동안
+measure	재다
+measurement	측정, 측량; 치수
+meat	(식용짐승의)고기
+mechanic	직공
+mechanical	기계의
+mechanism	(기계)장치
+mediate	중재하다
+medical	의학의
+medicine	약
+medieval	중세(풍)의
+meditation	명상
+medium	중간
+meet	-을 만나다
+meeting	회의
+melt	녹다
+memorable	 기억할 만한
+memorial	기념비
+memorial 	기념의
+memorize	암기하다.
+memory	기억
+mental	마음의
+mention	말하다
+merchandise	상품
+merchant	상인
+mercy	자비
+mere	단순한
+merely	단지
+merge	합병하다
+merit	장점
+mess	혼란
+messy	지저분한
+metal	금속
+meteorological	기상의
+method	방법
+meticulously	꼼꼼하게
+metropolitan	수도권(의)
+microphone	확성기
+microscope	현미경
+microwave	극초단파 전자레인지로 요리하다
+middle	한복판의
+midst	한가운데
+might	힘
+migrate	이주하다
+migration	이동, 이주
+mild	온후한
+military	군의
+milk	젖
+mill	멧돌
+millennium	천년
+million	백만
+millionaire	백만장자
+mind	마음
+mine	광산, 채굴하다
+miner	광산업자
+mineral	광물
+minimal	최소(한도)의
+minimum	최소 한도
+minister	장관
+ministry	장관(목사)의 직(소임)
+minor	작은 편의
+minority	소수
+minute	분
+minutes	회의록, 의사록
+miracle	기적
+mirror	거울
+mischief	장난, 해악
+miserable	비참한
+mislead	잘못믿게하다
+misplace	잃어버리다, 위치를 잘못 잡다
+miss	미혼 여성 실수하다
+missile	미사일
+missing	분실된, 없어진
+mission	사명
+mist	안개
+mistake	틀리다
+misunderstand	오해하다.
+mix	섞다
+mixture	혼합물
+mobile	움직이기 쉬운
+mock	조롱하다
+mode	방법
+moderate	절제하는
+moderation	절제
+modern	현대의
+modest	겸손한
+modify	변경하다
+moisture	습기
+molecule	분자
+moment	순간
+monastery	수도원
+money	금전
+monitor	충고자
+monk	수사
+monkey	원숭이
+monotonous	단조로운
+monster	괴물
+month	월
+monument	기념비
+mood	(일시적인)기분
+moon	달
+moral	도덕의
+morale	사기
+moreover	그 위에
+morning	아침
+mortal	죽을운명의
+mortgage	(담보)대출
+moss	이끼
+mother	어머니
+motion	운동
+motivate	동기를 부여하다.
+motive	동기
+motorcycle	오토바이
+mount	산
+mountain	산
+mounting	증가하는, 오르는
+mouse	새앙쥐
+mouth	입
+move	움직이다
+movement	운동,움직임
+movie	영화
+much	많은
+mud	진흙
+multiple	복합의
+multiply	늘리다
+mummy	미이라
+municipality	지방자치단체
+mural	벽화
+murder	살인
+muscle	근육
+museum	박물관
+mushroom	버섯
+music	음악
+must	-해야 한다
+mustache	수염
+mutual	상호의
+mystery	불가사의
+myth	신화
+nail	손톱
+naive	소박한
+naked	발가벗은
+name	이름
+namely	즉
+nanny	유모
+nap	낮잠
+narrate	이야기하다
+narrow	좁은
+nasty	불쾌한
+nation	국가
+native	타고난
+nature	자연
+navy	해군(력)
+near	가까이 -의 가까이에 가까운 접근하다
+near	가까운, 가까이
+nearly	거의, 대략
+nearly	거의
+neat	산뜻한
+necessary	필요한
+necessity	필수품
+neck	목
+need	필요
+needle	바늘 바늘로 꿰매다 바느질하다 아슬아슬한
+negative	부정적인
+neglect	게을리 하다
+negligence	부주의, 태만
+negotiate	교섭하다
+negotiation	협상, 교섭
+neighbor	이웃사람(나라)
+neither	(둘중)어느쪽도 -아니다 -도 아니다
+nephew	조카
+nerve	신경
+nervous	신경의
+nest	보금자리
+net	그물
+network	그물세공
+neutral	중립의
+neutrality	중립성, 중립
+never	결코 -아니다
+nevertheless	그럼에도 불구하고
+new	새로운
+newspaper	신문
+next	다음의
+nice	니스(프랑스 남부의 항구도시)
+niece	조카딸
+night	밤
+nightmare	악몽
+no	무의
+noble	고귀한
+nobody	아무도 -않다 하찮은 사람
+nod	끄덕이다
+noise	소리
+nominate	추천하다
+nomination	임명, 지명
+none	아무도(조금도)-않다 조금도(결코)-않다
+nonetheless	역시
+nonsense	허튼 소리
+noon	정오
+nor	-도 또한-않다
+norm	표준
+normal	표준(의)
+north	북, 북 쪽, 북부
+nose	코
+not	아니다
+note	기록
+nothing	아무것도 …없다
+notice	통지, 통보
+noticeable	눈에 띄는, 현저한
+notification	통지
+notify	통고하다
+nourish	영양분을 주다
+novel	소설
+novice	초보자
+now	지금
+nowadays	오늘날에는, 요즈음에는
+nowhere	아무데도 …없다
+nuclear	핵의, 핵을 형성하는 원자핵의
+number	수
+numerically	수적으로
+numerous	다 수의, 수많은, 셀 수 없이 많은
+nun	수녀 집비둘기의 일종
+nurse	유모
+nurture	양육하다
+nut	견과
+nutrition	영양분
+oak	참나무
+obey	따르다
+object	사물
+object	물체, 대상, 목표, 반대하다
+objectify	객관화하다
+objection	반대, 이익
+objective	객관적인
+objective 	목표, 객관적인 
+obligate	의무를 지우다
+obligation	의무, 책임
+oblige	(의무를)별수없이 -하게하다
+obscure	덮어 감추다
+observe	관찰하다
+obsess	늘러붙다
+obsolete	쓸모없게 된
+obstacle	장애(물)
+obstruct	방해하다
+obtain	얻다
+obvious	명백한
+occasion	경우
+occasional	가끔의
+occupancy	점유, 선점
+occupation	일직업
+occupy	차지하다
+occur	일어나다
+ocean	대양
+odd	묘한
+of	출신의
+off	떨어져
+offend	성나게 하다
+offer	권하다
+office	임무
+officer	장교
+official	공무원
+often	자주
+oil	기름
+old	늙은
+olive	올리브나무
+omission	생략
+omit	생략하다
+on	위에
+once	한번
+one	하나(의)
+ongoing	진행 중인
+only	유일한
+open	열다
+operate	움직이다
+operation	수술
+opinion	의견
+opponent	상대, 반대자
+opportune	시기가 좋은, 알맞은
+opportunity	기회
+oppose	반대하다
+opposite	정반대의 (것), 
+optimist	낙천가
+optimistic	낙관적인
+option	선택(권의 자유)
+or	혹은
+oral	구두의
+orbit	궤도
+orchestra	관현악단
+orchestrate	주관하다, 조정하다
+order	순서
+ordinary	보통의
+organ	(생물의)기관
+organic	유기체의
+organise	조직하다
+organism	유기체 (생물)
+organization	단체
+organize	조직하다
+orient	동양 동양의 동쪽으로 향하게 하다
+origin	기원
+originate	비롯되다, 유래하다
+other	다른 다른 것 그렇지 않고
+otherwise	딴 방법으로는
+ounce	삵괭이
+out	밖으로
+outcome	결과
+outgoing	외향적인
+outlaw	불법화하다
+outlet	배출구
+outline	윤곽
+outlook	전망
+outpace	보다 속도가 빠르다
+output	산출
+outrage	불법(적인 행위)
+outskirt	교외, 변두리
+outstanding	눈에 띄는
+oval	타원형(의)
+over	위쪽
+overall	포괄(전면)적인 덧옷
+overcome	이기다
+overdue	(지불,반납 등의)기한이 지난, 지불 기한이 넘은
+overflow	넘쳐흐르다
+overhead	머리위에 머리 위의
+overhear	엿듣다
+overlap	겹치다
+overlook	내려다 보다
+overnight	전날밤의
+oversea	해외(로부터)의
+oversee	감독하다
+overtime	초과근무, 야근
+overview	개요, 개관
+overweight	과체중의
+overwhelm	압도하다
+owe	지불할 의무가 있다
+own	자기자신의 소유하다
+oxygen	산소
+P.M.	오후
+pace	한걸음
+pack	꾸러미
+package	소포, 꾸러미
+packet	다발
+pad	덧대는 것
+pain	고통
+paint	도료
+pair	한쌍
+palace	궁전
+pale	창백한
+palm	손바닥
+pan	남비 사금 등을 남비로 가려내다
+panel	판벽널
+panic	돌연한공포
+pants	바지
+paper	종이
+paradise	낙원
+paradox	역설
+paragraph	(문장의)절
+parallel	평행의
+paralyze	마비시키다
+parcel	소포
+pardon	용서하다 용서
+parent	어버이
+parental	부모의
+park	공원
+parliament	의회
+part	부분
+partial	부분적인
+participant	참가자
+participate	참가하다
+participation	참여, 참가, 가입
+particle	입자
+particular	특수한
+pass	지나가다
+passage	통행, 통과
+passenger	승객
+passion	정열
+passionate	열렬한
+passive	수동적인
+passport	여권
+past	과거
+pastime	과거
+pat	톡톡 가볍게 치다
+patch	깁는 헝겊
+patent	전매특허권 전매특허의
+path	작은 길
+patience	인내심
+patient	인내심이 강한 환자
+patriot	애국자
+patrol	순회
+patronize	단골로 삼다
+pattern	모범
+pause	중지
+pave	(도로를)포장하다
+pavement	포장도로
+pay	지불하다
+payable	지불해야 하는
+payment	지불(금액),납입(금액)
+payroll	임금대장, 금료명부
+peace	평화
+peak	(뾰족한)끝
+pear	서양배
+peasant	농부
+peculiar	특별한
+pedestrian	보행자
+peel	껍질을 벗기다 벗어지다 껍질
+peer	동료
+penalty	벌
+pencil	연필 연필로 쓰다
+peninsular	반도
+people	사람들
+pepper	고추
+per	-에 의하여
+perceive	지각하다
+percentage	비율, 백분율
+perfect	완전한
+perform	다하다
+performance	실적,성과; 공연,연주, 연기
+perhaps	아마
+perimeter	둘레
+period	시간, 기간
+periodically	주기적으로
+perish	죽다, 사라지다
+perishable	썩기 쉬운
+permanent	영구의
+permission	허락, 허가
+permit	허가하다
+perpetrate	범하다, 저지르다
+persist	고집하다
+persistence	끈덕짐, 고집
+person	사람
+personal	개인의
+personal	개인적인, 사적인
+personality	개성
+personnel	인원
+personnel	인사의, 직원의
+perspective	원근법의 원근 화법
+persuade	설득하다
+persuasive	설득력 있는
+pessimistic	비관적인
+pet	애완동물
+petrol	가솔린
+pharmaceutical	제약의, 약학의
+phase	국면
+phenomenon	현상
+philosophy	철학
+photograph	사진 촬영하다
+photography	사진술
+phrase	구
+physical	물질의
+physician	의사
+physics	물리학
+pick	따다
+picture	그림
+piece	한 조각
+pierce	관통하다
+pig	돼지
+pile	쌓아 올린 것
+pill	알약
+pin	핀 핀으로 꽂다
+pinch	꼬집다
+pine	소나무 수척해 지다
+pink	연분홍색
+pioneer	개척자
+pitch	던지다
+pity	불쌍히 여김
+place	장소
+plain	분명한
+plan	계획
+planet	행성
+plant	실물
+plate	판
+platform	단
+play	놀다
+pleasant	기분 좋은
+please	기쁘게 하다
+pleased	만족해하는, 기쁜
+pleasing	즐거운, 기분 좋은, 만족스러운
+pleasure	즐거움
+plenty	많음
+plot	음모
+plume	깃털장식
+plunge	뛰어들다, 빠지다
+plus	더하기의 -외에
+pocket	포켓
+poem	시
+poet	시인
+point	점
+poised	(~을 할)준비가 다 된
+poison	독
+polar	남극의
+pole	폴란드사람
+police	경찰 경비하다
+policy	정책
+polish	닦다, 갈다, 윤내다
+polite	공손한
+politics	정치
+poll	투표
+pollutant	오염물질
+pollute	-을 더럽히다
+pond	못, 연못
+pool	판돈
+poor	가난한 부족한, 불충분한, 빈약한
+pop	팝
+pope	로마 교황  최고 권위자로 자처하는 사람
+popular	민중 의, 대중의
+popularity	인기, 대중성
+population	인구
+pork	돼지고기
+port	항구, 항만, 상항
+portfolio	포트폴리오, 투자 자산 구성
+portion	일부, 부분
+portrait	초상
+pose	자세, 포즈  마음가짐  꾸민 태도
+position	위치
+positive	명확한, 의문의 여지가 없는, 부정할 수 없는
+possess	소유하다
+possibility	가능성
+possible	가능한
+post	기둥
+poster	포스터
+postpone	연기하다, 뒤로 미루다
+pot	단지
+potato	감자
+potential	가능한
+pottery	도기
+pound	두근거리다
+pour	따르다
+poverty	가난
+powder	가루
+power	힘
+practicable	실행 가능한
+practical	실제의
+practical 	실제적인, 실용적인
+practice	연습
+praise	칭찬
+pray	빌다
+preach	설교하다
+precaution	예방책
+precede	-에 앞서다
+precious	비싼
+precipitation	강수량
+precise	정확한
+predator	약탈자
+predict	예언하다, 예보하다 예언하다
+prefer	오히려 …을 좋아하다,
+preference	선호
+preferment	승진, 발탁
+preferred	선호되는, 우선의
+pregnant	임신한 충만한
+prejudice	편견, 선입관
+preliminary	예비의, 사전 준비
+premier	국무 총리, 수상
+premises	구내, 건물(내)
+premium	할증금,  액면 초과액, 프리미엄
+preparation	준비
+prepare	준비하 다, 마련하다, 채비를 갖추다
+prescribe	명령하다, 지령하다
+presence	존재, 현존, 실재  출석, 임석, 참석
+present	있는, 존재하는, 현재
+presentation	발표
+preserve	보호하다, 지키다
+preside	(회의의)사회를 보다, ~의 의장을 맡아보다
+president	대통령 회장
+press	강제로 모집하다
+pressure	압력, 
+presume	가정하다
+pretend	핑계삼다
+pretty	예쁜, 귀여운, 참 한, 조촐한
+prevail	이기다, 극복하다, 압도하다 우세하다, 보급되다
+prevalent	유행하는, 널리 퍼진
+prevent	막다, 방해하다
+previous	앞의, 이전의
+prey	먹이
+price	값, 가격, 대가, 정가
+priceless	매우귀중한
+pride	자존심
+priest	성직자
+primary	첫째의, 제1위의, 수위의 초등의, 초보의
+prime	수위의, 최초의, 원시적인
+primitive	원시의, 초기의
+prince	왕자, 태자, 세자, 대군
+principal	주요한, 주된, 제일의, 앞장서는
+principle	원리, 원칙, 법칙, 공리
+print	인쇄하다, 프린트하다
+prior	이전의, 앞의
+priority	우선순위
+prison	교도소
+privacy	남의 눈을 피함, 은거, 은둔, 은퇴 생활 사생활
+private	사적인, 사사로운, 개인에 속한
+privilege	특권, 특전, 특별 취급
+prize	상, 포상, 우등상, 선행상
+probable	가능성 높은
+probably	아마, 십중팔구
+problem	문제
+procedure	진행, 경과 절차
+proceed	나아가다, 가다
+proceeds	수익금
+process	진행하다, 작용
+procrastinate	미루다, 꾸물거리다
+produce	생산하다, 산출하다, 생기게 하다,
+production	생산량, 생산
+productivity	생산성
+profession	직업 공언, 선언, 고백
+professional	전문적인, 직업의, 전문가
+professor	교수
+proficiency	숙달, 능숙
+proficient	능숙한
+profile	옆 얼굴, 반면상 인물 소개  태도, 자세
+profit	이익, 이득, 벌이
+profound	깊은, 심원한
+progress	진행, 전진, 진척  진보, 향상, 발달, 발전
+prohibit	금하다, 금지하다
+projection	예상(치)
+prolong	늘리다, 연장하다
+prominent	두드러진, 돌기한, 양각된 현저한, 탁월한, 중요한
+prominet	두드러진
+promise	약속, 서약, 계약
+promising	유망한
+promote	승진시키다 진행시키다,
+prompt	재빠른, 신속한, 즉시 …하는
+prone	~하기 쉬운, ~경향이 있는
+pronounce	발음하다, 음독하다
+proof	증명
+proper	고유의, 독특한, 본연의,  특유한
+properly	제대로, 정확하게
+property	재산, 자산
+proportion	비율, 비 균형, 조화
+proposal	제안, 계획
+propose	제의하다, 제출하다 추천하다, 지명하다
+prospect	전망, 조망, 경치
+prospective	장래의, 미래의
+prosper	번영하다
+prosperous	번영하는, 번창한
+protect	보호하다, 막다, 지키다, 비호하다
+protection	보호
+protest	단언하다
+proud	뽐내는, 자랑하는 자긍하는, 영광 으로 여기는
+prove	시험하다, 실험하다, 경험하다, 시험해 보다
+provide	준비하다, 미리 …에 대비하다  규정하다
+provider	공급자, 제공자
+province	주, 성, 도  범위, 영역, 분야
+provision	조항, 공급
+provoke	화나게 하다
+proximity	근접
+psychology	심리학
+pub	펍
+public	심리, 심리 상태
+publicity	홍보, 주목
+publicize	공표하다; 광고하다, 선전하다
+publish	발표 하다, 널리 알리다
+puddle	웅덩이
+pull	끌다, 당기다, 끌어 당기다, 잡아 끌다
+pulse	맥박
+pump	펌프스   댄스용 구두
+punch	주먹질, 펀치  힘, 활기
+punctual	시간을 지키는
+punish	벌하다, 응징하다, 처형하다
+pupil	흔히 국민학교 중학교 학생
+puppy	강아지
+purchase	사다, 구입하다
+pure	순수한  깨끗한, 순전한, 결백한
+purify	정화시키다
+purple	자줏빛의  새빨간  제왕의
+purpose	목적
+pursue	쫓다, 추적하다, 몰다
+push	밀다, 밀치다, 밀어서 움직 이다, 밀어 내다
+put	놓다, 두다
+puzzle	당황, 혼란 괴롭히는 사람,  어려운 문제
+qualified	자격있는, 적격의
+qualify	자격을 부여하다
+quality	질
+quantity	양
+quarter	4분의 1
+queen	여왕
+question	물음, 질문, 질의
+questionnaire	질문표
+quick	빠른
+quiet	조용한
+quit	(의무,책임을)벗어난 떠나다
+quite	아주
+quite	꽤, 상당히
+quote	인용하다
+rabbit	집토끼
+race	인종
+racial	인종(상)의
+radical	근본적인, 급진적인
+raft	뗏목
+rage	격노
+rail	가로장
+rain	비
+rainbow	무지개
+rainfall	강우량
+raise	올리다
+rally	규합하다
+ranch	목장
+random	닥치는 대로의
+range	줄
+rank	열
+rapid	빠른
+rare	희귀한
+rat	쥐
+rate	율
+rather	오히려
+rating	등급, 평가
+rational	합리적인
+raw	날것의
+reach	도착하다
+react	반응을 나타내다
+reaction	반응
+read	읽다
+readily	쉽게, 기꺼이
+ready	준비가 된
+real	실재하는
+realise	깨닫다
+realistic	현실적인, 사실적인
+reality	현실
+realize	깨닫다
+reap	수확하다
+rear	뒤
+reason	이성
+reasonable	합리적인
+rebel	반역자
+recall	되부르다
+receipt	수령
+receive	받다
+recent	최근의
+reception	받음
+recipe	조리법
+recipient	수신자
+recite	암송하다
+recognize	인정하다
+recommend	추천하다
+recommendation	추천사항, 추천
+reconcile	화해시키다
+reconciliation	화해
+record	기록하다
+recover	되찾다
+recovery	회복, 쾌유
+recruit	신병
+rectify	고치다, 바로잡다
+recur	재발하다
+recycle	재생 이용하다
+recycling	재활용
+red	붉은
+redeemable	(현금,상품과)교환할 수 있는, 환급할 수 있는
+reduce	줄이다
+refer	조회시키다
+referee	심판
+reference	추천서
+refine	정제정련하다
+reflect	반사하다
+reflective	반영하는
+reform	개정(개혁)하다
+refrain	자제하다, 삼가다
+refreshments	다과, 가벼운 음식물
+refrigerator	냉장고
+refugee	(피)난민
+refund	환불하다
+refuse	거절하다
+refute	부인하다, 반박하다
+regard	주목해서 보다
+regardless	관계없이
+region	지방
+register	기록
+regret	유감
+regular	규칙적인
+regulate	규정하다
+regulation	규정
+reimburse	변상하다, 환급하다
+reimbursement	상환, 변제, 배상
+rein	억제하다
+reinforce	보강하다
+reject	거절하다
+relate	이야기하다
+related	관련된
+relation	관계
+relative	친척
+relatively	상대적으로
+relax	늦추다
+release	도와주다
+relevant	관련된
+reliability	신뢰도, 믿음직함
+reliable	믿을 만한, 신뢰할 수 있는
+reliant	의존하는, 의지하는
+relieve	구출하다
+religion	종교
+relocate	(공장 등을)이전하다
+relocation	이전, 재배치
+reluctant	마음이 내키지 않는, 꺼려하는
+rely	믿다
+remain	남다
+remainder	나머지
+remains	유적
+remark	깨닫다
+remarkable	주목할 만한
+remedy	치료
+remember	기억하고 있다
+remind	생각나게 하다
+remit	송금하다, 면제하다
+remote	먼
+remove	옮기다
+renew	갱신하다
+renewal	재개발
+renovate	"(낡은 건물, 가구등을)개조하다,
+수리하다, 보수하다"
+renovation	수리, 개조
+renowned	저명한, 유명한, 명성이 있는
+rent	지대
+reoccurrence	재발
+repair	수선(수정)하다
+repeat	반복하다
+replace	되돌려 놓다
+replacement	교체, 후임자
+reply	대답하다
+report	보고
+represent	표현(묘사)하다
+representative	대표자, 대표하는
+reproduce	생식(번식)하다
+republic	공화국
+reputation	평판
+request	부탁하다
+require	요구하다
+required	필수의, 의무적인
+requirement	필요조건, 요건
+reschedule	일정을 바꾸다
+rescue	구하다
+research	연구
+resectful	존경하는, 공손한
+resemble	닮다
+resentful	분노한
+reservation	예약, 지정; 보호구역
+reserve	따로 두다
+reserved	예약된, 예약한; 지정된
+reside	거주하다
+residence	거주지, 주택
+resident	거주자
+resign	사임하다
+resignation	사임, 사직, 사직서
+resist	저항하다
+resolve	분해하다
+resort	(자주)가다
+resource	자원
+respect	존경하다
+respectable	존경할만한, 훌륭한
+respectful	정중한, 존중하는
+respective	각각의
+respirator	인공호흡장치
+respond	대답하다
+respondent	응답자
+response	응답, 대답
+responsibility	부담, 책임, 의무
+responsible	책임을 져야할
+rest	휴식
+restaurant	요리점
+restore	반환하다
+restrain	제지하다
+restrict	제한하다
+restroom	화장실
+result	결과
+resume	다시 잡다
+retail	소매
+retain	보유하다
+retire	퇴직하다
+retreat	후퇴
+retrieve	회수하다
+return	돌아가다
+reunification	재통일
+reveal	나타내다
+revenge	복수
+revenue	수입
+reverse	역
+review	재조사
+revise	교정하다
+revised	수정된, 변경된
+revision	수정, 개정
+revive	소생하다
+revolution	혁명
+revolutionary	혁명적인
+reward	보수
+rhythm	율동
+rice	쌀
+rich	부자인
+rid	면하게하다
+riddle	수수께끼
+ride	타다
+ridicule	비웃다
+ridiculous	어리석은
+right	올바른
+rigorous	엄격한, 혹독한
+ring	고리
+riot	폭동, 소요, 소동   야단법석, 다채로움,
+ripe	익은
+rise	올리다
+risk	위험 걸다
+ritual	의식, 의례
+rival	경쟁자 경쟁하는 경쟁하다
+river	강
+road	길
+roar	으르렁거리다 으르렁소리
+roast	불에 쬐어 굽다 불고기 구운
+rob	강탈하다, 약탈하다, 빼앗다
+rock	바위
+rod	막대
+role	(배우의)역
+roll	구르다
+romantic	전기소설적인
+roof	지붕
+room	방
+root	뿌리
+rope	새끼
+rot	썩다
+rotten	썩은
+rough	거친
+round	둥근 원 돌아서
+route	길
+routine	정해진 일
+row	줄
+royal	왕의
+rub	마찰하다
+rubber	맛사지사
+rude	버릇없는
+rule	규칙
+rumor	소문
+rumour	소문
+run	달리다
+rural	시골의
+rush	돌진하다
+sack	마대
+sacred	신성한
+sacrifice	희생
+sad	슬픈
+safe	안전한
+safety	안전
+sail	돛
+salary	봉급 봉급을 주다
+sale	판매
+salon	객실
+salt	소금
+salvation	구원,구제
+same	같은
+sample	"견본, 샘플, 표본
+시식하다, (견본으로 질을)시험하다"
+sand	모래사장
+satellite	위성
+satisfaction	만족
+satisfactory	만족스러운
+satisfied	만족하는, 만족스러워하는
+satisfy	만족시키다
+save	위험에서 구하다
+say	말하다
+scale	비늘(모양의 것)
+scan	시의 운율을살피다
+scandal	추문
+scarce	부족한
+scarcely	거의 ~않다.
+scarcely	거의~않다
+scare	위협하다
+scatter	뿔뿔이 흩어 버리다
+scene	장면
+scenery	경치
+scent	향기
+schedule	~을 예정하다
+scheme	계획
+scholar	학자
+scholarship	장학금
+school	학교
+science	과학
+scissors	가위
+scold	꾸짖다 잔소리 심한 사람
+scoop	퍼내다, 국자
+scope	범위
+score	득점
+scramble	기다
+scratch	할퀴다, 할퀴어 상처 를 내다  긁다
+scream	비명을 지르다
+screen	병풍
+screw	나사
+scrub	(관목의)숲
+sculpt	조각 조각하다
+sculpture	조각품
+sea	바다
+seal	인장
+search	찾다
+season	계절
+seasonal	계절의, 계절적인
+seat	좌석
+seating	(집합적)좌석 설비; 좌석 배열
+secret	비밀의
+secretary	비서
+section	부분
+sector	부채꼴
+secure	안전한
+securely	(매듭 등이)단단하게, 튼튼하게
+security	보안, 안전, 보호
+see	보다
+seed	씨앗
+seek	찾다
+seem	-으로 보이다
+seemingly	겉보기에
+seize	붙잡다
+seldom	거의-하지 않는
+select	고르다
+selection	선택된 것, 정선품
+self	자기
+selfish	이기적인
+sell	팔다
+semester	학기
+send	보내다
+senior	연상의
+sensation	감각
+sense	감각
+sensible	분별있는
+sensible 	분별 있는, 현명한
+sensitive	민감한
+sensitive	섬세한, 민감한
+sentence	문장
+sentiment	정서
+separate	분리된
+sequence	연속
+series	연속
+serious	진지한
+sermon	설교
+serve	섬기다
+session	개회
+settle	등받이가 높은 긴 의자 놓다
+several	수개의
+severe	호된, 극심한
+severely	엄격하게, 심하게
+severely	나쁘게, 심하게
+sew	꿰매다
+sewage	하수 오물
+sex	성
+shade	그늘
+shadow	그림자
+shake	흔들어 움직이다
+shallow	얕은 얕은 곳 얕아지다
+shame	부끄럼
+shape	모양
+share	몫
+shareholder	주주
+sharp	날카로운
+shatter	산산히 부서지다
+shave	깎다
+she	그녀는
+shed	흘리다
+sheep	양
+sheet	깔천
+shelf	선반
+shell	겉껍질
+shelter	피난처
+shield	방패
+shift	옮기다
+shine	빛나다
+ship	배
+shipment	선적, (화물의)발송; 수송품, 적하물
+shock	격돌
+shoe	구두
+shoot	쏘다
+shop	상점
+shore	물가
+short	짧은
+shortage	부족
+shortcut	지름길
+shorten	단축하다, 짧게하다
+shoulder	어깨
+shout	외치다
+show	보이다
+shower	소나기 빗발치듯 퍼붓다(쏟다)
+showing	(영화, 연극의)상영; 전시
+shred	잘게 자르다, 찢다
+shrink	줄어들다
+shrub	관목
+shrug	어깨를 어쓱하다
+shut	닫다
+shy	수줍은
+sick	병난
+side	쪽
+sigh	한숨
+sight	광경
+sign	부호
+signature	서명
+significant	중요한, 상당한
+silent	조용한
+silk	비단
+silly	어리석은 바보
+silver	은
+similar	유사한
+simmarize	요약하다.
+simple	단일의
+simulate	흉내내다
+simultaneous	동시에 일어나는(존재하는)
+sin	사인
+since	-이래
+sincere	진실한
+sing	노래하다
+single	단 하나의
+sink	가라앉다
+sip	음미하며 마시다, 홀짝거리다
+sister	여자형제
+sit	앉다
+site	부지
+situation	장소
+size	크기
+skeptical	비판적인
+skill	숙련
+skin	피부
+skip	도약
+skirt	스커어트
+sky	하늘
+slam	꽝하는 소리
+slap	손바닥으로 때리다
+slaughter	도살
+slave	노예 노예처럼 일하다
+sleep	잠자다
+sleeve	소매
+slice	얇은조각
+slide	미끄러지다
+slight	약간의
+slim	호리호리한
+slip	(때가)어느덧 지나가다
+slope	비탈
+slow	느린
+small	작은 작은 부분 적게
+smart	재치있는
+smash	박살내다
+smell	냄새
+smile	미소짓다 미소
+smoke	연기
+smooth	매끄러운
+snake	뱀
+snap	덥석 물다
+sneak	몰래 움직이다
+sneeze	재치기 하다
+sniff	코를 킁킁거리다
+snow	눈 눈이 내리다
+so	그와 같이
+soak	담그다
+soap	비누 비누로 씻다
+soar	치솟다
+soccer	축구
+sociable	사교적인
+social	사회의
+society	사회
+sociology	사회학
+sock	짧은 양말
+soft	부드러운
+software	소프트웨어
+soil	흙
+solar	태양의
+soldier	군인
+sole	유일한, 바닥
+solely	오로지, 혼자서, 전적으로
+solemn	엄숙한
+solid	고체의
+solitary	고독을 즐기는
+solo	독주
+solution	해법,해답,용액
+solve	해결하다
+some	얼만가의
+somehow	어떻게 해서든지,
+sometime 	언젠가
+sometimes	때때로
+somewhat	약간
+son	아들
+song	노래
+soon	얼마 안 가서
+sophisticated	물정에 닳고 닳은
+sophomore	2학년
+sore	슬픈
+sorrowful	비통한
+sorry	가엾은
+sort	종류
+soul	혼
+sound	소리
+sour	시큼한 시어지다 시큼한 것
+source	원천
+south	남쪽 남쪽의 남으로
+souvenir	기념품
+sow	씨를 뿌리다
+space	공간
+spacecraft	우주선
+spacious	넓은
+span	한 뼘
+spare	여분의
+spark	불꽃
+sparkle	반짝이다
+sparsely	희박하게, 드문드문
+speak	이야기하다
+spear	창
+special	특별한
+specialize	전공하다
+species	종
+specific	특정한, 명확한
+specification	명세서, 설명서, 사양
+specify	명시하다
+spectacle	광경
+spectacular	장관의
+spectrum	스펙트럼
+speculation	추측
+speech	연설
+speed	속도
+spell	철자하다
+spend	소비하다
+spending	소비, 지출
+sphere	구
+spice	양념
+spill	엎지르다
+spin	잣다
+spirit	정신
+spiritual	정신, 흑인 영가
+spit	침을 뱉다
+spite	악의
+splash	튀기다
+split	쪼개다
+spoil	망쳐놓다
+spokesperson	대변인
+sponsor	후원자
+spoon	숟가락
+spot	장소
+spouse	배우자
+sprain	삐다
+spread	펴다
+square	정사각형의
+squeeze	압착하다
+stability	안정, 안정성
+stable	안정된
+stack	낟가리
+stage	무대
+stagnant	침체된, 불경기의
+stain	더럽히다
+stairs	계단
+stamp	도장
+stand	서다
+standard	표준
+stare	응시하다
+start	시작하다
+startle	깜짝놀라게 하다
+starve	굶어 죽다
+state	상태
+statement	성명(진술)서
+station	역
+stationary	움직이지 않는
+stationery	문구류
+statistic	통계의 통계량
+statistics	통계(학)
+statue	조상
+status	신분
+stay	머무르다
+steadily	착실하게; 꾸준히
+steady	확고한
+steal	훔치다
+steam	증기
+steel	강철
+steep	가파른 -에 담그다 잠기다 담그기
+stem	줄기
+step	걷다
+sternly	엄격하게
+stick	나무토막
+stiff	굳은
+still	소리가 없는 아직(도)
+stimulate	자극하다
+sting	찌르다
+stipulate	규정하다
+stipulation	계약 조건
+stir	휘젓다
+stitch	한 바늘
+stock	줄기
+stomach	위
+stone	돌
+stop	멈추다
+storage	저장
+store	가게
+storm	폭풍
+story	층
+straight	곧은
+strain	잡아당기다
+strange	이상한
+strategy	용병학
+straw	짚
+strawberry	딸기
+stream	시내
+street	거리
+strengthen	강화하다
+stress	압박
+stretch	뻗치다
+strict	엄중한
+strike	치다
+striking	눈에 띄는
+string	끈
+strip	벗기다
+stripe	줄무늬
+striped	줄무늬의
+strive	노력하다
+stroke	한번치기
+strong	강한
+structure	구조
+struggle	버둥거리다
+stubborn	완고한
+student	학생
+study	학문
+stuff	재료
+stumble	비틀거리다
+stun	기절시키다
+subject	복종시키다
+subject	주제, 과목, ~에 영향을 받기 쉬운
+subjective	주관의
+subjective	주관적인
+submarine	잠수함
+submit	복종시키다
+subscribe	서명하다, 구독하다
+subscriber	가입자, 구독자
+subscription	정기구독(료)
+subsequent	다음의, 그후의
+substance	물질
+substantial	실체의, 상당한
+substitute	대용하다 대신하다 대리(인)
+subtle	미묘한
+suburb	교외
+subway	지하도
+succeed	성공하다
+success	성과, 성공
+success	성공
+successful	성공적인, 성공한
+succession	연속, 계승
+such	이러한
+suck	빨다
+sudden	별안간의
+suffer	경험하다
+sufficient	충분한
+sugar	설탕
+suggest	암시하다
+suggestion	제안
+suicide	자살 자살하다
+suit	소송
+suitable	적당한
+suitcase	여행가방
+suite	수행원
+sum	총계
+summarize	요약하다
+summary	요약
+summit	꼭대기
+sun	태양
+super	임시고용배우
+superb	장려한
+superficial	피상적인
+superior	뛰어난
+superstition	미신
+supervise	감독하다
+supper	저녁식사
+supplement	부록
+supply	공급하다
+support	지탱하다
+suppose	상상하다
+supreme	최고의
+sure	확신하는, 확실한 , 틀림없는
+surface	표면
+surgeon	외과의사
+surgery	외과
+surpass	~을 능가하다, 넘어서다
+surprise	놀람
+surrender	넘겨주다
+surround	에워싸다
+survey	둘러보다
+survive	살아 남다
+susceptible	~에 감염되기 쉬운, 영향 받기 쉬운
+suspect	짐작하다
+suspend	매달다
+suspicion	의심
+suspicious	의심하는
+sustain	떠받치다
+swallow	삼키다
+swear	맹세하다
+sweat	땀
+sweep	청소하다
+sweet	단
+swell	부풀다
+swift	빠른
+swim	헤엄치다
+swing	흔들리다
+switch	회초리
+sword	칼
+symbol	상징
+symbolize	상징하다
+sympathy	동정
+symphony	교향곡
+symptom	조짐
+symtom	증상
+system	조직
+table	테이블
+tackle	고패
+tag	손잡이가죽
+tail	꼬리
+tailored	맞춤의, 주문에 따라 맞춘
+take	잡다
+tale	이야기
+talent	재주
+talk	말하다
+tall	키큰
+tap	가볍게 치기
+tape	테이프
+target	과녁
+task	일
+taste	맛
+tattoo	귀영나팔
+tax	세금
+tea	차
+teach	가르치다
+tear	눈물
+tease	괴롭히다
+tedious	지루한
+teen	슬픔
+teenage	10대
+telecommunication	원격통신
+telegraph	전신
+telephone	전화
+telescope	망원경
+tell	말하다
+temper	기질
+temperature	온도
+temple	관자놀이
+temporary	일시적인
+tempt	유혹하다
+tenant	차지인
+tend	(-의)경향이 있다
+tender	제공
+tense	시제
+tension	긴장
+tentative	임시적인, 잠정적인
+tentatively	임시로
+term	기간
+terminal	종점의
+terminate	끝내다
+terrace	계단모양의 뜰(광장)
+terrible	무시무시한
+terrific	무서운
+terrify	겁나게 하다
+territory	영토
+test	시험
+testify	증명하다
+text	원문
+textbook	교과서
+than	-보다도
+thank	감사하다 감사
+that	저
+theater	극장
+theme	논제
+then	그때
+theory	이론
+therapy	치료법
+there	거기에
+therefore	그런 까닭에
+thermometer	온도계
+they	그들
+thick	두꺼운
+thief	도둑
+thin	얇은
+thing	물건
+think	생각하다
+thirst	갈증
+this	이
+thorn	가시
+thorough	완전한
+though	-임에도 불구하고 그러나
+thoughtful	사려 깊은, 배려하는
+thousand	천
+thread	실
+threat	협박
+thrift	절약
+thrill	오싹하다 오싹함
+thrive	번영하다, 성공하다
+throat	목
+throne	왕위(에 오르다)
+through	(-을)통하여 통하여 직통의
+throw	던지다
+thumb	엄지손가락 엄지손가락으로 만지다
+thus	이렇게
+tick	시계소리
+tickle	간지르다
+tide	조수
+tidy	말쑥한
+tie	매다
+tiger	호랑이
+tight	단단한
+till	-까지
+tilt	기울이다
+timber	재목
+time	때
+timely	시기적절한, 때를 맞춘
+tin	주석
+tiny	자그마한
+tip	끝
+tire	피로하게 하다
+tissue	조직
+title	표제
+to	-로
+tobacco	담배
+today	오늘은
+toe	발가락
+together	같이
+toilet	화장실
+tolerate	참다
+tomorrow	내일(은)
+tone	음조
+tongue	혀
+tonight	오늘밤에 오늘밤
+too	(-도)또한
+tool	사용세
+tooth	이
+top	정상
+torture	고문
+toss	던지다
+total	총계, 전체의, 합계하다
+touch	닿다
+tough	단단한
+tour	일주
+tourism	관광 사업
+tow	견인하다
+toward	-쪽으로
+towards	-쪽으로
+tower	탑
+town	읍
+toxic	독의
+toy	장난감 장난하다
+trace	발자국
+track	좁은 길, 추적하다
+trade	매매
+tradition	전설
+traffic	교통
+tragic	비극의
+trail	질질 끌다
+train	기차
+training	교육, 훈련
+trait	특성
+transact	처리하다
+transaction	거래
+transfer	옮기다
+transform	변형(변용,변태)시키다
+transit	교통, 수송, 통과하다
+transition	변천
+translate	번역하다
+transmit	보내다
+transplant	이식하다
+transport	수송(운송)하다
+transportation	교통(수단), 운송 수단
+trap	덫
+travel	여행하다
+tray	쟁반
+treasure	보물
+treat	대우하다
+treatment	대우, 처우
+treaty	조약
+tree	나무
+tremble	떨다
+tremendous	무서운
+trend	방향
+trial	시험
+triangle	각형
+tribe	종족
+trick	책략
+trigger	방아쇠 재빠른
+trim	산뜻한 정돈하다
+trip	여행
+triumph	승리
+trivia	사소한 일
+trivial	사소한
+troop	대
+trophy	전리품
+tropical	열대의
+trouble	고생
+trouser	즈봉
+true	진실
+trunk	줄기
+trust	신용
+truth	진리
+try	시험해보다
+tube	관
+tug	빨리 끌어당기다
+tuition	수업료
+tumble	굴러 떨어지다
+tune	곡
+tunnel	터널
+turmoil	혼란, 소란
+turn	돌리다
+turnover	전복
+tutor	가정교사
+twice	두 번
+twin	쌍동이
+twist	꼬이다
+twofold	두 부분의
+type	형
+typical	전형적인
+ugly	추한
+ultimate	최후의
+umbrella	우산
+unable	~할 수 없는
+unanimous	만장일치의, 동의하는
+unavailable	이용할 수 없는, 구할 수 없는
+uncertain	확신이 없는, 불확실한
+uncle	아저씨
+uncover	밝히다
+under	-아래에
+undergo	(영향 등을)받다
+underlie	-의 밑에 있다
+undermine	-밑을 파다
+understand	이해하다
+understanding	이해심 있는
+undertake	떠맡다
+undone	푼, 마치지 않은
+undoubtedly	의심 할 바 없는
+unexpected	얘기치 않은
+uniform	한결같은
+unify	하나로 하다
+uninterested	무관심한
+union	결합
+unique	유일무이한
+unit	단위
+unite	결합하다
+universe	우주
+university	종합대학(교) 대학의(에 관계 있는)
+unless	-하지 않으면
+unlimited	무제한의
+unoccupied	(집 등이)비어 있는, 사람이 살지 않는
+unprecedented	전례 없는
+unstable	불안정한, 변하기 쉬운
+until	-까지
+up	위로
+upcoming	곧 있을, 다가오는
+update	새롭게 하다 최신정보
+upgrade	"업그레이드, 개량형
+업그레이드하다, 개선하다"
+upkeep	양육, 유지
+upon	-의 위에
+upper	위쪽의
+upset	뒤집어 엎다
+upward	위로 향한
+upwards	위로 향한
+urban	도시의
+urge	몰아대다
+urgent	긴급한
+usage	사용법, 용례
+use	쓰다
+useless	쓸모없는
+usual	평소의
+usually	보통, 일반적으로
+utilise	-을 이용하다
+utility	공공시설; 공공요금
+utilize	-을 이용하다
+utmost	최대의
+utter	전적인
+vacation	휴가
+vacuum	진공
+vague	막연한
+vain	자만심강한, 헛된
+valid	유효한
+valley	골짜기
+valuable	값비싼
+value	가치
+valueable 	가치있는
+valueless	무가치한
+van	유개트럭
+vanish	자취를 감추다
+variable	변하기 쉬운
+variety	다양성
+various	가지가지의
+vary	바꾸다
+vast	광대한, 광막한 막대한
+vegetable	식물  야채, 푸성귀, 남새, 채소
+vegetarian	채식주의자
+vehicle	운반 기구, 운송 수단,  수레, 차량, 탈것
+vendor	노점상, 가판대; 판매업체
+venture	모험
+verbal	말의, 말에 관한, 언어상의, 말로 나타낸, 말로 된
+verbalize	말로 나타내다
+verify	확인하다
+versatile	다용도의
+verse	시의 한 줄, 시구  일련의 시구
+version	번역, 번역문 개작, 각색, 번안
+versus	…대, …에 대한
+vertical	수평면에 직각인, 수직의
+very	매우
+vessel	그릇
+veteran	노련가, 경험 많은 대가, 베테랑
+veterinarian	수의사
+via	…을 거쳐, …을 경유하여
+vice	악덕,  비행, 타락 행위
+victim	희생, 산 제물, 인신 제물
+victory	승리, 전승
+view	봄, 관찰, 개관, 실지 검증  보는 힘, 시계, 시야
+viewpoint	관점
+vigorous	정력적인, 강건한, 활기 있는, 격렬한
+village	마을, 촌락
+violate	위반하다
+violence	폭력
+violent	격렬한, 맹렬한
+virgin	처녀, 동정녀, 미혼 여성, 동정녀 마리아
+virtual	사실상의, 실질상의, 실제의  허상의
+virtue	덕, 덕행, 선, 선행
+visible	눈에 보이는,  볼 수 있는
+visit	방문하다, …의 손님으로 묵다
+visual	시각의, 물건을 보기 위한
+vital	생명의, 생명에 관한, 생명유지에 필요한, 살아 있는
+vivid	발랄한, 약동적인, 힘찬, 생기있는
+vocabulary	어휘, 용어수, 용어 범위
+vocal	목소리
+vocation	천직, 사명 직업, 생업, 장사  적성, 소질, 재능
+voice	목소리, 음성, 음성
+volcano	화산
+volume	책  권
+voluntary	자발적인, 수의의
+vomit	토하다
+vote	찬부 표시, 투표, 표결
+vow	맹세
+voyage	여행
+wage	임금
+wagon	짐마차
+wait	기다리다
+waive	면제하다, 포기하다
+wake	잠깨다
+wake	잠에서 깨다
+walk	걷다
+wall	벽
+wander	헤매다
+wane	감소, 감퇴
+want	결핍
+war	전쟁
+warehouse	창고
+warm	따뜻한
+warn	경고하다
+warrant	보증하다 보증
+warranty	(품질 등의)보증, 보증서
+warrior	병사
+wash	씻다
+waste	낭비하다
+watch	손목시계
+water	물
+watermelon	수박
+wave	물결
+way	길
+we	우리가
+weak	약한
+weaken	약화시키다.
+wealth	재산
+wealthy	부유한
+weapon	무기
+wear	입다
+weather	날씨
+weave	짜다
+wedding	혼례
+weed	잡초 잡초를 뽑다
+week	주
+weekend	주말 주말의 주말을 지내다
+weep	울다
+weigh	무게를 달다
+weight	무게
+weightlessness	무중력
+weird	불가사의한
+welcome	환영 환영받는
+welfare	행복
+well	잘
+west	서쪽
+wet	축축한
+wetland	습지
+whale	고래
+what	무엇 무슨
+wheat	밀
+wheel	바퀴
+when	언제
+where	어디에 (-하는)곳에 pr.어디 (문제의)장소
+whether	-인지 어떤지
+which	어느 쪽
+while	동안 -하는 동안
+whip	채찍 채찍질하다
+whisper	속삭이다
+whistle	휘파람
+white	흰
+who	누구
+whole	전체의
+wholesale	도매의
+why	왜
+wicked	사악한
+wide	폭넓은
+widespread	널리 보급되어 있는
+widow	미망인
+wife	아내
+wild	야생의
+wilderness	황야
+wildlife	야생동물
+will	의지
+willing	기꺼이 하는
+win	이기다
+wind	바람
+window	창
+windshield	차 앞 유리
+wing	날개
+wipe	닦다
+wire	철사
+wise	슬기로운
+wish	바라다
+wit	기지
+with	함께
+withdraw	물러나다
+withdrawal	(예금의)인출
+witness	증언
+witty	재치 있는
+woman	부인
+wonder	경이
+wood	숲
+wool	양모
+word	낱말
+work	일
+workforce	노동력
+workmanship	기량, 솜씨
+workout	운동
+workshop	워크숍, 연수
+world	세계
+worrisome	걱정스러운
+worry	근심하다
+worsen	악화시키다
+worship	숭배
+worth	가치가 있는 가치
+worthwhile	가치있는
+wound	부상
+wrap	싸다
+wreck	난파
+wrinkle	주름
+write	쓰다
+wrong	나쁜
+yawn	하품(하다)
+year	연
+yearbook	연감
+yell	고함치다
+yellow	황색의 황색
+yes	예
+yesterday	어제
+yet	아직
+yield	산출하다
+you	당신
+young	젊은
+youth	젊음
+zeal	열의
+zebra	얼룩말
+zoo	동물원
