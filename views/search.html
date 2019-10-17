@@ -81,12 +81,16 @@
                     <ul style="padding-left: 0px;" id="tb1" class="list-group list-group-horizontal"></ul>
                 </div>
                 <div style="width: 120%; margin-left: 30%;">
-                    <b>soundex코드 동일</b>
+                    <b>soundex</b>
                     <ul style="padding-left: 0px;" id="tb2" class="list-group list-group-horizontal"></ul>
                 </div>
                 <div style="width: 120%; margin-left: 30%;">
-                    <b>hybrid</b>
+                    <b>metadex</b>
                     <ul style="padding-left: 0px;" id="tb3" class="list-group list-group-horizontal"></ul>
+                </div>
+                <div style="width: 120%; margin-left: 30%;">
+                    <b>hybrid</b>
+                    <ul style="padding-left: 0px;" id="tb4" class="list-group list-group-horizontal"></ul>
                 </div>
             </div>
         </section>
@@ -99,6 +103,7 @@
     let Ngram = "<%= Ngram%>"
     let soundex = "<%=soundex%>"
     let hybrid = "<%= hybrid%>"
+    let metadex = "<%= metadex%>"
 
     if(Ngram != "") {
         console.log('!!!!!')
@@ -123,6 +128,17 @@
         $('#tb2').html(str)
         $('#input').val(input)
     }
+    if(metadex != "") {
+        var outputArray = metadex.split(',')
+        var str = ""
+        let num = 0;
+        for (let i in outputArray) {
+            num++;
+            str = str + "<li class='list-group-item'>"+num+". " + outputArray[i] + "</li>"
+        }
+        $('#tb3').html(str)
+        $('#input').val(input)
+    }
     if(hybrid != "") {
         var outputArray = hybrid.split(',')
         var str = ""
@@ -131,7 +147,7 @@
             num++;
             str = str + "<li class='list-group-item'>"+num+". " + outputArray[i] + "</li>"
         }
-        $('#tb3').html(str)
+        $('#tb4').html(str)
         $('#input').val(input)
     }
 </script>

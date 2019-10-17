@@ -7,6 +7,7 @@ let hybird = require('../src/hybrid');
 let levenshtein = require('../src/levenshtein');
 let shingle = require('../src/shingle');
 let soundex = require('../src/soundex');
+let metadex = require('../src/metadex');
 
 
 
@@ -18,12 +19,15 @@ let soundex = require('../src/soundex');
 router.get('/', (req, res) => {
     res.render('../views/home.html');
 });
+
 router.get('/search', (req, res) => {
     res.render('../views/search.html',{input : "" ,Ngram : "", hybrid : "", soundex : ""});
 });
+
 router.get('/question', (req, res) => {
     res.render('../views/question.html');
 });
+
 router.post('/clustering',(req,res, err) => {
     let input = req.body.input
     let voca = []
@@ -34,11 +38,12 @@ router.post('/clustering',(req,res, err) => {
             }
             let outNgram = Ngram.SVC(input,voca,20)
             let outSoundex = soundex.SVC(input,voca)
-            let outHybrid = hybird.SVC(input,voca,20)
+            let outMetadex = metadex.SVC(input, voca)
+            let outHybrid = hybird.SVC(input,voca,10)
             // console.log("outNgram",outNgram)
             // console.log("outSoundex",outSoundex)
             // console.log("outHybrid",outHybrid)
-            res.render('../views/search.html',{input : input ,Ngram : outNgram, hybrid : outHybrid, soundex : outSoundex});
+            res.render('../views/search.html',{input : input ,Ngram : outNgram, hybrid : outHybrid, soundex : outSoundex, metadex : outMetadex });
         })
 })
 

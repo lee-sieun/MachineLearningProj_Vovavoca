@@ -19,7 +19,6 @@ Ngram.SVC = function (input, dataset, k) {
         output.push(sim_set[i].voca)
         result.push(sim_set[i])
     }
-
     console.log(result)
     return output
 }
@@ -30,7 +29,6 @@ Ngram.split =  function (str) {
     for (let i = 0; i < str.length - 1; i++) {
         set.push(str[i] + str[i + 1])
     }
-    // console.log(set)
     return set;
 }
 

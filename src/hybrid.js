@@ -1,4 +1,6 @@
 var Soundex_ = require('soundex-encode')
+var Metaphone_ = require('metaphone')
+
 var async = require('async');
 
 Hybrid = {};
@@ -6,6 +8,7 @@ Hybrid.SVC = function (input, dataset, k) {
     let sim_set = []
     let output = new Array()
     let code1 = Soundex_(input);
+    let code3 = Metaphone_(input);
     let sim = 0
     let result = new Array()
 
@@ -14,8 +17,9 @@ Hybrid.SVC = function (input, dataset, k) {
             continue;
         }
         let code2 = Soundex_(dataset[i])
+        let code4 = Metaphone_(dataset[i])
 
-        sim_set.push({ voca : dataset[i], sim: Hybrid.similarity(input, dataset[i],code1,code2)});
+        sim_set.push({ voca : dataset[i], sim: Hybrid.similarity(input, dataset[i], code1, code2, code3, code4)});
     }
     sim_set.sort((a, b) => a.sim < b.sim ? 1 : a.sim > b.sim ? -1 : 0)
 
@@ -23,13 +27,13 @@ Hybrid.SVC = function (input, dataset, k) {
         output.push(sim_set[i].voca)
         result.push(sim_set[i])
     }
-
     console.log(result)
     return output
 }
 
 Hybrid.split =  function (str,status) {
     let set = new Array()
+
     if(status==0){
         set.push(0)
         for (let i = 0; i < str.length - 1; i++) {
@@ -38,43 +42,19 @@ Hybrid.split =  function (str,status) {
         set.push(str[str.length-1])
         return set
     }
-    if(status==1){
-        set.push(0)
-        set.push(str[str.length-1])
-    }
     for (let i = 0; i < str.length - 1; i++) {
         set.push(str[i] + str[i + 1])
     }
-
-    // console.log(set)
     return set;
 }
-// Hybrid.split =  function (str) {
-//     let set = new Array()
-//
-//     set.push(str[0])
-//     if(str.length<3)
-//         return set
-//     else {
-//         set.push(str[0]+str[1])
-//         for (let i = 0; i < str.length - 2; i++) {
-//             set.push(str[i] + str[i + 1]+str[i+2])
-//         }
-//         set.push(str[str.length - 1]+str[str.length - 2])
-//         // console.log(set)
-//         return set;
-//     }
-// }
 
-Hybrid.similarity = function (str1, str2, code1, code2) {
+Hybrid.similarity = function (str1, str2, code1, code2, code3, code4) {
     let status
 
-    if(str1.length<4){
+    if(str1.length<5){
         status=0
-    }else if(str1.length==4){
-        status=1
     }else {
-        status=2
+        status=1
     }
 
     let set1 = Hybrid.split(str1,status)
@@ -98,15 +78,30 @@ Hybrid.similarity = function (str1, str2, code1, code2) {
     sim += n / (set1.length + set2.length - n)
 
     if(code1==code2){
-        sim *=1.5
-        sim+=0.2
-        if(str1.length<4){
-            sim+=0.4
-        }else if(str1.length==4){
-            sim+=0.3
+        let length = code3.length
+
+        if(length>code4.length){
+            length = code4.length
+        }
+        let check = 0;
+        for(let i=0;i<length;i++){
+            if(code3[i]!=code4[i]){
+                check=1
+            }
+        }
+        if(check==0) {
+            if(sim<0.4) {
+                sim *= 1.5
+            }
+            sim += 0.2
+            if (str1.length < 4) {
+                sim += 0.4
+            } else if (str1.length == 4) {
+                sim += 0.3
+
+            }
         }
     }
-
     return sim;
 }
 
