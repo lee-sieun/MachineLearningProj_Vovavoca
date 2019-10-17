@@ -31,11 +31,9 @@ Hybrid.SVC = function (input, dataset, k) {
 Hybrid.split =  function (str) {
     let set = new Array()
 
-    set.push(str[0])
     for (let i = 0; i < str.length - 1; i++) {
         set.push(str[i] + str[i + 1])
     }
-    set.push(str[str.length - 1])
     // console.log(set)
     return set;
 }
