@@ -76,10 +76,12 @@ Hybrid.similarity = function (str1, str2, code1, code2) {
     }else {
         status=2
     }
+
     let set1 = Hybrid.split(str1,status)
     if(str2.length-str1.length>1){
         status=2
     }
+
     let set2 = Hybrid.split(str2,status)
     let sim = 0
     let n = 0;
@@ -92,14 +94,16 @@ Hybrid.similarity = function (str1, str2, code1, code2) {
             }
         }
     }
+
     sim += n / (set1.length + set2.length - n)
+
     if(code1==code2){
         sim *=1.5
         sim+=0.2
         if(str1.length<4){
-            sim+=0.3
-        }else if(str1.length==4){
             sim+=0.4
+        }else if(str1.length==4){
+            sim+=0.3
         }
     }
 

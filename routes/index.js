@@ -32,9 +32,9 @@ router.post('/clustering',(req,res, err) => {
             for(i in vocaset) {
                 voca.push(vocaset[i].voca)
             }
-            let outNgram = Ngram.SVC(input,voca,10)
+            let outNgram = Ngram.SVC(input,voca,20)
             let outSoundex = soundex.SVC(input,voca)
-            let outHybrid = hybird.SVC(input,voca,10)
+            let outHybrid = hybird.SVC(input,voca,20)
             // console.log("outNgram",outNgram)
             // console.log("outSoundex",outSoundex)
             // console.log("outHybrid",outHybrid)
