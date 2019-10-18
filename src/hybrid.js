@@ -77,16 +77,28 @@ Hybrid.similarity = function (str1, str2, code1, code2, code3, code4) {
 
     sim += n / (set1.length + set2.length - n)
 
-    if(code1==code2){
+    if(code1.substring(1,4)==code2.substring(1,4)){
         let length = code3.length
 
         if(length>code4.length){
             length = code4.length
         }
         let check = 0;
-        for(let i=0;i<length;i++){
-            if(code3[i]!=code4[i]){
-                check=1
+        if (length > 3) {
+            for (let i = 0; i < 3; i++) {
+                if (code3[i] != code4[i]) {
+                    check = 1
+                }
+            }
+        }else if(length == 1){
+            if(code1[0]!=code2[0]){
+                check=1;
+            }
+        }else if(length < 4) {
+            for (let i = 0; i < 2; i++) {
+                if (code3[i] != code4[i]) {
+                    check = 1
+                }
             }
         }
         if(check==0) {
@@ -99,6 +111,9 @@ Hybrid.similarity = function (str1, str2, code1, code2, code3, code4) {
             } else if (str1.length == 4) {
                 sim += 0.3
 
+            }
+            if(code1[0]!=code2[0]){
+                sim -= 0.1
             }
         }
     }

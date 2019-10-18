@@ -1,5 +1,5 @@
 var Soundex_ = require('soundex-encode')
-
+var Metaphone_ = require('metaphone')
 soundex = {};
 
 soundex.SVC = function (input, dataset){
@@ -13,6 +13,7 @@ soundex.SVC = function (input, dataset){
         let code2 = Soundex_(dataset[i])
         if(code1==code2) {
             output.push(dataset[i])
+            console.log(dataset[i],code1,Metaphone_(dataset[i]))
         }
     }
     return output

@@ -1,12 +1,11 @@
 var Metaphone_ = require('metaphone')
+var Soundex_ = require('soundex-encode')
 
 metaphone = {};
 
 metaphone.SVC = async function (input, dataset, k){
     let code1 = Metaphone_(input);
     let output = new Array();
-    let sim_set = [];
-    let result = new Array()
 
     for(i in dataset){
         if(input == dataset[i]){
@@ -14,30 +13,17 @@ metaphone.SVC = async function (input, dataset, k){
         }
         let code2 = Metaphone_(dataset[i])
 
-        sim_set.push({ voca : dataset[i], sim: metaphone.similarity(code1, code2)})
-    }
-    sim_set.sort((a, b) => a.sim < b.sim ? 1 : a.sim > b.sim ? -1 : 0)
+        if(code1==code2) {
+            output.push(dataset[i])
 
-    for (let i = 0; i < k; i++) {
-        output.push(sim_set[i].voca)
-        result.push(sim_set[i])
+        }
     }
-    console.log(result)
     return output
 }
 
-metaphone.similarity = function (code1 , code2){
-    console.log(code1,code2)
-    let sim = 0
-    if(code1 == code2){
-        sim += 1
-    }
-    return sim
-}
-
-metaphone.SVC("meet",
-    ["mode", "ewnkjwe","mood", "wnjkfewa","mate","fwean","meadow","fewkln","myth","faweae","mate","mounth"],
-    3)
+// metaphone.SVC("meet",
+//     ["mode", "ewnkjwe","mood", "wnjkfewa","mate","fwean","meadow","fewkln","myth","wet" ,"faweae","mate","mounth"],
+//     3)
 //
 //
 // soundex.SVC("pineapple",

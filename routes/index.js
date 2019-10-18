@@ -8,6 +8,7 @@ let levenshtein = require('../src/levenshtein');
 let shingle = require('../src/shingle');
 let soundex = require('../src/soundex');
 let metadex = require('../src/metadex');
+let metaphone = require('../src/metaphone');
 
 
 
@@ -17,11 +18,14 @@ let metadex = require('../src/metadex');
 
 // Main Page
 router.get('/', (req, res) => {
+    res.render('../views/index.html');
+});
+router.get('/home', (req, res) => {
     res.render('../views/home.html');
 });
 
 router.get('/search', (req, res) => {
-    res.render('../views/search.html',{input : "" ,Ngram : "", hybrid : "", soundex : ""});
+    res.render('../views/search.html',{input : "" ,Ngram : "", hybrid : "", soundex : "", metadex : ""});
 });
 
 router.get('/question', (req, res) => {
@@ -39,7 +43,8 @@ router.post('/clustering',(req,res, err) => {
             let outNgram = Ngram.SVC(input,voca,20)
             let outSoundex = soundex.SVC(input,voca)
             let outMetadex = metadex.SVC(input, voca)
-            let outHybrid = hybird.SVC(input,voca,10)
+            let outHybrid = hybird.SVC(input,voca,20)
+            metaphone.SVC(input,voca)
             // console.log("outNgram",outNgram)
             // console.log("outSoundex",outSoundex)
             // console.log("outHybrid",outHybrid)

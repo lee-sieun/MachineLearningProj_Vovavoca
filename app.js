@@ -25,6 +25,10 @@ mongoose.set('useFindAndModify', false);
 
 app.use('/dataset',express.static('dataset'));
 app.use(express.static('views'))
+app.use(express.static('css'))
+app.use(express.static('js'))
+app.use(express.static('scss'))
+app.use(express.static('vendor'))
 // EJS
 
 app.set('view engine', 'html')
