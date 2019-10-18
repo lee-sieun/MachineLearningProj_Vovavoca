@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
 <head>
 
     <meta charset="utf-8">
@@ -10,92 +8,100 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>VOVAVOCA</title>
+    <title>Resume - Start Bootstrap Theme</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <!--    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">-->
-    <!--    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">-->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="css/resume.min.css" rel="stylesheet">
 
 </head>
-<!--<<<<<<< Updated upstream-->
-<style type="text/css">
-    a:link { text-decoration: none;}
-    a:visited { text-decoration: none;}
-    a:hover { text-decoration: none;}
-    a:active { text-decoration: none;}
-    ul{list-style:none;}
-</style>
+
 <body id="page-top">
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-
-    <h1 class='mb-0' style="padding-top: 90px">Vova
-        <span class='text-primary'>Voca</span>
-    </h1>
-    <a class="navbar-brand js-scroll-trigger">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Clarence Taylor</span>
+        <span class="d-none d-lg-block">
+          VOVAVOCA
+      </span>
     </a>
-    <div style="margin-top: -50%" class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul style="padding-left: 0px;" class="navbar-nav">
-            <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="/">About</a>
-            </li>
-            <br>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
             <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="/search">Search</a>
             </li>
-            <br>
             <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="/question">Question</a>
             </li>
-            <br>
+            <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="/about">About</a>
+            </li>
         </ul>
     </div>
 </nav>
-
-
-<!--Adding Contents Here-->
-<div id="con" style="margin-left: 40px;">
-    <section class='resume-section p-3 p-lg-5 d-flex align-items-center' id='about'>
+<!--여기 안에만 건드리세요!!-->
+<div class="container-fluid p-0">
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
         <div class='w-100'>
-
-            <div class='subheading mb-5'><br>Machine Learning Project 2019-2. @ Team 6 -<br>
-                <a href='mailto:name@email.com'>vovavoca@gmail.com</a>
+            <h2 class='mb-0'>Search Words</h2>
+            <div class='resume-item d-flex flex-column flex-md-row justify-content-between mb-0'>
+                <div class='resume-content'>
+                    <br><br>
+                    <form action='/clustering' method='post' class='form-inline'>
+                        <label class='field a-field a-field_a1'>
+                            <input style="border:solid; border-color: #00142E; --uiFieldPlaceholderColor:#EAD6BD " class='field__input a-field__input' type='search' id='input' name='input' placeholder='word' aria-label='Search'>
+                            <span class='a-field__label-wrap'>
+                                    <span style="margin-bottom: 4px;" class='a-field__label'>Search Word</span>
+                                    </span>
+                            &nbsp;
+                            <button class='snip1535' type='submit'>Search</button>
+                        </label>
+                    </form>
+                </div>
             </div>
-            <p class='lead mb-5'>Making a Project about <b>'Vocabulary'</b> for all students working on English tests.
-                Search and will find confusing words by various Algorithms of Clustering. Make your own workbook.
-                Providing exercises based on your archive. </p>
-            <div class='subheading mb-3'>Programming Languages &amp; Tools</div>
-            <ul class='list-inline dev-icons' style= " display: flex;">
-                <li class='list-inline-item'>
-                    <i class='fab fa-html5'></i>
-                </li>
-                &nbsp;
-                <li class='list-inline-item'>
-                    <i class='fab fa-css3-alt'></i>
-                </li>
-                &nbsp;
-                <li class='list-inline-item'>
-                    <i class='fab fa-js-square'></i>
-                </li>
-                &nbsp;
-                <li class='list-inline-item'>
-                    <i class='fab fa-node-js'></i>
-                </li>
-                &nbsp;
-                <li class='list-inline-item'>
-                    <i class='fab fa-npm'></i>
-                </li>
-            </ul>
+        </div>
+        <div >
+            <div>
+                <b>N_gram</b>
+                <ul id="tb1" class="list-group list-group-horizontal"></ul>
+            </div>
+            <div>
+                <b>soundex</b>
+                <ul id="tb2" class="list-group list-group-horizontal"></ul>
+            </div>
+            <div>
+                <b>metadex</b>
+                <ul id="tb3" class="list-group list-group-horizontal"></ul>
+            </div>
+            <div>
+                <b>hybrid</b>
+                <ul id="tb4" class="list-group list-group-horizontal"></ul>
+            </div>
         </div>
     </section>
+    <!--여기안에만 건드리세요-->
 </div>
-<div class="container-fluid p-0">
 
-</div>
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="js/resume.min.js"></script>
+
 </body>
 
 </html>

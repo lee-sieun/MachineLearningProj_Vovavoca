@@ -20,8 +20,8 @@ let metaphone = require('../src/metaphone');
 router.get('/', (req, res) => {
     res.render('../views/index.html');
 });
-router.get('/home', (req, res) => {
-    res.render('../views/home.html');
+router.get('/about', (req, res) => {
+    res.render('../views/about.html');
 });
 
 router.get('/search', (req, res) => {
