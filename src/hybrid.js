@@ -51,7 +51,7 @@ Hybrid.split =  function (str,status) {
 Hybrid.similarity = function (str1, str2, code1, code2, code3, code4) {
     let status
 
-    if(str1.length<5){
+    if(str1.length<4){
         status=0
     }else {
         status=1
