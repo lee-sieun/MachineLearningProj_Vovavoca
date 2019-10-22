@@ -14,7 +14,6 @@ Ngram.SVC = function (input, dataset, k) {
         sim_set.push({ voca : dataset[i], sim: Ngram.similarity(input, dataset[i])})
     }
     sim_set.sort((a, b) => a.sim < b.sim ? 1 : a.sim > b.sim ? -1 : 0)
-    // console.log(sim_set)
     for (let i = 0; i < k; i++) {
         output.push(sim_set[i].voca)
         result.push(sim_set[i])

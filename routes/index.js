@@ -4,10 +4,8 @@ const fs = require('fs');
 const VOCA = require('../models/VOCA');
 let Ngram = require('../src/Ngram');
 let hybird = require('../src/hybrid');
-let levenshtein = require('../src/levenshtein');
 let soundex = require('../src/soundex');
 let metadex = require('../src/metadex');
-let metaphone = require('../src/metaphone');
 
 
 
@@ -16,9 +14,6 @@ var wordArr= new Array();
 var strstr= new Array();
 
 // Main Page
-router.get('/', (req, res) => {
-    res.render('../views/index.html');
-});
 router.get('/about', (req, res) => {
     res.render('../views/about.html');
 });
@@ -43,7 +38,6 @@ router.post('/setquestion', (req, res) => {
             res.send(outHybrid);
         })
 });
-
 
 router.post('/clustering',(req,res, err) => {
     let input = req.body.input

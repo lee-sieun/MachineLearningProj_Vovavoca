@@ -1,8 +1,6 @@
 var Soundex_ = require('soundex-encode')
 var Metaphone_ = require('metaphone')
 
-var async = require('async');
-
 Hybrid = {};
 Hybrid.SVC = function (input, dataset, k) {
     let sim_set = []
@@ -119,7 +117,5 @@ Hybrid.similarity = function (str1, str2, code1, code2, code3, code4) {
     }
     return sim;
 }
-
-// console.log(Hybrid.SVC("bare", ["ahrab", "arrab","fact","fect" ,"effect","bear", "apple","asynarab","href","rabbit",], 3))
 
 module.exports = Hybrid;
