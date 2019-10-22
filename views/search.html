@@ -30,9 +30,15 @@
     <link href="css/resume.min.css" rel="stylesheet">
 
 </head>
-
+<style>
+    .li-paddinghide{
+        padding-left: 0px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-right: 0px;
+    }
+</style>
 <body id="page-top">
-
 <nav style="background-color: #10184b !important;" class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span style="font-weight: 800; font-size: 2.3rem;" class="d-block d-lg-none">VOVA VOCA</span>
@@ -58,46 +64,50 @@
     </div>
 </nav>
 <div class="container-fluid p-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
-        <div class='w-100'>
-            <h2 class='mb-0' >Search Words</h2>
-            <div class='resume-item d-flex flex-column flex-md-row justify-content-between mb-0'>
-                <div class='resume-content'>
-                    <br><br>
-                    <form action='/clustering' method='post' class='form-inline' name="myForm">
-                        <label class='field a-field a-field_a1'>
-                            <form>
-                                <div class="group">
-                                    <input type="text" id="input" name="input" required>
-                                    <span class="highlight"></span>
-                                    <span class="bar"></span>
-                                    <label id="inputLabel">Word</label>
+<!--Adding Contents Here-->
+    <div id="con" style="margin-left: 40px;">
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+            <div class='w-100'>
+                <h2 class='mb-0' >Search Words</h2>
+                <div class='resume-item d-flex flex-column flex-md-row justify-content-between mb-0'>
+                    <div class='resume-content'>
+                        <br><br>
+                        <form action='/clustering' method='post' class='form-inline' name="myForm">
+                            <label class='field a-field a-field_a1'>
+                                <form>
+                                    <div class="group">
+                                        <input type="text" id="input" name="input" required>
+                                        <span class="highlight"></span>
+                                        <span class="bar"></span>
+                                        <label id="inputLabel">Word</label>
+                                    </div>
+                                </form>
+                                &nbsp;&nbsp;&nbsp;&nbsp;
+                                <div style="margin-bottom: 25px;">
+                                    <button type="button" id="submit" class="btn btn-outline-dark" onclick="javascript:document.myForm.submit()">Search</button>
                                 </div>
-                            </form>
-                            &nbsp;
-                            <div class="button-7">
-                                <div class="eff-7" onclick="javascript:document.myForm.submit()"></div>
-                                <a style="font-size: 10px;"  href="#" onclick="javascript:document.myForm.submit()">Search</a>
-                            </div>
-                        </label>
-                    </form>
-                </div>
+            </label>
+
+            </form>
+    </div>
+</div>
+<table id="result_tb">
+    <thead>
+    <tr id="N_gram">
+    </tr>
+    <tr id="Soundex">
+    </tr>
+    <tr id="Metadex">
+    </tr>
+    <tr id="Hybrid">
+                    </tr>
+                    </thead>
+                </table>
             </div>
-            <table id="result_tb">
-                <thead>
-                <tr id="N_gram">
-                </tr>
-                <tr id="Soundex">
-                </tr>
-                <tr id="Metadex">
-                </tr>
-                <tr id="Hybrid">
-                </tr>
-                </thead>
-            </table>
-        </div>
-    </section>
+            <br><br>
+
+        </section>
+    </div>
 </div>
 </body>
 <script>

@@ -85,8 +85,9 @@ p.lead {
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.1rem;
   text-transform: uppercase;
+  padding-top: 50rem;
 }
 
 #sideNav .navbar-toggler:focus {
@@ -169,6 +170,7 @@ section.resume-section .resume-item .resume-date {
 
 a {
   color: #BD5D38;
+  padding: 100px;
 }
 
 a:hover, a:focus, a:active {

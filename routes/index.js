@@ -5,7 +5,6 @@ const VOCA = require('../models/VOCA');
 let Ngram = require('../src/Ngram');
 let hybird = require('../src/hybrid');
 let levenshtein = require('../src/levenshtein');
-let shingle = require('../src/shingle');
 let soundex = require('../src/soundex');
 let metadex = require('../src/metadex');
 let metaphone = require('../src/metaphone');
@@ -34,7 +33,6 @@ router.get('/question', (req, res) => {
 
 router.post('/setquestion', (req, res) => {
     let input = req.body.input
-    console.log(input)
     let voca = []
     VOCA.find().select('voca -_id')
         .then(vocaset =>{
@@ -46,48 +44,6 @@ router.post('/setquestion', (req, res) => {
         })
 });
 
-router.post('/testing',(req,res, err) => {
-    let input = []
-    let output = []
-    let voca = []
-    let n=0;
-    let NgramScore =0;
-    let HybridScore =0;
-    VOCA.find().select('voca -_id')
-        .then(vocaset =>{
-            for(i in vocaset) {
-                voca.push(vocaset[i].voca)
-            }
-            for(i in input) {
-                n++;
-                let outNgram = Ngram.SVC(input[i], voca, 5)
-                let outHybrid = hybird.SVC(input[i], voca, 5)
-                console.log(input[i],output[i]);
-                for(j in outNgram){
-                    if(outNgram[j]==out[i]){
-                        NgramScore++;
-                        break;
-                        console.log(' O');
-                    }
-                    if(j==outNgram.length-1){
-                        console.log(' X');
-                    }
-                }
-                for(j in outHybrid){
-                    if(outHybrid[j]==out[i]){
-                        hybirdScore++;
-                        break;
-                        console.log(' O');
-                    }
-                    if(j==outHybrid.length-1){
-                        console.log(' X');
-                    }
-                }
-            }
-            console.log("NgramScore",NgramScore/n)
-            console.log("HybridScore",HybridScore/n)
-        })
-})
 
 router.post('/clustering',(req,res, err) => {
     let input = req.body.input
@@ -101,10 +57,6 @@ router.post('/clustering',(req,res, err) => {
             let outSoundex = soundex.SVC(input,voca)
             let outMetadex = metadex.SVC(input, voca)
             let outHybrid = hybird.SVC(input,voca,10)
-            metaphone.SVC(input,voca)
-            // console.log("outNgram",outNgram)
-            // console.log("outSoundex",outSoundex)
-            // console.log("outHybrid",outHybrid)
             res.render('../views/search.html',{input : input ,Ngram : outNgram, hybrid : outHybrid, soundex : outSoundex, metadex : outMetadex });
         })
 })
