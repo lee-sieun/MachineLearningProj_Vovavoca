@@ -12,9 +12,9 @@ let metaphone = require('../src/metaphone');
 
 
 
-// var meanArr= new Array();
-// var wordArr= new Array();
-// var strstr= new Array();
+var meanArr= new Array();
+var wordArr= new Array();
+var strstr= new Array();
 
 // Main Page
 router.get('/', (req, res) => {
@@ -31,6 +31,55 @@ router.get('/search', (req, res) => {
 router.get('/question', (req, res) => {
     res.render('../views/question.html');
 });
+
+// router.post('/setquestion', (req, res) => {
+//     let content =req.body.content;
+//     res.render('../views/setQuestion.html',{content : content});
+//     console.log(content)
+// });
+
+router.post('/testing',(req,res, err) => {
+    let input = []
+    let output = []
+    let voca = []
+    let n=0;
+    let NgramScore =0;
+    let HybridScore =0;
+    VOCA.find().select('voca -_id')
+        .then(vocaset =>{
+            for(i in vocaset) {
+                voca.push(vocaset[i].voca)
+            }
+            for(i in input) {
+                n++;
+                let outNgram = Ngram.SVC(input[i], voca, 5)
+                let outHybrid = hybird.SVC(input[i], voca, 5)
+                console.log(input[i],output[i]);
+                for(j in outNgram){
+                    if(outNgram[j]==out[i]){
+                        NgramScore++;
+                        break;
+                        console.log(' O');
+                    }
+                    if(j==outNgram.length-1){
+                        console.log(' X');
+                    }
+                }
+                for(j in outHybrid){
+                    if(outHybrid[j]==out[i]){
+                        hybirdScore++;
+                        break;
+                        console.log(' O');
+                    }
+                    if(j==outHybrid.length-1){
+                        console.log(' X');
+                    }
+                }
+            }
+            console.log("NgramScore",NgramScore/n)
+            console.log("HybridScore",HybridScore/n)
+        })
+})
 
 router.post('/clustering',(req,res, err) => {
     let input = req.body.input
@@ -54,7 +103,7 @@ router.post('/clustering',(req,res, err) => {
 
 // 주소창에 localhost:5000/setdataset 이라고 치면 데이터 자동으로 들어감
 router.get('/setdataset', (req, res) => {
-    fs.readFile('dataset/dataset_3.txt','utf-8', function(err, data){
+    fs.readFile('dataset/dataset_5.txt','utf-8', function(err, data){
         str=data.split('\n');
 
         for(var i =0; i< str.length; i++){

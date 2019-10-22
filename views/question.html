@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
+<!-- Plugin JavaScript -->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="js/resume.min.js"></script>
 <head>
 
     <meta charset="utf-8">
@@ -8,7 +16,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Resume - Start Bootstrap Theme</title>
+    <title>Vovavoca-Question</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -22,16 +30,22 @@
     <link href="css/resume.min.css" rel="stylesheet">
 
 </head>
-
+<style>
+    .li-paddinghide{
+        padding-left: 0px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-right: 0px;
+    }
+</style>
 <body id="page-top">
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+<nav style="background-color: #10184b !important;" class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Clarence Taylor</span>
-        <span class="d-none d-lg-block">
-          VOVAVOCA
-      </span>
+        <span style="font-weight: 800; font-size: 2.3rem;" class="d-block d-lg-none">VOVA VOCA</span>
+        <span style="font-weight: 800; font-size: 2.3rem;" class="d-none d-lg-block">VOVA</span> &nbsp;
+        <span style="font-weight: 800; font-size: 2.3rem;" class="d-none d-lg-block">VOCA</span>
     </a>
+    <br><br>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -54,58 +68,70 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
         <div class='w-100'>
-            <h2 class='mb-0'>Search Words</h2>
+            <h2 class='mb-0'>Set Question</h2><br><br>
             <div class='resume-item d-flex flex-column flex-md-row justify-content-between mb-0'>
                 <div class='resume-content'>
-                    <br><br>
-                    <form action='/clustering' method='post' class='form-inline'>
+                    <div>
+                        <button id="reinput" style="display: none;" class="btn btn-outline-dark">새로입력</button>
+                    </div>
+                    <form class='form-inline' id="form" method="post">
                         <label class='field a-field a-field_a1'>
-                            <input style="border:solid; border-color: #00142E; --uiFieldPlaceholderColor:#EAD6BD " class='field__input a-field__input' type='search' id='input' name='input' placeholder='word' aria-label='Search'>
-                            <span class='a-field__label-wrap'>
-                                    <span style="margin-bottom: 4px;" class='a-field__label'>Search Word</span>
-                                    </span>
-                            &nbsp;
-                            <button class='snip1535' type='submit'>Search</button>
+                            <div class="input-group">
+                                <textarea style="width: 320px; height: 240px;" name="content" id="content" class="form-control" aria-label="With textarea"></textarea>
+                                <div class="input-group-prepend">
+                                    <button type="button" id="submit" class="btn btn-outline-dark">Set</button>
+                                </div>
+                            </div>
                         </label>
                     </form>
+                    <br><br>
+                    <div id="tb"></div>
+                    <div id="question"></div>
                 </div>
             </div>
         </div>
-        <div >
-            <div>
-                <b>N_gram</b>
-                <ul id="tb1" class="list-group list-group-horizontal"></ul>
-            </div>
-            <div>
-                <b>soundex</b>
-                <ul id="tb2" class="list-group list-group-horizontal"></ul>
-            </div>
-            <div>
-                <b>metadex</b>
-                <ul id="tb3" class="list-group list-group-horizontal"></ul>
-            </div>
-            <div>
-                <b>hybrid</b>
-                <ul id="tb4" class="list-group list-group-horizontal"></ul>
-            </div>
-        </div>
     </section>
-
-
-
-
 </div>
+<script>
+    $('#reinput').on("click", function () {
+        $('#content').val("")
+        $('#form').show()
+        $('#reinput').hide()
+        $('#tb').html("")
+        $('#tb').hide()
+        $('#problem').html("")
+        $('#problem').hide()
+    })
 
-<!-- Bootstrap core JavaScript -->
-<script src="vendor/jquery/jquery.min.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-<!-- Plugin JavaScript -->
-<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-<!-- Custom scripts for this template -->
-<script src="js/resume.min.js"></script>
-
+    $('#submit').on("click", function(){
+        let content = $('#content').val();
+        console.log(content)
+        if(content==""){
+            alert("내용을 입력해주세요.")
+        }else{
+        // $.ajax({
+        //     type: "POST",
+        //     url: "/setquestion",
+        //     data: {content : content}
+        // }).done( result => {})
+            $('#form').hide()
+            $('#reinput').show()
+            $('#tb').show()
+            let word = content.split(' ');
+            let str = "<ul class='list-group list-group-horizontal'>";
+            let n = 0;
+            for(let i in word){
+                if(word[i]!="")
+                    str = str + "<li class='list-group-item li-paddinghide' ><button class='btn btn-outline-secondary' onclick='makequetion("+i+")' style='border: none;' id='word'"+i+"'>"+word[i]+"</button></li>";
+                if(i%8==7){
+                    str = str +"</ul><ul class='list-group list-group-horizontal'>";
+                }
+            }
+            str +="</ul>";
+            console.log(str);
+            $('#tb').html(str);
+        }
+    })
+</script>
 </body>
-
 </html>

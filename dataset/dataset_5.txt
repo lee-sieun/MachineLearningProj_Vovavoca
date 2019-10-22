@@ -1,3 +1,5 @@
+memorial	기념의, 추도의
+단어	뜻
 a	하나의
 A.M.	오전
 abandon	버리다
@@ -16,6 +18,7 @@ absence	부재
 absent	부재의
 absolute	절대의
 absorb	흡수하다
+abstain	삼가다, 자제하다
 abstract	추상적인
 absurd	불합리한
 abundant	풍부한
@@ -25,11 +28,13 @@ accelerate	가속하다 속도가 가해지다
 accent	액센트
 accept	받아들이다
 acceptable	"용인되는, 받아들일 수 있는;
-훌륭한, 만족스러운"
+ 훌륭한, 만족스러운"
 access	접근
+access	~에의 접근하다
 accessible	출입할 수 있는; 이용할 수 있는
 accessory	부속물
 accident	뜻밖의 사건
+accident	사고, 우연
 acclaim	호평, 찬사
 accommodate	수용하다
 accompany	동반하다
@@ -61,10 +66,13 @@ actual	현실의
 actually	실제로, 사실은
 acute	날카로운
 adapt	적용시키다
+adapt	적응시키다
+adapt	적응시키다, 순응하다
 add	추가하다
 addict	열중하게 하다
 additional	추가의, 부가적인
 address	말을 걸다
+adept	능숙한
 adequate	충분한, 적절한
 adhere	고수하다
 adhesive	점착성의
@@ -79,6 +87,7 @@ admission	입장
 admit	받아들이다
 adolescent	청년기의
 adopt	채용하다
+adopt	채택하다, 양자로 삼다
 adult	성인
 advance	나아가다
 advanced	고급의; 진보한, 앞선
@@ -99,6 +108,7 @@ affect	영향을 주다
 affection	애정
 affiliate	회원으로 가입시키다
 affix	(우표 등을)붙이다
+affluence	부유함
 afford	여유가 있다
 affordability	감당할 수 있는 비용
 affordable	(가격이)알맞은, 감당할 수 있는
@@ -131,7 +141,6 @@ alert	빈틈없는
 alien	외국의
 alike	비슷한
 alive	살아있는
-alive 	살아있는
 all	모든
 allergic	알레르기의
 alleviate	줄이다, 완화하다
@@ -164,6 +173,7 @@ amendment	개정, 수정
 amenity	편의 시설
 among	-중에
 amount	(금액이)-이 되다
+amount	양, 금액
 amplify	확대하다
 amuse	재미나게 하다
 analyse	분해하다
@@ -186,6 +196,7 @@ another	또 하나
 answer	대답
 ant	개미
 anticipate	예상하다
+anticipate	예측하다
 antique	골동품
 anxiety	근심
 anxious	걱정되는
@@ -237,6 +248,8 @@ art	예술
 article	물품
 artifact	인공유물
 artificial	인공의
+artisan	장인, 기능공
+artist	예술가
 artistic	예술의, 예술적인
 as	-와 같은 정도로
 ash	재
@@ -252,10 +265,13 @@ assembly	의회
 assent	찬성하다, 승인, 동의
 assert	단언하다
 assess	평가하다, 감정하다
+assess	가치를 평가하다
 asset	자산
+asset	자산, 재산
 assign	할당하다
 assignment	과제, 할당
 assist	돕다
+assist	돕다, 거들다
 associate	연상하다, 관련시키다
 association	협회, 관련
 assume	맡다, 취하다
@@ -285,12 +301,14 @@ attitude	태도
 attoney	변호사
 attorney	변호사
 attract	끌어 당기다
+attract	마음을 끌다
 attraction	관광명소
 attribute	속성
 auction	경매
 audience	청중
 audit	회계 감사, 심사
 audition	오디션
+auditions	오디션
 auditorium	청중
 aunt	아주머니
 authentic	진짜의
@@ -317,7 +335,7 @@ away	떨어져서
 awesome	무서운
 awful	두려운
 awkward	어색한
-baby	갓난아이, 막내   관심사, 골치아픈 일,
+baby	갓난아이, 막내 관심사, 골치아픈 일,
 back	등
 background	배경
 bad	나쁜
@@ -332,6 +350,7 @@ balloon	기구
 ban	금지
 band	그룹
 bang	강타
+banish	~로 추방하다
 bank	둑
 bankrupt	파산자
 banner	현수막
@@ -342,7 +361,9 @@ barely	거의-하지 않는, 간신히
 bargain	매매
 bark	짖다
 barn	헛간
+barrel	통, 배럴
 barrier	장벽
+barrier	울타리, 장애물
 barring	~이 없다면, ~을 제외하고
 base	기초
 baseball	야구
@@ -547,8 +568,11 @@ cancel	취소하다
 cancer	암
 candidate	지원자
 candy	사탕과자
+cannon	대포
 canvas	돛베
+canyon	협곡
 cap	모자
+capabilitty	능력
 capability	능력, 역량
 capable	할 수 있는
 capacity	수용력, 능력
@@ -561,9 +585,11 @@ car	자동차
 carbohydrate	탄수화물
 care	걱정
 career	경력
+career	직업, 경력
 careful	조심스러운, 주의 깊은
 careless	부주의한
 carrier	항공사, 수송기, 수송 회사
+carrier	운송회사
 carrot	당근
 carry	나르다
 cart	(2륜)짐마차
@@ -635,7 +661,7 @@ chest	가슴팍
 chew	씹다
 chief	우두머리
 child	아이
-childish	유치한 
+childish	유치한
 childlike	천진난만한
 chill	차가움
 chin	턱(끝) 턱에 대다
@@ -645,7 +671,7 @@ choir	(교회의)성가대
 choke	질식시키다
 choose	고르다
 chop	(도끼 등으로)자르다
-chore	허드렛일, 
+chore	허드렛일,
 chorus	합창
 chronic	만성의
 church	교회
@@ -677,7 +703,7 @@ clerk	서기
 clever	영리한
 client	소송의뢰인
 clientele	"(집합적)고객들,
-(변호사,건축가 등의)모든 의뢰인"
+ (변호사,건축가 등의)모든 의뢰인"
 cliff	절벽
 climactic	절정의
 climate	기후
@@ -693,7 +719,7 @@ closet	벽장
 closure	폐쇄
 cloth	천
 clothes	옷, 의료
-clothing 	옷, 의류
+clothing	옷, 의류
 cloud	구름
 club	클럽
 clue	단서
@@ -711,6 +737,8 @@ cold	추운
 collaborate	공동으로 일하다
 collapse	붕괴
 collar	칼라
+collate	대조 확인하다
+collateral	담보, 저당
 colleague	동료
 collect	모으다
 collection	소장품, 수집물; 징수, 수금
@@ -738,6 +766,7 @@ commerce	상업
 commercial	상업의, 광고방송
 commission	위임
 commit	위탁하다
+commit	저지르다, 약속하다
 commitment	헌신, 전념
 committable	위탁할 수 있는
 committee	위원회
@@ -759,6 +788,7 @@ compel	억지로 -시키다
 compensate	배상하다
 compensation	보상
 compete	경쟁하다
+compete	남과 경쟁하다
 competent	경쟁령이 있는, 유능한
 competition	경쟁
 competitive	경쟁의, 경쟁에 의한
@@ -767,7 +797,9 @@ compile	편찬하다
 complain	불평하다
 complaint	불평
 complement	보완하는 것
+complement	~을 보완하다, 보충하다
 complete	완성하다
+complete	완벽한; 완전한 것
 completely	전적으로, 완전히
 complex	합성물
 compliance	준수
@@ -778,8 +810,9 @@ complimentary	무료의, 칭찬하는
 comply	준수하다, 따르다
 component	구성하는 성분
 compose	구성하다
+compose	구성하다, 작곡하다
 compound	성분 등을 혼합하다
-comprehensible	이해할 수 있는 
+comprehensible	이해할 수 있는
 comprehensive	포괄적인, 광범위한, 이해력있는
 comprise	포함하다
 compromise	타협 타협하다
@@ -788,6 +821,7 @@ conceal	숨기다
 concede	인정하다
 conceivably	아마도, 상상컨데
 conceive	상상하다
+conceive	생각하다
 concentrate	집중하다
 concept	개념
 concern	관계하다
@@ -797,6 +831,7 @@ concert	연주회
 conclude	결정하다
 conclusion	결론
 concrete	구체적인 응고물
+concur	동의하다, 일치하다
 condemn	나무라다
 condition	조건
 conduct	수행하다, 처리하다
@@ -812,9 +847,11 @@ confidential	(일급)비밀의, 기밀의
 confidentiality	기밀성
 confine	국경
 confirm	확인하다
+confirm	확인하다, 승인하다
 confirmation	확인, 확증
 conflict	투쟁
 conform	일치시키다
+conform	순응하다, 적합하게 하다
 confront	직면하다
 confuse	혼란시키다
 congest	혼잡하게 하다
@@ -828,15 +865,18 @@ conscious	의식적인
 consecutive	연속의, 연이은
 consensus	(의견 등의)일치
 consent	승낙하다
+consent	동의
 consequence	결과
 consequent	~의 결과로 일어나는
 conserve	보존하다
 consider	숙고하다
 considerable	상당한
 considerate	이해심 많은
+considerate	배려하는
 consignment	위탁 판매
 consist	-으로 이루어지다
 consistent	시종일관한
+console	위로하다
 conspicuous	눈에 띄는
 constant	불변의
 constitute	구성하다
@@ -858,12 +898,15 @@ contaminate	오염시키다
 contemporary	현대의
 contend	싸우다
 content	만족하여
+content	내용
 contest	겨루다
 context	문맥
 continent	자제심이 있는
+continent	대륙
 contingency	만일의 사태
 continual	빈번한
 continue	계속하다
+continue	계속하다, 이어지다
 continuous	끊임없는
 contract	계약
 contraction	수축, 축소
@@ -908,6 +951,8 @@ corner	모퉁이
 corporate	법인조직의
 corporation	회사, 법인
 corps	특수부대, 단체
+corps	단체, 부대
+corpse	시체
 correct	옳은
 correspond	일치하다
 correspondence	편지, 통신문
@@ -925,6 +970,7 @@ couch	침대
 cough	기침 기침을 하다 기침을 하여 -을 뱉어내다
 council	회의
 counsel	의논
+counsel	조언하다, 충고하다
 count	계산
 counter	계산하는 사람
 counterpart	부본
@@ -1036,10 +1082,12 @@ deal	양
 dealer	판매업자, 상인
 death	죽음
 debate	토론 토론하다
+debate	토론, 논의
 debris	파편
 debt	빚
 decade	10년간
 decay	쇠퇴하다
+deceive	속이다
 decent	점잖은
 decide	결정하다
 decision	결정
@@ -1050,6 +1098,7 @@ decorate	장식하다
 decrease	감소하다
 dedicate	봉납하다
 dedication	헌신
+deduce	추론하다, 밝히다
 deduct	공제하다, 빼다
 deed	행위
 deep	깊은
@@ -1057,15 +1106,21 @@ deep	깊은, (거리상)깊게
 deeply	매우, (정도가)깊게
 defeat	패배
 defect	결점
+defect	결함
 defective	결함이 있는
 defend	방어하다
 defendant	피고, 피고의
 defense	방어
 defer	연기하다, 미루다
+defer	미루다, 연기하다
 deficiency	결핍
 deficit	결손
 define	정의하다
+define	정의하다, 분명히 밝히다
 definite	일정한
+deflate	가격, 통화를 수축시키다
+deflect	~을 빗나가게하다
+deflect	굴절하다
 defy	저항하다; (설명,묘사등이)거의 불가능하다
 degrade	지위를 낮추다
 degree	도
@@ -1082,6 +1137,7 @@ demand	요구하다
 democracy	민주주의
 demon	악마
 demonstrate	증명하다
+denounce	비판하다
 dense	짙은
 densely	빽빽이, 밀집하여
 dental	치과의
@@ -1094,18 +1150,23 @@ depend	좌우되다
 dependence	종속
 depict	묘사하다
 deplete	고갈시키다
+deploy	전개하다
 deposit	예금
 depreciation	가치 하락, 화폐의 구매력 저하
 depress	억압하다
 depressed	우울한
 deprive	빼앗다
+deprive	빼앗다, 박탈하다
 derive	이끌어 내다
+derive	이끌어 내다, 얻다
 descend	내려오다
 descendent	자손
 describe	기술하다
+describe	묘사하다
 description	서술
+description	설명, 기술
 desert	버리다
-deserve	 -할 만하다
+deserve	-할 만하다
 design	디자인
 designate	가리키다
 designated	지정된
@@ -1123,6 +1184,7 @@ destruction	파괴
 detach	분리하다
 detail	상설
 detain	억류하다
+detain	구금하다, 붙들다
 detect	간파하다
 detergent	세제
 determine	결정하다
@@ -1144,11 +1206,14 @@ dictate	받아쓰게 하다
 dictionary	사전
 die	죽다
 dietary	식이 요법의, 규정식의
+differ	다르다, 의견을 달리하다
 different	다른
 difficult	곤란한
 dig	파다
 digest	소화시키다
+dignitary	고관, 높은 지위의 사람
 dignity	위엄
+dignity	품위, 존엄, 고상함
 diligent	근면한
 dim	어둑한
 dimension	치수
@@ -1202,6 +1267,7 @@ displace	바꾸어놓다
 display	보이다
 disposable	일회용의
 dispose	배열하다
+dispose	없애다
 dispute	논쟁하다
 disregard	소홀히 하다, 무시하다
 disrupt	분열시키다
@@ -1211,6 +1277,8 @@ distinct	다른, 뚜렷한
 distinguish	구별하다.
 distort	찌그러뜨리다
 distract	전환시키다
+distract	산만하게 하다
+distract	집중이 안되게
 distribute	분배하다
 distributuion	분배, 배급
 district	지구
@@ -1297,9 +1365,9 @@ easy	쉬운
 eat	먹다
 echo	메아리
 ecology	생태학
-economic 	경제(학)의
+economic	경제(학)의
 economical	경제적인, 절약되는
-economical	 절약이 되는
+economical	절약이 되는
 economize	절약하다, 아끼다
 economy	절약
 ecosystem	생태계
@@ -1311,6 +1379,7 @@ editorial	사설
 educate	교육하다
 education	교육
 effect	결과
+effect	영향, 결과
 effective	효과적인
 efficiency	효율, 능률
 efficient	능률적인
@@ -1418,6 +1487,7 @@ especially	특히
 essential	본질적인
 establish	확립하다
 estate	토지
+estate	사유지, 재산
 estimate	어림잡다
 etc	등등
 eternal	영원한
@@ -1446,6 +1516,7 @@ examination	진찰, 검사
 examine	시험하다
 example	보기
 exceed	넘다
+exceed	넘다, 초과하다
 excel	뛰어나다
 excellent	우수한
 except	-을 제외하고는 제외하다
@@ -1472,13 +1543,17 @@ existing	기존의, 현행의
 exit	출구
 exotic	외국의
 expand	펴다
+expanse	확장, 확대
 expansion	확장, 팽창
 expect	기대하다
+expect	기대하다, 예상하다
 expectation	기대
 expedition	탐험
 expel	내쫒다
+expel	추방하다
 expenditure	지출, 비용
 expense	지출
+expense	비용, 지출
 expensive	비용이 드는
 experience	경험
 experienced	경험이 있는, 노련한, 능숙한
@@ -1496,6 +1571,7 @@ explore	탐험하다
 explosion	폭팔
 export	수출하다 수출
 expose	쐬다, 드러내다, 맞히다
+expose	드러내다
 exposure	노출
 express	발표하다
 expressive	표현하는
@@ -1511,6 +1587,7 @@ extinction	멸종
 extinctions	멸종
 extra	가외의
 extract	뽑아내다
+extract	추출하다
 extracurricular	과외의, 정규 과목 이외의
 extrairdinary	보기 드문, 탁월한
 extraordinary	이상한
@@ -1518,6 +1595,7 @@ extravagant	낭비벽이 있는
 extreme	극단의
 eye	눈
 eyebrow	눈썹
+fable	우화
 fabric	천
 fabrication	제작
 face	얼굴
@@ -1536,8 +1614,9 @@ fairly	상당히, 꽤
 faith	신용
 fake	모조품
 fall	떨어지다
-false	거짓
+FALSE	거짓
 fame	명성
+fame	명성, 유명세
 familiar	친한
 family	가족
 famine	기근
@@ -1595,6 +1674,7 @@ fierce	흉포한
 fight	싸움
 figure	모습
 file	종이끼우개
+file	파일, 서류철
 fill	가득 채우다
 filter	여과기 여과하다
 final	최후의
@@ -1603,6 +1683,7 @@ finance	재정
 financial	재정의, 금전상의
 find	발견하다
 fine	훌륭한
+fine	괜찮은, 벌금
 finger	손가락 손가락을 대다
 finish	끝내다
 finite	한정되어 있는
@@ -1747,8 +1828,10 @@ gene	유전(인)자
 general	일반적인
 generalize	일반화하다
 generate	낳다
+generate	발생시키다
 generation	일대
 generous	광대한
+generous	관대한
 genetic	유전의
 genius	천재
 genre	유형
@@ -1797,10 +1880,13 @@ govern	다스리다
 government	정부
 grab	붙잡다
 grace	은총
+grace	우아함, 은혜
 graceful	우아한
 grade	등급
 gradual	점차적인
+gradual	완만한
 graduate	학위를 수여하다
+graduate	졸업하다
 grain	곡물
 grand	위대한
 grandfather	할아버지
@@ -1811,7 +1897,10 @@ grasp	붙잡다
 grass	풀밭
 grateful	고맙게 생각하는
 gratitude	감사
+gratitude	감사하는 마음
+gratuity	선물, 하사금
 grave	무덤
+grave	무덤, 중대한
 gravity	중력
 graze	풀을 먹다
 great	커다란
@@ -1914,7 +2003,7 @@ hesitate	주저하다
 hide	감추다
 hierarchy	계층, 계급
 high	높은
-high 	높은, 높게
+high	높은, 높게
 high-tech	첨단 과학 기술의
 highlight	강조하다
 highly	매우, 대단히
@@ -1954,7 +2043,9 @@ hospital	병원
 hospitality	환대, 친절
 host	주인, 집주인 노릇, 호스트
 hostage	볼모
+hostel	숙박업소, 쉼터
 hostile	반대하는
+hostile	적대적인
 hot	뜨거운
 hour	시간
 house	집
@@ -1966,6 +2057,8 @@ huge	거대한
 human	인간의
 humanity	인류, 인간성
 humble	겸손한
+humiliate	창피함을 주다
+humility	겸손
 humor	유우머
 hundred	100
 hunger	굶주림
@@ -1980,10 +2073,13 @@ I	나는, 내가
 ice	얼음
 iceberg	빙산
 idea	관념
+idea	생각, 발상
 ideal	이상
 identical	아주 동일한
 identification	신분증, 신분 증명서
+identification	신분증
 identify	동일시하다
+identify	신원, 신분, 정체
 identity	신원, 정체성
 ideology	공리
 idle	한가한
@@ -1997,21 +2093,25 @@ illustrate	설명하다
 imaginable	상상할 수 있는
 imaginary	상상의
 imagination	상상
-imaginative	 상상력이 풍부한
+imaginative	상상력이 풍부한
 imagine	상상하다
 imitate	흉내내다
 immediate	직접의
+immediate	즉각적인
 immense	무한한
 immensely	대단히, 엄청나게
 immigrate	이주하다
 immune	면역성의
 impact	충격
 impede	저해하다, 방해하다
+impel	재촉하다
 imperative	반드시 해야 하는
 imperial	제국의
 implement	기구
+implement	이행하다, 수행하다
 implication	밀접한 관계, 관련, 암시
 imply	함축하다
+imply	암시하다
 import	수입하다
 important	중요한
 impose	부과하다
@@ -2020,11 +2120,12 @@ impressed	인상 깊게 생각하는, 감명을 받은
 impression	인상
 impressive	굉장한, 인상적인
 improbable	"사실이라고 생각할 수 없는,
-일어날 것 같지 않은"
+ 일어날 것 같지 않은"
 improve	개선하다
 improvement	개선
 improvise	고안하다
 in	-속에
+inability	무능력
 inaccessible	접근이 불가능한, 이용이 불가능한
 inaccurate	부정확한
 incentive	자극적인
@@ -2043,6 +2144,8 @@ incrative	수익성 있는, 돈벌이가 되는
 increase	늘다
 increasingly	점점, 더욱 더
 incredible	믿을 수 없는
+incredible	놀라운, 터무니 없는
+incredulous	쉽사리 믿지 않는
 incur	초래하다, 발생시키다
 indeed	참으로
 independence	독립성
@@ -2054,9 +2157,9 @@ indicator	지표, 지수
 indifferent	무관심한
 individual	개인
 induce	꾀다
+induce	유도하다
 indulge	빠지다, 탐닉하다
 industrial	산업의
-industrial	 산업의
 industrious	근면한
 industry	공업
 inevitable	피할 수 없는
@@ -2064,21 +2167,27 @@ inexperienced	경험없는, 미숙한
 infant	유아
 infect	감염시키다
 infer	추론하다
+infer	비옥한, 기름진
 inferior	열등한
 infinite	무한한
 inflate	부풀게 하다
 inflation	인플레이션
 inflict	(고통,피해를)입히다, 가하다
 influence	영향력
+influence	영향, 세력
 inform	알리다
 informal	비공식의
 information	유익한, 정보를 주는
 infuriate	화나게하다, 격분시키다
 ingredient	성분
 inhabit	살다
+inhabit	거주하다, 서식하다
 inherent	생태의, 고유의
+inherent	고유의, 타고난
 inherit	상속하다
+inherit	유산으로 물려받다
 inhibit	금하다
+inhibit	억제하다
 initial	처음의
 initially	처음에, 초기에
 initiate	시작하다
@@ -2090,6 +2199,7 @@ innate	타고난
 inner	내적인
 innocent	무구한
 innovate	새롭게 하다
+innovate	혁신하다
 innovative	혁신적인
 input	투입
 inquire	묻다
@@ -2101,6 +2211,7 @@ insight	통찰(력)
 insist	주장하다
 insolent	무례한
 inspect	검사하다
+inspect	조사하다, 점검하다
 inspection	점검, 검사
 inspector	조사관, 감독관
 inspiration	영감
@@ -2109,6 +2220,7 @@ install	설치하다
 installment	할부
 instance	실례
 instant	즉시의
+instate	확립하다, 임명하다
 instead	그 대신에
 instigate	부추기다, 선동하다
 instinct	본능
@@ -2152,9 +2264,11 @@ intriguing	흥미를 자아내는
 introduce	안으로 들이다
 introduction	도입
 invade	침입하다
-invaluable 	매우귀중한
+invaluable	매우귀중한
 invent	발명하다
+invention	발명하다
 inventory	재고품, 재고목록
+inventory	물품목록
 invest	투자하다
 investigate	조사하다
 investment	투자, 투자금
@@ -2311,9 +2425,10 @@ literary	문학의
 literate	읽고 쓸 줄 아는
 literature	문학
 litter	쓰레기, 어지르다
+litter	쓰레기
 little	작은
 live	살다
-live 	살아있는, 생방송의
+live	살아있는, 생방송의
 lively	활기찬
 lively	활기찬, 생기 있는
 liver	간
@@ -2405,7 +2520,7 @@ mathematics	수학
 matter	물질
 mature	익은
 maximum	최고점
-may	5월  청춘, 인생의 봄  산사나무, 아가위나무
+may	5월 청춘, 인생의 봄 산사나무, 아가위나무
 maybe	아마
 mayor	시장
 meadow	초지
@@ -2423,6 +2538,7 @@ mechanic	직공
 mechanical	기계의
 mechanism	(기계)장치
 mediate	중재하다
+mediate	조정하다
 medical	의학의
 medicine	약
 medieval	중세(풍)의
@@ -2431,9 +2547,10 @@ medium	중간
 meet	-을 만나다
 meeting	회의
 melt	녹다
-memorable	 기억할 만한
+memorable	기억할 만한
+memorable	기억할만한
 memorial	기념비
-memorial 	기념의
+memorial	기념의
 memorize	암기하다.
 memory	기억
 mental	마음의
@@ -2529,6 +2646,7 @@ motivate	동기를 부여하다.
 motive	동기
 motorcycle	오토바이
 mount	산
+mount	올라가다
 mountain	산
 mounting	증가하는, 오르는
 mouse	새앙쥐
@@ -2646,24 +2764,29 @@ object	물체, 대상, 목표, 반대하다
 objectify	객관화하다
 objection	반대, 이익
 objective	객관적인
-objective 	목표, 객관적인 
+objective	목표, 객관적인
 obligate	의무를 지우다
 obligation	의무, 책임
 oblige	(의무를)별수없이 -하게하다
 obscure	덮어 감추다
+observance	준수
+observation	관찰
 observe	관찰하다
 obsess	늘러붙다
 obsolete	쓸모없게 된
 obstacle	장애(물)
 obstruct	방해하다
 obtain	얻다
+obtain	얻다, 획득하다
 obvious	명백한
 occasion	경우
 occasional	가끔의
+occident	서양
 occupancy	점유, 선점
 occupation	일직업
 occupy	차지하다
 occur	일어나다
+occur	발생하다
 ocean	대양
 odd	묘한
 of	출신의
@@ -2679,6 +2802,7 @@ old	늙은
 olive	올리브나무
 omission	생략
 omit	생략하다
+omit	누락하다, 빠뜨리다
 on	위에
 once	한번
 one	하나(의)
@@ -2692,7 +2816,8 @@ opponent	상대, 반대자
 opportune	시기가 좋은, 알맞은
 opportunity	기회
 oppose	반대하다
-opposite	정반대의 (것), 
+oppose	반대하다, 겨루다
+opposite	정반대의 (것),
 optimist	낙천가
 optimistic	낙관적인
 option	선택(권의 자유)
@@ -2777,10 +2902,13 @@ park	공원
 parliament	의회
 part	부분
 partial	부분적인
+partial	부분적인, 불완전한
 participant	참가자
 participate	참가하다
+participate	참여하다
 participation	참여, 참가, 가입
 particle	입자
+particle	극소량, 미량, 입자
 particular	특수한
 pass	지나가다
 passage	통행, 통과
@@ -2823,6 +2951,7 @@ people	사람들
 pepper	고추
 per	-에 의하여
 perceive	지각하다
+perceive	인식하다
 percentage	비율, 백분율
 perfect	완전한
 perform	다하다
@@ -2845,7 +2974,9 @@ personal	개인적인, 사적인
 personality	개성
 personnel	인원
 personnel	인사의, 직원의
+personnel	인원, 조직
 perspective	원근법의 원근 화법
+perspective	관점, 전망, 시각
 persuade	설득하다
 persuasive	설득력 있는
 pessimistic	비관적인
@@ -2913,7 +3044,7 @@ pond	못, 연못
 pool	판돈
 poor	가난한 부족한, 불충분한, 빈약한
 pop	팝
-pope	로마 교황  최고 권위자로 자처하는 사람
+pope	로마 교황 최고 권위자로 자처하는 사람
 popular	민중 의, 대중의
 popularity	인기, 대중성
 population	인구
@@ -2922,7 +3053,7 @@ port	항구, 항만, 상항
 portfolio	포트폴리오, 투자 자산 구성
 portion	일부, 부분
 portrait	초상
-pose	자세, 포즈  마음가짐  꾸민 태도
+pose	자세, 포즈 마음가짐 꾸민 태도
 position	위치
 positive	명확한, 의문의 여지가 없는, 부정할 수 없는
 possess	소유하다
@@ -2942,7 +3073,7 @@ powder	가루
 power	힘
 practicable	실행 가능한
 practical	실제의
-practical 	실제적인, 실용적인
+practical	실제적인, 실용적인
 practice	연습
 praise	칭찬
 pray	빌다
@@ -2962,25 +3093,31 @@ pregnant	임신한 충만한
 prejudice	편견, 선입관
 preliminary	예비의, 사전 준비
 premier	국무 총리, 수상
+premier	제일의, 최초의
+premise	전제, 근거
 premises	구내, 건물(내)
-premium	할증금,  액면 초과액, 프리미엄
+premium	할증금, 액면 초과액, 프리미엄
+premium	할증금, 수수료
 preparation	준비
 prepare	준비하 다, 마련하다, 채비를 갖추다
 prescribe	명령하다, 지령하다
-presence	존재, 현존, 실재  출석, 임석, 참석
+prescribe	처방하다
+prescription	처방(전)
+presence	존재, 현존, 실재 출석, 임석, 참석
 present	있는, 존재하는, 현재
 presentation	발표
 preserve	보호하다, 지키다
 preside	(회의의)사회를 보다, ~의 의장을 맡아보다
 president	대통령 회장
 press	강제로 모집하다
-pressure	압력, 
+pressure	압력,
 presume	가정하다
 pretend	핑계삼다
 pretty	예쁜, 귀여운, 참 한, 조촐한
 prevail	이기다, 극복하다, 압도하다 우세하다, 보급되다
 prevalent	유행하는, 널리 퍼진
 prevent	막다, 방해하다
+preview	시사회, 예고편
 previous	앞의, 이전의
 prey	먹이
 price	값, 가격, 대가, 정가
@@ -2992,7 +3129,9 @@ prime	수위의, 최초의, 원시적인
 primitive	원시의, 초기의
 prince	왕자, 태자, 세자, 대군
 principal	주요한, 주된, 제일의, 앞장서는
+principal	주요한, 교장
 principle	원리, 원칙, 법칙, 공리
+principle	원리, 원칙
 print	인쇄하다, 프린트하다
 prior	이전의, 앞의
 priority	우선순위
@@ -3003,6 +3142,7 @@ privilege	특권, 특전, 특별 취급
 prize	상, 포상, 우등상, 선행상
 probable	가능성 높은
 probably	아마, 십중팔구
+probe	탐사하다
 problem	문제
 procedure	진행, 경과 절차
 proceed	나아가다, 가다
@@ -3017,23 +3157,24 @@ professional	전문적인, 직업의, 전문가
 professor	교수
 proficiency	숙달, 능숙
 proficient	능숙한
-profile	옆 얼굴, 반면상 인물 소개  태도, 자세
+profile	옆 얼굴, 반면상 인물 소개 태도, 자세
 profit	이익, 이득, 벌이
 profound	깊은, 심원한
-progress	진행, 전진, 진척  진보, 향상, 발달, 발전
+progress	진행, 전진, 진척 진보, 향상, 발달, 발전
 prohibit	금하다, 금지하다
 projection	예상(치)
 prolong	늘리다, 연장하다
 prominent	두드러진, 돌기한, 양각된 현저한, 탁월한, 중요한
 prominet	두드러진
 promise	약속, 서약, 계약
+promise	약속하다, 기대하다
 promising	유망한
 promote	승진시키다 진행시키다,
 prompt	재빠른, 신속한, 즉시 …하는
 prone	~하기 쉬운, ~경향이 있는
 pronounce	발음하다, 음독하다
 proof	증명
-proper	고유의, 독특한, 본연의,  특유한
+proper	고유의, 독특한, 본연의, 특유한
 properly	제대로, 정확하게
 property	재산, 자산
 proportion	비율, 비 균형, 조화
@@ -3041,6 +3182,7 @@ proposal	제안, 계획
 propose	제의하다, 제출하다 추천하다, 지명하다
 prospect	전망, 조망, 경치
 prospective	장래의, 미래의
+prospective	가망성 있는
 prosper	번영하다
 prosperous	번영하는, 번창한
 protect	보호하다, 막다, 지키다, 비호하다
@@ -3048,12 +3190,15 @@ protection	보호
 protest	단언하다
 proud	뽐내는, 자랑하는 자긍하는, 영광 으로 여기는
 prove	시험하다, 실험하다, 경험하다, 시험해 보다
-provide	준비하다, 미리 …에 대비하다  규정하다
+prove	증명하다
+provide	준비하다, 미리 …에 대비하다 규정하다
 provider	공급자, 제공자
-province	주, 성, 도  범위, 영역, 분야
+province	주, 성, 도 범위, 영역, 분야
 provision	조항, 공급
 provoke	화나게 하다
 proximity	근접
+proximity	~에 가까움
+proxy	~의 대리인, 대리자격
 psychology	심리학
 pub	펍
 public	심리, 심리 상태
@@ -3063,21 +3208,22 @@ publish	발표 하다, 널리 알리다
 puddle	웅덩이
 pull	끌다, 당기다, 끌어 당기다, 잡아 끌다
 pulse	맥박
-pump	펌프스   댄스용 구두
-punch	주먹질, 펀치  힘, 활기
+pump	펌프스 댄스용 구두
+punch	주먹질, 펀치 힘, 활기
 punctual	시간을 지키는
 punish	벌하다, 응징하다, 처형하다
 pupil	흔히 국민학교 중학교 학생
 puppy	강아지
 purchase	사다, 구입하다
-pure	순수한  깨끗한, 순전한, 결백한
+pure	순수한 깨끗한, 순전한, 결백한
 purify	정화시키다
-purple	자줏빛의  새빨간  제왕의
+purple	자줏빛의 새빨간 제왕의
 purpose	목적
+purpose	목적, 용도
 pursue	쫓다, 추적하다, 몰다
 push	밀다, 밀치다, 밀어서 움직 이다, 밀어 내다
 put	놓다, 두다
-puzzle	당황, 혼란 괴롭히는 사람,  어려운 문제
+puzzle	당황, 혼란 괴롭히는 사람, 어려운 문제
 qualified	자격있는, 적격의
 qualify	자격을 부여하다
 quality	질
@@ -3117,6 +3263,7 @@ rating	등급, 평가
 rational	합리적인
 raw	날것의
 reach	도착하다
+reach	~에게 연락하다
 react	반응을 나타내다
 reaction	반응
 read	읽다
@@ -3131,6 +3278,7 @@ reap	수확하다
 rear	뒤
 reason	이성
 reasonable	합리적인
+rebate	환불, 할인
 rebel	반역자
 recall	되부르다
 receipt	수령
@@ -3148,6 +3296,7 @@ reconciliation	화해
 record	기록하다
 recover	되찾다
 recovery	회복, 쾌유
+recreate	재현하다, 기분을 전환 하다
 recruit	신병
 rectify	고치다, 바로잡다
 recur	재발하다
@@ -3156,13 +3305,17 @@ recycling	재활용
 red	붉은
 redeemable	(현금,상품과)교환할 수 있는, 환급할 수 있는
 reduce	줄이다
+reduce	줄이다, 감소시키다
 refer	조회시키다
+refer	인용하다, 참조하다
 referee	심판
 reference	추천서
 refine	정제정련하다
+refine	정제하다, 개선하다
 reflect	반사하다
 reflective	반영하는
 reform	개정(개혁)하다
+reform	개혁하다, 개선하다
 refrain	자제하다, 삼가다
 refreshments	다과, 가벼운 음식물
 refrigerator	냉장고
@@ -3175,6 +3328,8 @@ regardless	관계없이
 region	지방
 register	기록
 regret	유감
+regretful	~을 유감으로 생각하는
+regrettable	사물이 유감스러운
 regular	규칙적인
 regulate	규정하다
 regulation	규정
@@ -3189,11 +3344,15 @@ relation	관계
 relative	친척
 relatively	상대적으로
 relax	늦추다
+relax	쉬다
+relay	중계하다
 release	도와주다
 relevant	관련된
 reliability	신뢰도, 믿음직함
 reliable	믿을 만한, 신뢰할 수 있는
+reliable	믿을 수 있는
 reliant	의존하는, 의지하는
+reliant	의존(의지)하는
 relieve	구출하다
 religion	종교
 relocate	(공장 등을)이전하다
@@ -3213,8 +3372,10 @@ remote	먼
 remove	옮기다
 renew	갱신하다
 renewal	재개발
+renounce	그만두다
 renovate	"(낡은 건물, 가구등을)개조하다,
-수리하다, 보수하다"
+ 수리하다, 보수하다"
+renovate	개조하다
 renovation	수리, 개조
 renowned	저명한, 유명한, 명성이 있는
 rent	지대
@@ -3272,6 +3433,7 @@ result	결과
 resume	다시 잡다
 retail	소매
 retain	보유하다
+retain	유지하다, 보유하다
 retire	퇴직하다
 retreat	후퇴
 retrieve	회수하다
@@ -3282,6 +3444,7 @@ revenge	복수
 revenue	수입
 reverse	역
 review	재조사
+review	검토, 논평
 revise	교정하다
 revised	수정된, 변경된
 revision	수정, 개정
@@ -3292,6 +3455,7 @@ reward	보수
 rhythm	율동
 rice	쌀
 rich	부자인
+rich	부유한
 rid	면하게하다
 riddle	수수께끼
 ride	타다
@@ -3300,7 +3464,7 @@ ridiculous	어리석은
 right	올바른
 rigorous	엄격한, 혹독한
 ring	고리
-riot	폭동, 소요, 소동   야단법석, 다채로움,
+riot	폭동, 소요, 소동 야단법석, 다채로움,
 ripe	익은
 rise	올리다
 risk	위험 걸다
@@ -3351,7 +3515,7 @@ salt	소금
 salvation	구원,구제
 same	같은
 sample	"견본, 샘플, 표본
-시식하다, (견본으로 질을)시험하다"
+ 시식하다, (견본으로 질을)시험하다"
 sand	모래사장
 satellite	위성
 satisfaction	만족
@@ -3368,6 +3532,7 @@ scarcely	거의 ~않다.
 scarcely	거의~않다
 scare	위협하다
 scatter	뿔뿔이 흩어 버리다
+scatter	뿌리다
 scene	장면
 scenery	경치
 scent	향기
@@ -3383,7 +3548,7 @@ scoop	퍼내다, 국자
 scope	범위
 score	득점
 scramble	기다
-scratch	할퀴다, 할퀴어 상처 를 내다  긁다
+scratch	할퀴다, 할퀴어 상처 를 내다 긁다
 scream	비명을 지르다
 screen	병풍
 screw	나사
@@ -3404,6 +3569,7 @@ sector	부채꼴
 secure	안전한
 securely	(매듭 등이)단단하게, 튼튼하게
 security	보안, 안전, 보호
+seduce	유혹하다, 꾀다
 see	보다
 seed	씨앗
 seek	찾다
@@ -3422,7 +3588,7 @@ senior	연상의
 sensation	감각
 sense	감각
 sensible	분별있는
-sensible 	분별 있는, 현명한
+sensible	분별 있는, 현명한
 sensitive	민감한
 sensitive	섬세한, 민감한
 sentence	문장
@@ -3435,6 +3601,7 @@ sermon	설교
 serve	섬기다
 session	개회
 settle	등받이가 높은 긴 의자 놓다
+settle	해결하다
 several	수개의
 severe	호된, 극심한
 severely	엄격하게, 심하게
@@ -3484,6 +3651,7 @@ shrink	줄어들다
 shrub	관목
 shrug	어깨를 어쓱하다
 shut	닫다
+shuttle	정기 왕복 항공기
 shy	수줍은
 sick	병난
 side	쪽
@@ -3570,7 +3738,7 @@ solution	해법,해답,용액
 solve	해결하다
 some	얼만가의
 somehow	어떻게 해서든지,
-sometime 	언젠가
+sometime	언젠가
 sometimes	때때로
 somewhat	약간
 son	아들
@@ -3602,7 +3770,9 @@ spear	창
 special	특별한
 specialize	전공하다
 species	종
+species	종, 종류
 specific	특정한, 명확한
+specific	구체적인, 명확한
 specification	명세서, 설명서, 사양
 specify	명시하다
 spectacle	광경
@@ -3656,7 +3826,9 @@ stationery	문구류
 statistic	통계의 통계량
 statistics	통계(학)
 statue	조상
+statue	조각상
 status	신분
+status	신분, 상황
 stay	머무르다
 steadily	착실하게; 꾸준히
 steady	확고한
@@ -3723,8 +3895,10 @@ subscribe	서명하다, 구독하다
 subscriber	가입자, 구독자
 subscription	정기구독(료)
 subsequent	다음의, 그후의
+subsist	존속하다, 유효하다
 substance	물질
 substantial	실체의, 상당한
+substitue	대체하다
 substitute	대용하다 대신하다 대리(인)
 subtle	미묘한
 suburb	교외
@@ -3763,6 +3937,7 @@ supplement	부록
 supply	공급하다
 support	지탱하다
 suppose	상상하다
+suppose	가정하다, 추측하다
 supreme	최고의
 sure	확신하는, 확실한 , 틀림없는
 surface	표면
@@ -3855,6 +4030,7 @@ than	-보다도
 thank	감사하다 감사
 that	저
 theater	극장
+their	그들의
 theme	논제
 then	그때
 theory	이론
@@ -3980,7 +4156,7 @@ trophy	전리품
 tropical	열대의
 trouble	고생
 trouser	즈봉
-true	진실
+TRUE	진실
 trunk	줄기
 trust	신용
 truth	진리
@@ -4038,8 +4214,10 @@ until	-까지
 up	위로
 upcoming	곧 있을, 다가오는
 update	새롭게 하다 최신정보
+update	갱신하다
 upgrade	"업그레이드, 개량형
-업그레이드하다, 개선하다"
+ 업그레이드하다, 개선하다"
+upgrade	개선하다
 upkeep	양육, 유지
 upon	-의 위에
 upper	위쪽의
@@ -4067,7 +4245,7 @@ valid	유효한
 valley	골짜기
 valuable	값비싼
 value	가치
-valueable 	가치있는
+valueable	가치있는
 valueless	무가치한
 van	유개트럭
 vanish	자취를 감추다
@@ -4076,16 +4254,16 @@ variety	다양성
 various	가지가지의
 vary	바꾸다
 vast	광대한, 광막한 막대한
-vegetable	식물  야채, 푸성귀, 남새, 채소
+vegetable	식물 야채, 푸성귀, 남새, 채소
 vegetarian	채식주의자
-vehicle	운반 기구, 운송 수단,  수레, 차량, 탈것
+vehicle	운반 기구, 운송 수단, 수레, 차량, 탈것
 vendor	노점상, 가판대; 판매업체
 venture	모험
 verbal	말의, 말에 관한, 언어상의, 말로 나타낸, 말로 된
 verbalize	말로 나타내다
 verify	확인하다
 versatile	다용도의
-verse	시의 한 줄, 시구  일련의 시구
+verse	시의 한 줄, 시구 일련의 시구
 version	번역, 번역문 개작, 각색, 번안
 versus	…대, …에 대한
 vertical	수평면에 직각인, 수직의
@@ -4094,10 +4272,10 @@ vessel	그릇
 veteran	노련가, 경험 많은 대가, 베테랑
 veterinarian	수의사
 via	…을 거쳐, …을 경유하여
-vice	악덕,  비행, 타락 행위
+vice	악덕, 비행, 타락 행위
 victim	희생, 산 제물, 인신 제물
 victory	승리, 전승
-view	봄, 관찰, 개관, 실지 검증  보는 힘, 시계, 시야
+view	봄, 관찰, 개관, 실지 검증 보는 힘, 시계, 시야
 viewpoint	관점
 vigorous	정력적인, 강건한, 활기 있는, 격렬한
 village	마을, 촌락
@@ -4105,19 +4283,19 @@ violate	위반하다
 violence	폭력
 violent	격렬한, 맹렬한
 virgin	처녀, 동정녀, 미혼 여성, 동정녀 마리아
-virtual	사실상의, 실질상의, 실제의  허상의
+virtual	사실상의, 실질상의, 실제의 허상의
 virtue	덕, 덕행, 선, 선행
-visible	눈에 보이는,  볼 수 있는
+visible	눈에 보이는, 볼 수 있는
 visit	방문하다, …의 손님으로 묵다
 visual	시각의, 물건을 보기 위한
 vital	생명의, 생명에 관한, 생명유지에 필요한, 살아 있는
 vivid	발랄한, 약동적인, 힘찬, 생기있는
 vocabulary	어휘, 용어수, 용어 범위
 vocal	목소리
-vocation	천직, 사명 직업, 생업, 장사  적성, 소질, 재능
+vocation	천직, 사명 직업, 생업, 장사 적성, 소질, 재능
 voice	목소리, 음성, 음성
 volcano	화산
-volume	책  권
+volume	책 권
 voluntary	자발적인, 수의의
 vomit	토하다
 vote	찬부 표시, 투표, 표결
