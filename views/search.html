@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Resume - Start Bootstrap Theme</title>
+    <title>Vovavoca-Search</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -27,7 +27,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Clarence Taylor</span>
+        <span class="d-block d-lg-none"></span>
         <span class="d-none d-lg-block">
           VOVAVOCA
       </span>
@@ -59,10 +59,10 @@
             <div class='resume-item d-flex flex-column flex-md-row justify-content-between mb-0'>
                 <div class='resume-content'>
                     <br><br>
-                    <form action='/clustering' method='post' class='form-inline' id="form_ID">
+                    <form action='/clustering' method='post' class='form-inline' name="myForm">
                         <label class='field a-field a-field_a1'>
                             <!--<input style="border:solid; border-color: #00142E; &#45;&#45;uiFieldPlaceholderColor:#EAD6BD " class='field__input a-field__input' type='search' id='input' name='input' placeholder='word' aria-label='Search'>-->
-                            <div class="container">
+<!--                            <div class="container">-->
                                 <form>
                                     <div class="group">
                                         <input type="text" id="input" name="input" required>
@@ -71,15 +71,14 @@
                                         <label id="inputLabel">Word</label>
                                     </div>
                                 </form>
+<!--                            </div>-->
+<!--                            <span class='a-field__label-wrap'>-->
 
-                            </div>
-                            <span class='a-field__label-wrap'>
-
-                            </span>
+<!--                            </span>-->
                             &nbsp;
                             <div class="button-7">
-                                <div class="eff-7"></div>
-                                <a href="" onclick=""> 7 </a>
+                                <div class="eff-7" onclick="javascript:document.myForm.submit()"></div>
+                                <a style="font-size: 10px;"  href="#" onclick="javascript:document.myForm.submit()">Search</a>
                             </div>
 <!--                            <button class='snip1535' type='submit'>Search</button>-->
                         </label>

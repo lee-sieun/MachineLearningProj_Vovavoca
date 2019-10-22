@@ -12,9 +12,9 @@ let metaphone = require('../src/metaphone');
 
 
 
-// var meanArr= new Array();
-// var wordArr= new Array();
-// var strstr= new Array();
+var meanArr= new Array();
+var wordArr= new Array();
+var strstr= new Array();
 
 // Main Page
 router.get('/', (req, res) => {
@@ -54,7 +54,7 @@ router.post('/clustering',(req,res, err) => {
 
 // 주소창에 localhost:5000/setdataset 이라고 치면 데이터 자동으로 들어감
 router.get('/setdataset', (req, res) => {
-    fs.readFile('dataset/dataset_3.txt','utf-8', function(err, data){
+    fs.readFile('dataset/dataset_5.txt','utf-8', function(err, data){
         str=data.split('\n');
 
         for(var i =0; i< str.length; i++){
