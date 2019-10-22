@@ -67,14 +67,14 @@
                     <br><br>
                     <form action='/clustering' method='post' class='form-inline' name="myForm">
                         <label class='field a-field a-field_a1'>
-                                <form>
-                                    <div class="group">
-                                        <input type="text" id="input" name="input" required>
-                                        <span class="highlight"></span>
-                                        <span class="bar"></span>
-                                        <label id="inputLabel">Word</label>
-                                    </div>
-                                </form>
+                            <form>
+                                <div class="group">
+                                    <input type="text" id="input" name="input" required>
+                                    <span class="highlight"></span>
+                                    <span class="bar"></span>
+                                    <label id="inputLabel">Word</label>
+                                </div>
+                            </form>
                             &nbsp;
                             <div class="button-7">
                                 <div class="eff-7" onclick="javascript:document.myForm.submit()"></div>
@@ -84,22 +84,18 @@
                     </form>
                 </div>
             </div>
-                <div>
-                    <b>N_gram</b>
-                    <ul id="tb1" class="list-group list-group-horizontal"></ul>
-                </div>
-                <div>
-                    <b>soundex</b>
-                    <ul id="tb2" class="list-group list-group-horizontal"></ul>
-                </div>
-                <div>
-                    <b>metadex</b>
-                    <ul id="tb3" class="list-group list-group-horizontal"></ul>
-                </div>
-                <div>
-                    <b>hybrid</b>
-                    <ul id="tb4" class="list-group list-group-horizontal"></ul>
-                </div>
+            <table id="result_tb">
+                <thead>
+                <tr id="N_gram">
+                </tr>
+                <tr id="Soundex">
+                </tr>
+                <tr id="Metadex">
+                </tr>
+                <tr id="Hybrid">
+                </tr>
+                </thead>
+            </table>
         </div>
     </section>
 </div>
@@ -114,47 +110,51 @@
     if (Ngram != "") {
         console.log('!!!!!')
         var outputArray = Ngram.split(',')
-        var str = ""
+        var str = "<th class='all_th'>"+"N_gram"+"</th>"
         let num = 0;
         for (let i in outputArray) {
             num++;
-            str = str + "<li class='list-group-item'>" + num + ". " + outputArray[i] + "</li>"
+            str = str + "<td class='normalTd'>" + num + ". " + outputArray[i] + "</td>"
         }
-        $('#tb1').html(str)
+        $('#N_gram').html(str)
         $('#input').val(input)
     }
     if (soundex != "") {
         var outputArray = soundex.split(',')
-        var str = ""
+        var str = "<th class='all_th'>"+"Soundex"+"</th>"
         let num = 0;
         for (let i in outputArray) {
             num++;
-            str = str + "<li class='list-group-item'>" + num + ". " + outputArray[i] + "</li>"
+            if(i==10)
+                break;
+            str = str + "<td class='normalTd'>" + num + ". " + outputArray[i] + "</td>"
         }
-        $('#tb2').html(str)
+        $('#Soundex').html(str)
         $('#input').val(input)
     }
     if (metadex != "") {
         var outputArray = metadex.split(',')
-        var str = ""
+        var str = "<th class='all_th'>"+"Metadex"+"</th>"
         let num = 0;
         for (let i in outputArray) {
             num++;
-            str = str + "<li class='list-group-item'>" + num + ". " + outputArray[i] + "</li>"
+            if(i==10)
+                break;
+            str = str + "<td class='normalTd'>" + num + ". " + outputArray[i] + "</td>"
         }
-        $('#tb3').html(str)
+        $('#Metadex').html(str)
         console.log(str);
         $('#input').val(input)
     }
     if (hybrid != "") {
         var outputArray = hybrid.split(',')
-        var str = ""
+        var str = "<th class='all_th'>"+"Hybrid"+"</th>"
         let num = 0;
         for (let i in outputArray) {
             num++;
-            str = str + "<li class='list-group-item'>" + num + ". " + outputArray[i] + "</li>"
+            str = str + "<td class='normalTd'>" + num + ". " + outputArray[i] + "</td>"
         }
-        $('#tb4').html(str)
+        $('#Hybrid').html(str)
         $('#input').val(input)
     }
 </script>
