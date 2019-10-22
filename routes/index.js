@@ -51,6 +51,7 @@ router.post('/clustering',(req,res, err) => {
             let outSoundex = soundex.SVC(input,voca)
             let outMetadex = metadex.SVC(input, voca)
             let outHybrid = hybird.SVC(input,voca,10)
+
             res.render('../views/search.html',{input : input ,Ngram : outNgram, hybrid : outHybrid, soundex : outSoundex, metadex : outMetadex });
         })
 })
