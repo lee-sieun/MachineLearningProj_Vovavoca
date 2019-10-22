@@ -32,11 +32,11 @@ router.get('/question', (req, res) => {
     res.render('../views/question.html');
 });
 
-router.post('/setquestion', (req, res) => {
-    let content =req.body.content;
-    res.render('../views/setQuestion.html',{content : content});
-    console.log(content)
-});
+// router.post('/setquestion', (req, res) => {
+//     let content =req.body.content;
+//     res.render('../views/setQuestion.html',{content : content});
+//     console.log(content)
+// });
 
 router.post('/testing',(req,res, err) => {
     let input = []

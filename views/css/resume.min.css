@@ -573,7 +573,7 @@ input:focus ~ .highlight {
     position:relative;
     box-sizing:border-box;
     overflow:hidden;
-    margin:0 0 30px 10px;
+    margin:0 0 20px 30px;
 }
 .button-7 a{
     font-family:arial;
@@ -583,11 +583,11 @@ input:focus ~ .highlight {
     /*line-height:50px;*/
     transition:all .5s ease;
     z-index:2;
-    position:center;
+    position:relative;
 }
 .eff-7{
-    width:140px;
-    height:50px;
+    width:50px;
+    height:30px;
     border:0px solid #34495e;
     position:absolute;
     transition:all .5s ease;

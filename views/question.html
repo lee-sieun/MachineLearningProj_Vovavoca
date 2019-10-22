@@ -30,9 +30,15 @@
     <link href="css/resume.min.css" rel="stylesheet">
 
 </head>
-
+<style>
+    .li-paddinghide{
+        padding-left: 0px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-right: 0px;
+    }
+</style>
 <body id="page-top">
-
 <nav style="background-color: #10184b !important;" class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span style="font-weight: 800; font-size: 2.3rem;" class="d-block d-lg-none">VOVA VOCA</span>
@@ -65,42 +71,67 @@
             <h2 class='mb-0'>Set Question</h2><br><br>
             <div class='resume-item d-flex flex-column flex-md-row justify-content-between mb-0'>
                 <div class='resume-content'>
-                    <button id="reinput" style="display: none;">새로입력</button>
+                    <div>
+                        <button id="reinput" style="display: none;" class="btn btn-outline-dark">새로입력</button>
+                    </div>
                     <form class='form-inline' id="form" method="post">
                         <label class='field a-field a-field_a1'>
                             <div class="input-group">
                                 <textarea style="width: 320px; height: 240px;" name="content" id="content" class="form-control" aria-label="With textarea"></textarea>
                                 <div class="input-group-prepend">
-                                    <button type="button" class='snip1535' id="submit" >Set</button>
+                                    <button type="button" id="submit" class="btn btn-outline-dark">Set</button>
                                 </div>
                             </div>
                         </label>
                     </form>
-                    <table></table>
+                    <br><br>
+                    <div id="tb"></div>
+                    <div id="question"></div>
                 </div>
             </div>
         </div>
     </section>
 </div>
 <script>
+    $('#reinput').on("click", function () {
+        $('#content').val("")
+        $('#form').show()
+        $('#reinput').hide()
+        $('#tb').html("")
+        $('#tb').hide()
+        $('#problem').html("")
+        $('#problem').hide()
+    })
+
     $('#submit').on("click", function(){
         let content = $('#content').val();
         console.log(content)
         if(content==""){
             alert("내용을 입력해주세요.")
         }else{
-        $.ajax({
-            type: "POST",
-            url: "/setquestion",
-            data: {content : content}
-        }).done( result => {
+        // $.ajax({
+        //     type: "POST",
+        //     url: "/setquestion",
+        //     data: {content : content}
+        // }).done( result => {})
             $('#form').hide()
             $('#reinput').show()
-        })
+            $('#tb').show()
+            let word = content.split(' ');
+            let str = "<ul class='list-group list-group-horizontal'>";
+            let n = 0;
+            for(let i in word){
+                if(word[i]!="")
+                    str = str + "<li class='list-group-item li-paddinghide' ><button class='btn btn-outline-secondary' onclick='makequetion("+i+")' style='border: none;' id='word'"+i+"'>"+word[i]+"</button></li>";
+                if(i%8==7){
+                    str = str +"</ul><ul class='list-group list-group-horizontal'>";
+                }
+            }
+            str +="</ul>";
+            console.log(str);
+            $('#tb').html(str);
         }
     })
 </script>
-
 </body>
-
 </html>
