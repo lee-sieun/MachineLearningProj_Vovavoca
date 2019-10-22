@@ -72,7 +72,7 @@
             <div class='resume-item d-flex flex-column flex-md-row justify-content-between mb-0'>
                 <div class='resume-content'>
                     <div>
-                        <button id="reinput" style="display: none;" class="btn btn-outline-dark">새로입력</button>
+                        <button id="reinput" style="display: none;" class="btn btn-outline-dark">새 문제</button>
                     </div>
                     <form class='form-inline' id="form" method="post">
                         <label class='field a-field a-field_a1'>
@@ -84,15 +84,28 @@
                             </div>
                         </label>
                     </form>
-                    <br><br>
+                    <br>
                     <div id="tb"></div>
-                    <div id="question"></div>
+                    <div class="container">
+                        <div class="row">
+                            <div style="color: black;" class="col-sm-12" id="question"></div>
+                            <br><br>
+                            <div style="display: flex;" class="col-sm-2" id="answer"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <span id="T" style="display: none" class="badge badge-pill badge-success">정답</span>
+                        <span id="F"  style="display: none" class="badge badge-pill badge-danger">오답</span>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 </div>
 <script>
+    let content = ""
+    let solution = 0;
+
     $('#reinput').on("click", function () {
         $('#content').val("")
         $('#form').show()
@@ -104,34 +117,75 @@
     })
 
     $('#submit').on("click", function(){
-        let content = $('#content').val();
-        console.log(content)
+        content = $('#content').val();
         if(content==""){
             alert("내용을 입력해주세요.")
         }else{
-        // $.ajax({
-        //     type: "POST",
-        //     url: "/setquestion",
-        //     data: {content : content}
-        // }).done( result => {})
             $('#form').hide()
             $('#reinput').show()
             $('#tb').show()
             let word = content.split(' ');
             let str = "<ul class='list-group list-group-horizontal'>";
-            let n = 0;
             for(let i in word){
                 if(word[i]!="")
-                    str = str + "<li class='list-group-item li-paddinghide' ><button class='btn btn-outline-secondary' onclick='makequetion("+i+")' style='border: none;' id='word'"+i+"'>"+word[i]+"</button></li>";
-                if(i%8==7){
+                    str = str + "<li class='list-group-item li-paddinghide' ><button class='btn btn-outline-secondary' onclick='makequestion("+i+")' style='border: none;' id='word'"+i+"'>"+word[i]+"</button></li>";
+                if(i%10==9){
                     str = str +"</ul><ul class='list-group list-group-horizontal'>";
                 }
             }
             str +="</ul>";
-            console.log(str);
             $('#tb').html(str);
         }
     })
+    function checkanswer(i) {
+        if(i==solution){
+            $('#T').show()
+            $('#F').hide()
+            $('#tb').show()
+        }else{
+            $('#T').hide()
+            $('#F').show()
+        }
+    }
+    function makequestion(i) {
+        $('#tb').hide()
+        $('#T').hide()
+        $('#F').hide()
+        let word = content.split(' ');
+        let question="다음 보기 중 빈칸에 들어갈 단어로 가장적절한 단어를 고르시오. <br><br>"
+        let input;
+        for(n in word){
+            if(n == i){
+                input = word[n];
+                question += "&nbsp;<a style='text-decoration-line: underline;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;";
+            }else {
+                question += word[n] + " ";
+            }
+        }
+        question += "<br><br>"
+        $.ajax({
+            type: "POST",
+            url: "/setquestion",
+            data: {input : input}
+        }).done( result => {
+            console.log(result)
+            let answer =""
+            solution = Math.floor(Math.random() * 5);
+            let n=0;
+            let k=0;
+            for(let i=0; i<5; i++) {
+                n++;
+                if(i == solution){
+                    answer = answer + "<button class='btn btn-outline-dark' onclick='checkanswer(" + i + ")' id='answer'" + i + "'>" +n+". " +input + "</button>";
+                }else {
+                    answer = answer + "<button class='btn btn-outline-dark' onclick='checkanswer(" + i + ")' id='answer'" + i + "'>" +n+". " + result[k] + "</button>";
+                    k++;
+                }
+            }
+            $('#question').html(question);
+            $('#answer').html(answer)
+        })
+    }
 </script>
 </body>
 </html>

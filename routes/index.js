@@ -32,11 +32,19 @@ router.get('/question', (req, res) => {
     res.render('../views/question.html');
 });
 
-// router.post('/setquestion', (req, res) => {
-//     let content =req.body.content;
-//     res.render('../views/setQuestion.html',{content : content});
-//     console.log(content)
-// });
+router.post('/setquestion', (req, res) => {
+    let input = req.body.input
+    console.log(input)
+    let voca = []
+    VOCA.find().select('voca -_id')
+        .then(vocaset =>{
+            for(i in vocaset) {
+                voca.push(vocaset[i].voca)
+            }
+            let outHybrid = hybird.SVC(input,voca,4)
+            res.send(outHybrid);
+        })
+});
 
 router.post('/testing',(req,res, err) => {
     let input = []
