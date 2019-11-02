@@ -18,6 +18,8 @@ Ngram.SVC = function (input, dataset, k) {
         output.push(sim_set[i].voca)
         result.push(sim_set[i])
     }
+    console.log("N-GRAM")
+    console.log("Input: "+ input)
     console.log(result)
     return output
 }
